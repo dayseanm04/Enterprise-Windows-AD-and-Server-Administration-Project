@@ -10,3 +10,4 @@ The infrastructure is built using industry-standard Microsoft technologies inclu
 - Active Directory Domain Services (AD DS)  
 - DNS and DHCP  
 - Group Policy Management  
+- Windows Server Security Features  
