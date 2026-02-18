@@ -34,6 +34,7 @@ Each department requires:
 - Secure access to shared resources  
 - Role-based permissions  
 - Centralized authentication  
+- Department-specific Group Policy settings  
 
 
 
