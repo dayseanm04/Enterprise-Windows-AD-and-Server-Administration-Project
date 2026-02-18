@@ -62,6 +62,16 @@ Each department requires:
 - Group Policy enforcement  
 - Department-specific configuration policies
 
+### ⚙️ Automation & Administration
+- PowerShell scripting for user creation and management  
+- Remote management tools  
+- Centralized server administration  
+
+
+
+
+
+
 
 
 
