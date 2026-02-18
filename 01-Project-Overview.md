@@ -19,7 +19,11 @@ The primary goal of this project is to demonstrate practical Windows Server admi
 
 ---
 
-## 🏢 Company Profile  
+## 🏢 Company  Overview  
+
+**Company Name:** Oak Town Corporate Services  
+
+Oak Town Corporate Services is a growing small-to-medium sized organization operating from a single building with two floors.
 
 The project simulates a growing small-to-medium business with five departments:
 
