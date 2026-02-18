@@ -37,6 +37,15 @@ Each department requires:
 - Department-specific Group Policy settings  
 - Data protection and backup solutions  
 
+---
+
+##  Infrastructure Goals 
+
+### 🔐 Centralized Identity Management
+- Domain-based authentication  
+- Organizational Unit (OU) structure by department  
+- Role-based security groups  
+
 
 
 
