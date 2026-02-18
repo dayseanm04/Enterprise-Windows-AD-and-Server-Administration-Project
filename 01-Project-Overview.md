@@ -51,5 +51,11 @@ Each department requires:
 - DHCP address management  
 - Structured IP addressing design 
 
+### 🛡 Security Implementation
+- Password policies and account lockout policies  
+- Windows Defender configuration  
+- Windows Firewall rule enforcement  
+- Role-Based Access Control (RBAC)
+
 
 
