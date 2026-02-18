@@ -88,9 +88,14 @@ This project demonstrates how Windows Server 2019 can:
 
 ---
 
+## 🖥 Technical Scope  
 
+This project focuses on:
 
+- On-premise Windows Server 2019   
+- Active Directory Domain environment  
+- Virtualized infrastructure using Hyper-V  
+- Enterprise administrative best practices  
+- Structured documentation and change management  
 
-
-
-
+Cloud integration may be considered for future.
