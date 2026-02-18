@@ -46,10 +46,17 @@ The environment will be deployed using Hyper-V virtualization.
 ### Virtual Infrastructure Design
 The project will include:
 
-1 Hyper-V VM for the Windows Server 2019
-1 Domain Controller (AD DS, DNS)
-1 DHCP Server
-10-20 Domain-joined Windows client machines
+- 1 Hyper-V VM for the Windows Server 2019
+- A Domain Controller (AD DS, DNS)
+- A DHCP Server
+- 10-20 Domain-joined Windows client machines
+
+
+Virtual networking will be configured using:
+- Hyper-V Virtual Switches (External / Internal as needed)
+- Proper IP addressing design
+- Logical network segmentation
+
 
 ##  Infrastructure Goals 
 
