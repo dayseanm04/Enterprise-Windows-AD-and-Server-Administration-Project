@@ -35,6 +35,7 @@ Each department requires:
 - Role-based permissions  
 - Centralized authentication  
 - Department-specific Group Policy settings  
+- Data protection and backup solutions  
 
 
 
