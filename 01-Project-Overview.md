@@ -41,18 +41,15 @@ Each department requires:
 ---
 
 ## Infrastructure Architecture
-
 The environment will be deployed using Hyper-V virtualization.
 
-🖥 Virtual Infrastructure Design
-
+### Virtual Infrastructure Design
 The project will include:
 
-1 Hyper-V Host (Windows Server 2019)
+1 Hyper-V VM for the Windows Server 2019
 1 Domain Controller (AD DS, DNS)
 1 DHCP Server
-1 File Server (optional but recommended)
-20 Domain-joined Windows client machines (simulated where possible)
+10-20 Domain-joined Windows client machines
 
 ##  Infrastructure Goals 
 
