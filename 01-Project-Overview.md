@@ -74,7 +74,19 @@ Each department requires:
 
 ---
 
+## 💼 Business Justification  
 
+As organizations grow, managing users and computers individually becomes inefficient and increases security risks.  
+
+This project demonstrates how Windows Server 2019 can:
+
+- Increase administrative efficiency  
+- Improve overall security posture  
+- Standardize user environments  
+- Reduce configuration errors  
+- Provide centralized control over enterprise resources  
+
+---
 
 
 
