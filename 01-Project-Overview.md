@@ -32,6 +32,7 @@ The project simulates a growing small-to-medium business with five departments:
 
 Each department requires:
 - Secure access to shared resources  
+- Role-based permissions  
 
 
 
