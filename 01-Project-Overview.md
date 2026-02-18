@@ -22,7 +22,13 @@ The primary goal of this project is to demonstrate practical Windows Server admi
 
 The project simulates a growing small-to-medium business with five departments:
 
-
+| Department | Number of Employees |
+|------------|--------------------|
+| Finance | 5 |
+| Human Resources (HR) | 5 |
+| Administration | 5 |
+| IT Department | 3 |
+| Customer Service | 2 |
 
 
 
