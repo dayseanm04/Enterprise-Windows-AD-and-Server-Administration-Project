@@ -14,6 +14,7 @@ The infrastructure is built using industry-standard Microsoft technologies inclu
 - Hyper-V Virtualization  
 - Backup and Recovery Solutions  
 
+The primary goal of this project is to demonstrate practical Windows Server administration skills and enterprise infrastructure design best practices.
 
 
 
