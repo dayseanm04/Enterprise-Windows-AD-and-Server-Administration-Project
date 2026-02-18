@@ -4,7 +4,7 @@
 
 In this project i will be designing, deploying, and administering a **centralized Windows Server 2019 enterprise infrastructure** using Microsoft **Hyper-V** to support a small-to-medium sized organization with approximately 20–25 Windows client computers.
 
-The environment simulates a real-world business where centralized identity management, secure network services, endpoint control, and administrative automation are required to efficiently manage users, devices, and company resources.
+The project simulates a real-world business where centralized identity management, secure network services, endpoint control, and administrative automation are required to efficiently manage users, devices, and company resources.
 
 The infrastructure is built using industry-standard Microsoft technologies including:
 - Hyper-V Virtualization
