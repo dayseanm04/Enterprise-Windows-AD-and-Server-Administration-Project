@@ -51,16 +51,14 @@ The project will include:
 - A DHCP Server
 - 10-20 Domain-joined Windows client machines
 
-
 Virtual networking will be configured using:
 - Hyper-V Virtual Switches (External / Internal as needed)
 - Proper IP addressing design
 - Logical network segmentation
 
-
 ##  Infrastructure Goals 
 
-### 🔐 Centralized Identity Management
+### 🔐 Centralized Identity & Access Management
 - Domain-based authentication  
 - Organizational Unit (OU) structure by department  
 - Role-based security groups  
