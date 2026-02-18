@@ -16,6 +16,11 @@ The infrastructure is built using industry-standard Microsoft technologies inclu
 
 The primary goal of this project is to demonstrate practical Windows Server administration skills and enterprise infrastructure design best practices.
 
+---
+
+## 🏢 Company Profile  
+
+The project simulates a growing small-to-medium business with five departments:
 
 
 
