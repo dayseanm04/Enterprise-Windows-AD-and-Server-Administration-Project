@@ -8,3 +8,4 @@ The environment simulates a real-world business where centralized identity manag
 
 The infrastructure is built using industry-standard Microsoft technologies including:
 - Active Directory Domain Services (AD DS)  
+- DNS and DHCP  
