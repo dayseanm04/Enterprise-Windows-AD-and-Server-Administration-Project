@@ -114,5 +114,3 @@ This project focuses on:
 - Virtualized infrastructure using Hyper-V  
 - Enterprise administrative best practices  
 - Structured documentation and change management  
-
-Cloud integration may be considered for future.
