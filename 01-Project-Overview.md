@@ -12,3 +12,14 @@ The infrastructure is built using industry-standard Microsoft technologies inclu
 - Group Policy Management  
 - Windows Server Security Features  
 - Hyper-V Virtualization  
+- PowerShell
+
+
+
+
+
+
+
+
+
+
