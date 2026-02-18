@@ -46,7 +46,10 @@ Each department requires:
 - Organizational Unit (OU) structure by department  
 - Role-based security groups  
 
-
+### 🌐 Core Network Services
+- Internal DNS name resolution  
+- DHCP address management  
+- Structured IP addressing design 
 
 
 
