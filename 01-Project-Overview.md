@@ -57,5 +57,12 @@ Each department requires:
 - Windows Firewall rule enforcement  
 - Role-Based Access Control (RBAC)
 
+### 💻 Endpoint Management
+- Domain-joined Windows client machines  
+- Group Policy enforcement  
+- Department-specific configuration policies
+
+
+
 
 
