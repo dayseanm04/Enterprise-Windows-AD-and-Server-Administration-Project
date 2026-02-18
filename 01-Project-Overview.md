@@ -30,6 +30,8 @@ The project simulates a growing small-to-medium business with five departments:
 | IT Department | 3 |
 | Customer Service | 2 |
 
+Each department requires:
+- Secure access to shared resources  
 
 
 
