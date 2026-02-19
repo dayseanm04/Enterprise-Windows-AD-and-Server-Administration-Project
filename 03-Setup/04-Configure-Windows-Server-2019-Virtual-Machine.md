@@ -86,7 +86,18 @@ Create and configure a Windows Server 2019 VM with:
 
 - Select: **Install an operating system from a bootable image file**
 - Browse to the Windows Server 2019 ISO located in: **``Desktop\Win-2019-SRV-ISO``**
+- Click **Next**
 
-<img width="707" height="326" alt="28" src="https://github.com/user-attachments/assets/b92aab7d-3cae-4f4e-9938-cc3b96120ef7" />
+<img width="707" height="326" alt="8" src="https://github.com/user-attachments/assets/b92aab7d-3cae-4f4e-9938-cc3b96120ef7" />
+
+###  Step 9 - Complete the Wizard  
+
+- Review configuration summary
+- Click **Finish**
+
+<img width="700" height="531" alt="29" src="https://github.com/user-attachments/assets/897427e7-1d49-4718-88c8-27ced7792129" />
+
+
+
 
 
