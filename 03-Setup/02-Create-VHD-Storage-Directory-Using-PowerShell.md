@@ -45,3 +45,9 @@ To confirm current directory (optional):
 dir
 ```
 
+###  Step 3 - Create the VHD Folder
+
+```powershell
+mkdir Win-2019-SRV-VHD
+```
+
