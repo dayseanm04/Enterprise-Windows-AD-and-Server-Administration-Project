@@ -36,12 +36,12 @@ Before enabling Hyper-V, ensure:
 2. Search for **Control Panel**
 3. Click **Open**
 
-<img width="785" height="259" alt="1" src="https://github.com/user-attachments/assets/15f224b1-26da-4fc1-b5e2-2df9410eab44" />
+<img width="795" height="359" alt="1" src="https://github.com/user-attachments/assets/26504029-a30a-4e68-97bc-7caec83e594b" />
 
 ###  Step 2 - Navigate to Programs  
 1. In Control Panel, click **Programs**
 
-<img width="750" height="349" alt="2" src="https://github.com/user-attachments/assets/cfbe2648-2f55-482d-b75c-ad4bd5e7fcab" />
+<img width="780" height="449" alt="2" src="https://github.com/user-attachments/assets/51eff0b2-48f4-4494-bed2-9288b5afc206" />
 
 ### Step 3 - Open Programs and Features  
 
