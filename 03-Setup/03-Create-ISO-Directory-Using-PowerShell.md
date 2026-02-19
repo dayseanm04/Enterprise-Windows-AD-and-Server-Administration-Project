@@ -40,4 +40,10 @@ Note: I didnt run Powershell as admin because my account is already an Admin Acc
 cd Desktop
 ```
 
+###  Step 3 - Create the ISO Folder
+
+```powershell
+mkdir Win-2019-SRV-ISO
+```
+
 
