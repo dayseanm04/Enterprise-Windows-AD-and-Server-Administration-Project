@@ -27,3 +27,8 @@ Before enabling Hyper-V, ensure:
 - Sufficient RAM (recommended 16GB+ for lab environments)  
 - Hardware virtualization support (Intel VT-x / AMD-V)
 
+---
+
+## Step-by-Step   
+
+### Step 1 - Open Control Panel  
