@@ -80,10 +80,10 @@ Formula used:
 
 ## 🗄 Server VLAN (Windows Server 2019 / Hyper-V)  
 - **VLAN ID:** 300  
-- **Subnet:** 10.10.10.0/29  
+- **Subnet:** 10.10.10.0/28  
 - **Network Address:** 10.10.10.0  
-- **Usable Range:** 10.10.10.1 – 10.10.10.5  
-- **Broadcast Address:** 10.10.10.6  
+- **Usable Range:** 10.10.10.1 – 10.10.10.14  
+- **Broadcast Address:** 10.10.10.15  
 
 # 🌐 VLSM Design Strategy  
 
