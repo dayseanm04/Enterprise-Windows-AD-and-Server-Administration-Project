@@ -39,12 +39,14 @@ Formula used:
 
 ## 🗂 Administration Department  
 - **VLAN ID:** 150  
-- **Subnet:** 192.168.1.16/28  
-- **Network Address:** 192.168.1.16  
-- **Usable Range:** 192.168.1.17 – 192.168.1.30  
-- **Broadcast Address:** 192.168.1.31  
+- **Subnet:** 192.168.1.32/27  
+- **Network Address:** 192.168.1.32  
+- **Usable Range:** 192.168.1.33 – 192.168.1.62  
+- **Broadcast Address:** 192.168.1.63  
+
 
 # 🥈 2nd Floor VLAN Design  
+
 
 ## 💰 Finance Department  
 - **VLAN ID:** 210  
