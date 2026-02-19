@@ -53,6 +53,7 @@ Create and configure a Windows Server 2019 VM with:
 - Choose **Generation 2**
 - Click **Next**
 
+<img width="701" height="314" alt="24" src="https://github.com/user-attachments/assets/49687ade-e664-4c11-8d14-0a0557e9b164" />
 
 
 
