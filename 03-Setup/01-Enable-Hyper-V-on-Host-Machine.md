@@ -82,3 +82,8 @@ The host machine is now prepared to:
 - Create and manage virtual machines
 - Configure virtual networking  
 - Deploy Windows Server 2019  
+
+---
+
+
+### ✅ Next Click [here for 02-Create-VHD-Storage-Directory-Using-PowerShell.md ](/03-Setup/02-Create-VHD-Storage-Directory-Using-PowerShell.md)
