@@ -52,6 +52,9 @@ dir
 mkdir Win-2019-SRV-ISO
 ```
 
+<img width="822" height="361" alt="13" src="https://github.com/user-attachments/assets/a1180e61-5ffb-4913-95c7-1042ae348661" />
+
+
 ### Step 4 – Verify the Folder was created
 
 ```powershell
