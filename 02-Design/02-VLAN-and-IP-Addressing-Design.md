@@ -15,3 +15,5 @@ The network is segmented by **department and floor**, using VLANs and **VLSM (/2
 The company operates in **one building with two floors**:
 - 1st Floor – HR and Administration  
 - 2nd Floor – Finance, Customer Service, and IT  
+
+Each department is assigned:
