@@ -24,3 +24,6 @@ Enable the Hyper-V feature on the Windows host machine so it can support:
 Before enabling Hyper-V, ensure:
 - Windows 10/11 Pro, Enterprise, or Education edition  
 - Virtualization enabled in BIOS/UEFI  
+- Sufficient RAM (recommended 16GB+ for lab environments)  
+- Hardware virtualization support (Intel VT-x / AMD-V)
+
