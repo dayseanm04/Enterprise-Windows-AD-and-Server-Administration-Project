@@ -61,3 +61,7 @@ Before enabling Hyper-V, ensure:
 
 <img width="717" height="436" alt="5" src="https://github.com/user-attachments/assets/c765a5ef-ad2b-402a-9bb1-a74897abff59" />
 
+###  Step 6 - Restart the Computer
+After enabling Hyper-V:
+1. Restart the system when prompted
+
