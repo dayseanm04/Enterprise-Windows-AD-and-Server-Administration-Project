@@ -50,10 +50,11 @@ Formula used:
 
 ## 💰 Finance Department  
 - **VLAN ID:** 210  
-- **Subnet:** 192.168.2.0/28  
+- **Subnet:** 192.168.2.0/27  
 - **Network Address:** 192.168.2.0  
-- **Usable Range:** 192.168.2.1 – 192.168.2.14  
-- **Broadcast Address:** 192.168.2.15  
+- **Usable Range:** 192.168.2.1 – 192.168.2.30  
+- **Broadcast Address:** 192.168.2.31   
+
 
 ## 📞 Customer Service Department  
 - **VLAN ID:** 220  
