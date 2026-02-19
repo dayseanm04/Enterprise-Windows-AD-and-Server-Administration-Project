@@ -61,6 +61,10 @@ mkdir Win-2019-SRV-ISO
 dir
 ```
 
+<img width="990" height="211" alt="1" src="https://github.com/user-attachments/assets/32e688bc-bf89-4ab3-a39b-d2c18e28b5cd" />
+<img width="987" height="80" alt="2" src="https://github.com/user-attachments/assets/af4e9545-8957-4419-afe3-970fbf4006de" />
+
+
 Open File Explorer then Navigate to **Desktop**
 
 <img width="766" height="195" alt="14" src="https://github.com/user-attachments/assets/8433da69-0b68-4c69-8bac-6949a70d702e" />
