@@ -21,3 +21,7 @@ Each department is assigned:
 - A dedicated VLAN  
 - A /28 subnet  
 - 14 usable host addresses 
+
+Formula used:
+- 2^4 = 16 addresses
+- 16 - 2 (Network & Broadcast) = 14 usable hosts
