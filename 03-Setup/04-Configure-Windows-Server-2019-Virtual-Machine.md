@@ -62,6 +62,18 @@ Create and configure a Windows Server 2019 VM with:
 
 <img width="702" height="310" alt="5" src="https://github.com/user-attachments/assets/3a68723c-8754-46d4-8700-07ed868ab2cb" />
 
+> My host machine has 16 GB RAM.
+
+###  Step 6 - Configure Networking  
+- Select **Default Switch**
+- Click **Next**
+
+> Note: I will configure a dedicated virtual switch later in the project.
+
+<img width="709" height="301" alt="26" src="https://github.com/user-attachments/assets/1fe51889-486a-459d-ac7d-89f048dd7fe1" />
+
+
+
 
 
 
