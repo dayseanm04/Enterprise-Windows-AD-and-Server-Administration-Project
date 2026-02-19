@@ -17,3 +17,7 @@ The company operates in **one building with two floors**:
 - 2nd Floor – Finance, Customer Service, and IT  
 
 Each department is assigned:
+
+- A dedicated VLAN  
+- A /28 subnet  
+- 14 usable host addresses 
