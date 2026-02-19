@@ -58,10 +58,10 @@ Formula used:
 
 ## 📞 Customer Service Department  
 - **VLAN ID:** 220  
-- **Subnet:** 192.168.2.16/28  
-- **Network Address:** 192.168.2.16  
-- **Usable Range:** 192.168.2.17 – 192.168.2.30  
-- **Broadcast Address:** 192.168.2.31  
+- **Subnet:** 192.168.2.32/27  
+- **Network Address:** 192.168.2.32  
+- **Usable Range:** 192.168.2.33 – 192.168.2.62  
+- **Broadcast Address:** 192.168.2.63  
 
 ## 🖥 IT Department  
 - **VLAN ID:** 250  
