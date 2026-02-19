@@ -61,4 +61,9 @@ Formula used:
 - **Usable Range:** 192.168.2.17 – 192.168.2.30  
 - **Broadcast Address:** 192.168.2.31  
 
-
+## 🖥 IT Department  
+- **VLAN ID:** 250  
+- **Subnet:** 192.168.2.32/28  
+- **Network Address:** 192.168.2.32  
+- **Usable Range:** 192.168.2.33 – 192.168.2.46  
+- **Broadcast Address:** 192.168.2.47  
