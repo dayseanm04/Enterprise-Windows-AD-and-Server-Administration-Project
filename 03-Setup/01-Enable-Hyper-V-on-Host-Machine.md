@@ -85,5 +85,4 @@ The host machine is now prepared to:
 
 ---
 
-
 ### ✅ Next Click [here for 02-Create-VHD-Storage-Directory-Using-PowerShell.md ](/03-Setup/02-Create-VHD-Storage-Directory-Using-PowerShell.md)
