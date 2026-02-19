@@ -6,3 +6,7 @@ In this step, I will configure a new Virtual Machine for the **Windows Server 20
 
 This VM will serve as the foundation for:
 - Active Directory Domain Services (AD DS)
+
+---
+
+##  Objective  
