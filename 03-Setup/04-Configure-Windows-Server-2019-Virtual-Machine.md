@@ -13,3 +13,5 @@ This VM will serve as the foundation for:
 
 Create and configure a Windows Server 2019 VM with:
 - Generation 2
+- 6 GB RAM (Dynamic Memory enabled)
+- 100 GB virtual hard disk
