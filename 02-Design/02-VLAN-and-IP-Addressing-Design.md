@@ -76,5 +76,11 @@ Each department receives a /28 subnet, which provides:
 - 14 usable IP addresses  
 - Logical separation  
 
+### This VLAN and IP addressing design ensures:
+
+- Network segmentation by Department and Floor
+
+
+
 
 
