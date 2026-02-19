@@ -13,4 +13,6 @@ I will use Hyper-V will to deploy and manage the virtual machines required for t
 ##  Objective  
 
 Enable the Hyper-V feature on the Windows host machine so it can support:
+- Virtual machine creation
+- Virtual networking (virtual Switch)
 
