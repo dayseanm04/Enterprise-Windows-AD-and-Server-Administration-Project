@@ -16,6 +16,7 @@ The company operates in **one building with two floors**:
 - 1st Floor – HR and Administration  
 - 2nd Floor – Finance, Customer Service, and IT  
 - 🖥 Server Segment – Windows Server 2019 (Hyper-V)  
+- 🛠 Management Segment – Admin / IT management access  
 
 Each department is assigned:
 
