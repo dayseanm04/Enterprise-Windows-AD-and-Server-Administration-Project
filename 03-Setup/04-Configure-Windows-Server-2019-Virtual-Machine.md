@@ -97,7 +97,16 @@ Create and configure a Windows Server 2019 VM with:
 
 <img width="700" height="531" alt="29" src="https://github.com/user-attachments/assets/897427e7-1d49-4718-88c8-27ced7792129" />
 
+##  Verification  
 
+After completion:
+
+1. Confirm the VM appears in **Hyper-V Manager**
+2. Verify:
+ - The VM has been created
+ - The status is  Off
+
+<img width="639" height="290" alt="30" src="https://github.com/user-attachments/assets/213aee91-37cb-4277-a703-02fc73f532f7" />
 
 
 
