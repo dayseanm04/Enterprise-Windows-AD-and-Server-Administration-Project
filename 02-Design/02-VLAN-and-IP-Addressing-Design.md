@@ -15,6 +15,7 @@ The network is segmented by **department and floor**, using VLANs and **VLSM (/2
 The company operates in **one building with two floors**:
 - 1st Floor – HR and Administration  
 - 2nd Floor – Finance, Customer Service, and IT  
+- 🖥 Server Segment – Windows Server 2019 (Hyper-V)  
 
 Each department is assigned:
 
