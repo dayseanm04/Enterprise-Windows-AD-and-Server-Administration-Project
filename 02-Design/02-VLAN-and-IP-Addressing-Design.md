@@ -1,4 +1,4 @@
-# 02 – VLAN and IP Addressing Design  
+# 02 - VLAN and IP Addressing Design  
 
 ## 📌 Overview  
 
@@ -44,7 +44,6 @@ Formula used:
 - **Usable Range:** 192.168.1.17 – 192.168.1.30  
 - **Broadcast Address:** 192.168.1.31  
 
-
 # 🥈 2nd Floor VLAN Design  
 
 ## 💰 Finance Department  
@@ -67,3 +66,15 @@ Formula used:
 - **Network Address:** 192.168.2.32  
 - **Usable Range:** 192.168.2.33 – 192.168.2.46  
 - **Broadcast Address:** 192.168.2.47  
+
+
+# 🌐 VLSM Design Strategy  
+
+This network uses **Variable Length Subnet Masking (VLSM)** to efficiently allocate address space while avoiding IP waste.
+
+Each department receives a /28 subnet, which provides:
+- 14 usable IP addresses  
+- Logical separation  
+
+
+
