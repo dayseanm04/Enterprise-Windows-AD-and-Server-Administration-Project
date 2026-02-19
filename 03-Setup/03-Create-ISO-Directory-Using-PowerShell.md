@@ -16,6 +16,11 @@ This folder will store the Windows Server 2019 ISO file used during VM deploymen
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 
 - Windows PowerShell on Host Machine  
+
+---
+
+##  Step-by-Step 
+
