@@ -6,7 +6,7 @@ This document defines the VLAN and IP addressing design for **Oak Town Corporate
 
 I will use the **Hyper-V virtual switches** to simulate network segmentation.
 
-The network is segmented by **department and floor**, using VLANs and **VLSM (/28 subnets)** to efficiently allocate IP addresses while maintaining separation between departments.
+The network is segmented by **department and floor**, using VLANs and **VLSM (/27 subnets)** to efficiently allocate IP addresses while maintaining separation between departments.
 
 
 ## 🏢 Building Layout  
@@ -18,12 +18,12 @@ The company operates in **one building with two floors**:
 Each department is assigned:
 
 - A dedicated VLAN  
-- A /28 subnet  
-- 14 usable host addresses 
+- A /27 subnet  
+- 30 usable host addresses 
 
 Formula used:
-- 2^4 = 16 addresses
-- 16 - 2 (Network & Broadcast) = 14 usable hosts
+- 2^5 = 32 addresses
+- 32 - 2 (Network & Broadcast) = 20 usable hosts
 
 
 # 🥇 1st Floor VLAN Design  
