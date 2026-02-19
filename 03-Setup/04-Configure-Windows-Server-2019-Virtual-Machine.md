@@ -36,4 +36,11 @@ Create and configure a Windows Server 2019 VM with:
 
 <img width="774" height="296" alt="6" src="https://github.com/user-attachments/assets/c7c3717c-072a-4fb5-a4bc-d860d81d4144" />
 
+###  Step 2 - Create New Virtual Machine  
+1. Right-click on your computer name  
+2. Click **New**
+3. Select **Virtual Machine**
+
+
+
 
