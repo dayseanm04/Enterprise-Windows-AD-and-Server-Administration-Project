@@ -8,7 +8,6 @@ I will use the **Hyper-V virtual switches** to simulate network segmentation.
 
 The network is segmented by **department and floor**, using VLANs and **VLSM (/28 subnets)** to efficiently allocate IP addresses while maintaining separation between departments.
 
----
 
 ## 🏢 Building Layout  
 
@@ -26,7 +25,6 @@ Formula used:
 - 2^4 = 16 addresses
 - 16 - 2 (Network & Broadcast) = 14 usable hosts
 
----
 
 # 🥇 1st Floor VLAN Design  
 
@@ -38,7 +36,6 @@ Formula used:
 - **Usable Range:** 192.168.1.1 – 192.168.1.14  
 - **Broadcast Address:** 192.168.1.15
 
----
 
 ## 🗂 Administration Department  
 - **VLAN ID:** 150  
@@ -48,5 +45,15 @@ Formula used:
 - **Broadcast Address:** 192.168.1.31  
 
 ---
+
+# 🥈 2nd Floor VLAN Design  
+
+## 💰 Finance Department  
+- **VLAN ID:** 210  
+- **Subnet:** 192.168.2.0/28  
+- **Network Address:** 192.168.2.0  
+- **Usable Range:** 192.168.2.1 – 192.168.2.14  
+- **Broadcast Address:** 192.168.2.15  
+
 
 
