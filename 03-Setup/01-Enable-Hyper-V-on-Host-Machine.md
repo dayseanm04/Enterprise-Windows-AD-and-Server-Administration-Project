@@ -9,3 +9,8 @@ I will use Hyper-V will to deploy and manage the virtual machines required for t
 > ⚠️ Note: Im building this project using a Windows computer as the host system.
 
 ---
+
+##  Objective  
+
+Enable the Hyper-V feature on the Windows host machine so it can support:
+
