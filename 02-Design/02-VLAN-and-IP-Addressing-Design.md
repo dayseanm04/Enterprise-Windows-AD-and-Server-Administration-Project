@@ -85,6 +85,17 @@ Formula used:
 - **Usable Range:** 10.10.10.1 – 10.10.10.14  
 - **Broadcast Address:** 10.10.10.15  
 
+## 🛠 Management VLAN (Administrative Network)  
+- **VLAN ID:** 500  
+- **Subnet:** 10.10.1.0/28  
+- **Network Address:** 10.10.1.0  
+- **Usable Range:** 10.10.1.1 – 10.10.1.14  
+- **Broadcast Address:** 10.10.1.15
+
+
+---
+
+
 # 🌐 VLSM Design Strategy  
 
 This network uses **Variable Length Subnet Masking (VLSM)** to efficiently allocate address space while avoiding IP waste.
