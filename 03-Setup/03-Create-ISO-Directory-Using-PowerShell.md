@@ -40,6 +40,12 @@ Note: I didnt run Powershell as admin because my account is already an Admin Acc
 cd Desktop
 ```
 
+To confirm current directory (optional): 
+
+```powershell
+dir
+```
+
 ###  Step 3 - Create the ISO Folder
 
 ```powershell
