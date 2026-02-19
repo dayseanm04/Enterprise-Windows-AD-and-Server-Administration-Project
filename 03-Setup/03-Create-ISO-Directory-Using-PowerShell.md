@@ -34,3 +34,10 @@ This folder will store the Windows Server 2019 ISO file used during VM deploymen
 
 Note: I didnt run Powershell as admin because my account is already an Admin Account
 
+###  Step 2 - Navigate to Desktop  
+
+```powershell
+cd Desktop
+```
+
+
