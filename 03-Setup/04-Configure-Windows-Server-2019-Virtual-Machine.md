@@ -43,5 +43,10 @@ Create and configure a Windows Server 2019 VM with:
 
 <img width="569" height="270" alt="2" src="https://github.com/user-attachments/assets/03b25b57-22e3-4ba4-b252-606ebe5fc6ab" />
 
+### Step 3 – Specify Name and Location  
+- **VM Name:** `Window-2019-SRV`
+- Click **Next**
+
+<img width="703" height="336" alt="23" src="https://github.com/user-attachments/assets/2d97205b-7829-469b-a671-676de71eede2" />
 
 
