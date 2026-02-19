@@ -25,3 +25,8 @@ Each department is assigned:
 Formula used:
 - 2^4 = 16 addresses
 - 16 - 2 (Network & Broadcast) = 14 usable hosts
+
+---
+
+# 🥇 1st Floor VLAN Design  
+
