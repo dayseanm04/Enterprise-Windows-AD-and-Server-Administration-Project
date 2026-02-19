@@ -65,10 +65,10 @@ Formula used:
 
 ## 🖥 IT Department  
 - **VLAN ID:** 250  
-- **Subnet:** 192.168.2.32/28  
-- **Network Address:** 192.168.2.32  
-- **Usable Range:** 192.168.2.33 – 192.168.2.46  
-- **Broadcast Address:** 192.168.2.47  
+- **Subnet:** 192.168.2.64/27  
+- **Network Address:** 192.168.2.64  
+- **Usable Range:** 192.168.2.65 – 192.168.2.94  
+- **Broadcast Address:** 192.168.2.95  
 
 
 # 🌐 VLSM Design Strategy  
