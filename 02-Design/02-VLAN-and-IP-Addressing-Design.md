@@ -31,10 +31,10 @@ Formula used:
 ## 👥 HR Department  
 
 - **VLAN ID:** 110  
-- **Subnet:** 192.168.1.0/28  
+- **Subnet:** 192.168.1.0/27  
 - **Network Address:** 192.168.1.0  
-- **Usable Range:** 192.168.1.1 – 192.168.1.14  
-- **Broadcast Address:** 192.168.1.15
+- **Usable Range:** 192.168.1.1 – 192.168.1.30  
+- **Broadcast Address:** 192.168.1.31  
 
 
 ## 🗂 Administration Department  
