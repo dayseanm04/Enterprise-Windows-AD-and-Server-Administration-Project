@@ -53,4 +53,10 @@ Before enabling Hyper-V, ensure:
 
 <img width="790" height="236" alt="4" src="https://github.com/user-attachments/assets/2d1a34f9-cb3f-42af-98ec-0fc6170f6ee8" />
 
+### Step 5 - Enable Hyper-V  
+1. Scroll through the list
+2. Find **Hyper-V**
+3. Check the box for **Hyper-V**
+4. Click **OK**
+
 
