@@ -65,6 +65,4 @@ Open File Explorer then Navigate to This PC then the **`C:\`** Folder
 
 <img width="790" height="363" alt="12" src="https://github.com/user-attachments/assets/239b1e28-9e21-4e55-b763-0fe9ef6f4d0c" />
 
-
-
-
+### ✅ Next Click [here for 03-Create-ISO-Directory-Using-PowerShell.md](/03-Setup/03-Create-ISO-Directory-Using-PowerShell.md)
