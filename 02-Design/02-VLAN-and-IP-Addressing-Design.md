@@ -44,7 +44,6 @@ Formula used:
 - **Usable Range:** 192.168.1.17 – 192.168.1.30  
 - **Broadcast Address:** 192.168.1.31  
 
----
 
 # 🥈 2nd Floor VLAN Design  
 
@@ -55,5 +54,11 @@ Formula used:
 - **Usable Range:** 192.168.2.1 – 192.168.2.14  
 - **Broadcast Address:** 192.168.2.15  
 
+## 📞 Customer Service Department  
+- **VLAN ID:** 220  
+- **Subnet:** 192.168.2.16/28  
+- **Network Address:** 192.168.2.16  
+- **Usable Range:** 192.168.2.17 – 192.168.2.30  
+- **Broadcast Address:** 192.168.2.31  
 
 
