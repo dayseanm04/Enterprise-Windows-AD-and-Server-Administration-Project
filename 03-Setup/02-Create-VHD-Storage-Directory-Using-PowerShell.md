@@ -28,3 +28,5 @@ This folder will store the virtual disk files used by Hyper-V.
 2. Search for **PowerShell**
 3. Right-click **Windows PowerShell**
 3. Right-click **Windows PowerShell**
+
+<img width="745" height="387" alt="10" src="https://github.com/user-attachments/assets/15ed600f-2f41-484e-ac51-f3231ac11545" />
