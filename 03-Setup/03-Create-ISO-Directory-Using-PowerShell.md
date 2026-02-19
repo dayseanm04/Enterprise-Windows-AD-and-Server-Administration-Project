@@ -13,3 +13,9 @@ For this project, the ISO folder will be created on the **Desktop**.
 Create a folder named: Win-2019-SRV-ISO
 
 This folder will store the Windows Server 2019 ISO file used during VM deployment.
+
+---
+
+## 🛠 Tools Used  
+
+- Windows PowerShell on Host Machine  
