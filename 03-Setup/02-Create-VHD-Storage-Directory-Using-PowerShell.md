@@ -61,7 +61,7 @@ dir
 
 <img width="767" height="429" alt="12 (2)" src="https://github.com/user-attachments/assets/fa4821f9-0154-4a46-8b96-6da3643721ca" />
 
-Open File Explorer then Navigate to This PC then the **C:\** Folder
+Open File Explorer then Navigate to This PC then the **`C:\`** Folder
 
 <img width="790" height="363" alt="12" src="https://github.com/user-attachments/assets/239b1e28-9e21-4e55-b763-0fe9ef6f4d0c" />
 
