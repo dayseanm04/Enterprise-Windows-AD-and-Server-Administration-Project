@@ -75,8 +75,8 @@ Formula used:
 
 This network uses **Variable Length Subnet Masking (VLSM)** to efficiently allocate address space while avoiding IP waste.
 
-Each department receives a /28 subnet, which provides:
-- 14 usable IP addresses  
+Each department receives a /27 subnet, which provides:
+- 30 usable IP addresses  
 - Logical separation  
 
 ### This VLAN and IP addressing design ensures:
