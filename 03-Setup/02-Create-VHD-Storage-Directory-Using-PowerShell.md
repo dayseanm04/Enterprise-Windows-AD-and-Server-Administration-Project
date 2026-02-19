@@ -1,2 +1,5 @@
 # 02 – Create VHD Storage Directory Using PowerShell  
 
+##  Overview  
+
+In this step, I will crate a dedicated storage directory on my host machine to store the Virtual Hard Disk (VHD) files for Windows Server 2019.
