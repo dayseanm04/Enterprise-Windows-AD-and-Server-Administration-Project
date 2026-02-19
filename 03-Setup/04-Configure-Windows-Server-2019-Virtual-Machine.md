@@ -78,6 +78,8 @@ Create and configure a Windows Server 2019 VM with:
 - Size: **100 GB**
 - Click **Next**
 
+<img width="703" height="296" alt="27" src="https://github.com/user-attachments/assets/379eb996-1498-42d0-9764-d974457d216a" />
+
 > My host machine has ITB SSD. 80GB is OK.
 
 
