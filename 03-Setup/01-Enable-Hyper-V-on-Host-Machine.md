@@ -44,5 +44,7 @@ Before enabling Hyper-V, ensure:
 <img width="780" height="449" alt="2" src="https://github.com/user-attachments/assets/51eff0b2-48f4-4494-bed2-9288b5afc206" />
 
 ### Step 3 - Open Programs and Features  
+1. Click **Programs and Features**
 
+<img width="780" height="372" alt="3" src="https://github.com/user-attachments/assets/cbe5fd9f-8ab9-49ff-974b-b1f55fad0207" />
 
