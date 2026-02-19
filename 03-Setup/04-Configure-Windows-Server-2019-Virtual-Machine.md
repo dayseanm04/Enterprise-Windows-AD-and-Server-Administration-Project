@@ -18,3 +18,9 @@ Create and configure a Windows Server 2019 VM with:
 - Windows Server 2019 ISO attached
 - Default Virtual Switch (temporary)
 
+## Tools Used  
+
+- Hyper-V Manager  
+- Windows Server 2019 ISO
+- Dedicated VHD storage folder (`C:\Win-2019-SRV-VHD`)
+
