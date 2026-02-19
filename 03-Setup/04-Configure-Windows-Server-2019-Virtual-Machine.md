@@ -70,9 +70,15 @@ Create and configure a Windows Server 2019 VM with:
 
 > Note: I will configure a dedicated virtual switch later in the project.
 
-<img width="709" height="301" alt="26" src="https://github.com/user-attachments/assets/1fe51889-486a-459d-ac7d-89f048dd7fe1" />
+<img width="709" height="301" alt="6" src="https://github.com/user-attachments/assets/1fe51889-486a-459d-ac7d-89f048dd7fe1" />
 
+###  Step 7 - Configure Virtual Hard Disk  
+- Select **Create a virtual hard disk**
+- Location: `C:\Win-2019-SRV-VHD`
+- Size: **100 GB**
+- Click **Next**
 
+> My host machine has ITB SSD. 80GB is OK.
 
 
 
