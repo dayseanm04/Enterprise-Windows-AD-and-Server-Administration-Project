@@ -17,7 +17,10 @@ This folder will store the virtual disk files used by Hyper-V.
 
 ---
 
-## 🛠 Tools Used  
+##  Tools Used  
 
 - Windows PowerShell  
 
+## Step-by-Step   
+
+###  Step 1 - Open PowerShell  
