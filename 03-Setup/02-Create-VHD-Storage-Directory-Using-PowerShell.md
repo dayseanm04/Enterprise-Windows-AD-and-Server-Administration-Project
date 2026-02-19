@@ -13,4 +13,7 @@ For this project, the VHD storage folder will be created on the **C:\ drive**.
 Create a folder named: Win-2019-SRV-VHD
 Note: you can use any name but I chose this because it representes the servers VHD
 
+This folder will store the virtual disk files used by Hyper-V.
+
+---
 
