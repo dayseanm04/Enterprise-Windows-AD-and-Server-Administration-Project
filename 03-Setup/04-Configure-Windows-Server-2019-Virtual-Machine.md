@@ -30,3 +30,7 @@ Create and configure a Windows Server 2019 VM with:
 
 ###  Step 1 - Open Hyper-V Manager  
 
+1. Click **Start**
+2. Search for **Hyper-V Manager**
+3. Open the application
+
