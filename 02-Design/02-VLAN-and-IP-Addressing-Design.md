@@ -76,6 +76,15 @@ Formula used:
 
 ---
 
+# 🖥 Infrastructure VLANs (Servers + Management)  
+
+## 🗄 Server VLAN (Windows Server 2019 / Hyper-V)  
+- **VLAN ID:** 300  
+- **Subnet:** 10.10.10.0/29  
+- **Network Address:** 10.10.10.0  
+- **Usable Range:** 10.10.10.1 – 10.10.10.5  
+- **Broadcast Address:** 10.10.10.6  
+
 # 🌐 VLSM Design Strategy  
 
 This network uses **Variable Length Subnet Masking (VLSM)** to efficiently allocate address space while avoiding IP waste.
