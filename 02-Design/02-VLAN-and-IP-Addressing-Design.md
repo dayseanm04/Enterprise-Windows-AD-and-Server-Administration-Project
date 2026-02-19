@@ -38,3 +38,15 @@ Formula used:
 - **Usable Range:** 192.168.1.1 – 192.168.1.14  
 - **Broadcast Address:** 192.168.1.15
 
+---
+
+## 🗂 Administration Department  
+- **VLAN ID:** 150  
+- **Subnet:** 192.168.1.16/28  
+- **Network Address:** 192.168.1.16  
+- **Usable Range:** 192.168.1.17 – 192.168.1.30  
+- **Broadcast Address:** 192.168.1.31  
+
+---
+
+
