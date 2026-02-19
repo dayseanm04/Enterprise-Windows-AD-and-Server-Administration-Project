@@ -52,4 +52,11 @@ dir
 mkdir Win-2019-SRV-ISO
 ```
 
+### Step 4 – Verify the Folder was created
+
+```powershell
+dir
+```
+
+
 
