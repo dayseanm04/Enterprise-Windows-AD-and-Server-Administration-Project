@@ -51,6 +51,8 @@ dir
 mkdir Win-2019-SRV-VHD
 ```
 
+<img width="829" height="356" alt="11" src="https://github.com/user-attachments/assets/9ea2c5c1-9b8e-41f8-aa35-94598ce29d68" />
+
 ### Step 4 – Verify the Folder was created
 
 ```powershell
