@@ -78,11 +78,15 @@ Create and configure a Windows Server 2019 VM with:
 - Size: **100 GB**
 - Click **Next**
 
-<img width="703" height="296" alt="27" src="https://github.com/user-attachments/assets/379eb996-1498-42d0-9764-d974457d216a" />
+<img width="703" height="296" alt="7" src="https://github.com/user-attachments/assets/379eb996-1498-42d0-9764-d974457d216a" />
 
-> My host machine has ITB SSD. 80GB is OK.
+> My host machine has 1TB SSD. 80GB is OK.
 
+###  Step 8 - Installation Options  
 
+- Select: **Install an operating system from a bootable image file**
+- Browse to the Windows Server 2019 ISO located in: **``Desktop\Win-2019-SRV-ISO``**
 
+<img width="707" height="326" alt="28" src="https://github.com/user-attachments/assets/b92aab7d-3cae-4f4e-9938-cc3b96120ef7" />
 
 
