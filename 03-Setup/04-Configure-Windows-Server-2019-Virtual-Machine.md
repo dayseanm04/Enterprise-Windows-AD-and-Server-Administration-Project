@@ -10,3 +10,6 @@ This VM will serve as the foundation for:
 ---
 
 ##  Objective  
+
+Create and configure a Windows Server 2019 VM with:
+- Generation 2
