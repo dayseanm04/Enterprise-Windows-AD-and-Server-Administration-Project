@@ -31,3 +31,10 @@ Formula used:
 # 🥇 1st Floor VLAN Design  
 
 ## 👥 HR Department  
+
+- **VLAN ID:** 110  
+- **Subnet:** 192.168.1.0/28  
+- **Network Address:** 192.168.1.0  
+- **Usable Range:** 192.168.1.1 – 192.168.1.14  
+- **Broadcast Address:** 192.168.1.15
+
