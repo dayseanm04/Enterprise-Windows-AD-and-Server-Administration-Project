@@ -39,4 +39,9 @@ Note: I didnt run Powershell as admin because my accound is already an Admin Acc
 cd C:\
 ```
 
+To confirm current directory (optional): 
+
+```powershell
+dir
+```
 
