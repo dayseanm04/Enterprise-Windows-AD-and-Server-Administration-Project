@@ -80,7 +80,7 @@ Each department receives a /28 subnet, which provides:
 
 - Network segmentation by Department and Floor
 - Improved security between departments  
-
+- Scalability for future expansion  
 
 
 
