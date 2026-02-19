@@ -71,6 +71,9 @@ After enabling Hyper-V:
 
 ##  Verification
 
+After reboot:
 
+1. Open the **Start Menu**
+2. Search for **Hyper-V Manager**
 
 
