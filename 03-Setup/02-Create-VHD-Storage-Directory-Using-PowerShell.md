@@ -59,6 +59,7 @@ mkdir Win-2019-SRV-VHD
 dir
 ```
 
+<img width="767" height="429" alt="12 (2)" src="https://github.com/user-attachments/assets/fa4821f9-0154-4a46-8b96-6da3643721ca" />
 
 
 
