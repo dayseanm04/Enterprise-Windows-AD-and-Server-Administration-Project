@@ -35,3 +35,8 @@ Note: I didnt run Powershell as admin because my accound is already an Admin Acc
 
 ###  Step 2 - Navigate to the C:\ Drive  
 
+```powershell
+cd C:\
+```
+
+
