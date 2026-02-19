@@ -4,3 +4,5 @@
 
 This document defines the VLAN and IP addressing design for **Oak Town Corporate Services**. Since I am building this project virtually using Hyper-V.
 
+I will use the **Hyper-V virtual switches** to simulate network segmentation.
+
