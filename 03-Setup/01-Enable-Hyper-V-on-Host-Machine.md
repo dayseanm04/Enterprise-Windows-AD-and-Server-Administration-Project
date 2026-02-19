@@ -64,4 +64,13 @@ Before enabling Hyper-V, ensure:
 ###  Step 6 - Restart the Computer
 After enabling Hyper-V:
 1. Restart the system when prompted
+2. Allow Windows to complete feature installation
+
+
+---
+
+##  Verification
+
+
+
 
