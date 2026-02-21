@@ -73,9 +73,10 @@ Click **Next**
 
 ## Step 6 – Select Virtual Hard Disk  
 
+1. Choose the **100GB unallocated space**
+2. Click **Next**
 
-
-
+Note: this is the 100GB i entered when configuring the **`Windows-2019-SRV VM`**
 
 
 
