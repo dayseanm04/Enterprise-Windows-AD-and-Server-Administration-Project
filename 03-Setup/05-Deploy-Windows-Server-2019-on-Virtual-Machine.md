@@ -98,6 +98,7 @@ After installation:
 
 <img width="756" height="470" alt="51" src="https://github.com/user-attachments/assets/90503522-7b89-46f2-8b9a-86dcbaf41b0b" />
 
+##  Step 8 – Log In  
 
 
 
