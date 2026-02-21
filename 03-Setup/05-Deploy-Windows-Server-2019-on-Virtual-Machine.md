@@ -21,3 +21,8 @@ Successfully install and prepare Windows Server 2019 for post-install configurat
 - Windows Server 2019 Virtual Machine
 
 
+# Installation Steps  
+
+---
+
+## Step 1 – Start the Virtual Machine  
