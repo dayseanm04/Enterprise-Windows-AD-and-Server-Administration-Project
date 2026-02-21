@@ -52,7 +52,7 @@ If the VM freezes, turn of the VM and 'turn it back on. If that dont work, resta
 
 ## Step 3 – Select Operating System Edition  
 
-Select: Windows Server 2019 Datacenter Evaluation (Desktop Experience)
+Select: **`Windows Server 2019 Datacenter Evaluation (Desktop Experience)`**
 Click **Next**
 
 <img width="652" height="493" alt="45" src="https://github.com/user-attachments/assets/1f29547a-e76c-4c14-a1ad-aa779ea5fbd7" />
@@ -67,6 +67,21 @@ Click **Next**
 ## Step 5 – Choose Installation Type  
 
 Select: **`Custom: Install Windows only (advanced)`**
+Click **Next**
+
+<img width="652" height="317" alt="47" src="https://github.com/user-attachments/assets/3d818f81-ce05-4451-ad78-e5159d44ae91" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
