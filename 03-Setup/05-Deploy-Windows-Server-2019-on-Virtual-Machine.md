@@ -29,3 +29,5 @@ Successfully install and prepare Windows Server 2019 for post-install configurat
 1. Open **Hyper-V Manager**
 2. Double-click the **Windows-2019-SRV** VM
 3. Click **Start**
+
+<img width="685" height="561" alt="41" src="https://github.com/user-attachments/assets/6f8acd41-0826-433a-a605-a9f90d380084" />
