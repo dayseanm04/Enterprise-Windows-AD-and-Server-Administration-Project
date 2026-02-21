@@ -7,6 +7,7 @@ This step includes:
 - Booting the VM from ISO
 - Installing Windows Server 2019 Datacenter (Desktop Experience)
 - Configuring the Administrator password
+- Creating a Hyper-V checkpoint
 
 ## Objective  
 
@@ -117,9 +118,17 @@ Click **Yes** if prompted.
 
 <img width="780" height="445" alt="55" src="https://github.com/user-attachments/assets/04d0bc44-99b4-42d8-9432-ad9673e3af1a" />
 
+### Create Hyper-V Checkpoint
 
+Once installation and initial configuration are complete:
 
+In Hyper-V Manager:
+1. Right-click the VM
+2. Click Checkpoint
 
+This creates a restore point before continuing server configuration.
+
+<img width="800" height="370" alt="56" src="https://github.com/user-attachments/assets/713b6fa5-4f77-468f-9ae6-bb0937e1d362" />
 
 
 
