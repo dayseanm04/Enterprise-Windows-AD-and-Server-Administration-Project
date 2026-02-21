@@ -41,8 +41,8 @@ If the VM freezes, turn of the VM and 'turn it back on. If that dont work, resta
 ##  Step 2 – Begin Windows Installation  
 1. Select language and region settings
 2. Click **Next**
-3. Click **Install now**
 
+<img width="631" height="466" alt="43" src="https://github.com/user-attachments/assets/2439c69e-b4ea-4331-a1e9-93d747b5d834" />
 
 
 
