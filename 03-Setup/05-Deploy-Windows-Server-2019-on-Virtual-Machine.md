@@ -42,8 +42,10 @@ If the VM freezes, turn of the VM and 'turn it back on. If that dont work, resta
 1. Select language and region settings
 2. Click **Next**
 
-<img width="631" height="466" alt="43" src="https://github.com/user-attachments/assets/2439c69e-b4ea-4331-a1e9-93d747b5d834" />
+<img width="635" height="470" alt="43" src="https://github.com/user-attachments/assets/6eb42633-91d7-44c7-baf6-f45352819a1e" />
 
+
+3. Click **Install now**
 
 
 
