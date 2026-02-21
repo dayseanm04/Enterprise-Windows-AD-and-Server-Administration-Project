@@ -32,6 +32,16 @@ Successfully install and prepare Windows Server 2019 for post-install configurat
 
 <img width="685" height="561" alt="41" src="https://github.com/user-attachments/assets/6f8acd41-0826-433a-a605-a9f90d380084" />
 
-> If the VM freezes, turn of the VM and 'turn it back on. If that dont work, restart your computer
+If the VM freezes, turn of the VM and 'turn it back on. If that dont work, restart your computer
+
+##  Step 2 – Begin Windows Installation  
+1. Select language and region settings
+2. Click **Next**
+3. Click **Install now**
+
+
+
+
+
 
 
