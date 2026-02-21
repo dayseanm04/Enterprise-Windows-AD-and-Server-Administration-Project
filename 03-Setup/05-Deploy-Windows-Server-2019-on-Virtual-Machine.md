@@ -57,3 +57,10 @@ Click **Next**
 
 <img width="652" height="493" alt="45" src="https://github.com/user-attachments/assets/1f29547a-e76c-4c14-a1ad-aa779ea5fbd7" />
 
+##  Step 4 – Accept License Agreement  
+
+1. Accept license terms  
+2. Click **Next**
+
+
+
