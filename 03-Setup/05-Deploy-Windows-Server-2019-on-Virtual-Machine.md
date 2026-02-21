@@ -100,6 +100,7 @@ After installation:
 
 ##  Step 8 – Log In  
 1. Press **Ctrl + Alt + Delete** (If you have to, I didnt)
-
+2. Enter the Administrator password
+3. Log into Windows Server
 
 
