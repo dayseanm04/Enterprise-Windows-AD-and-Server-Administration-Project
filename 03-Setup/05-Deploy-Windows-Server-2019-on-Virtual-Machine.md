@@ -31,3 +31,7 @@ Successfully install and prepare Windows Server 2019 for post-install configurat
 3. Click **Start**
 
 <img width="685" height="561" alt="41" src="https://github.com/user-attachments/assets/6f8acd41-0826-433a-a605-a9f90d380084" />
+
+> If the VM freezes, turn of the VM and 'turn it back on. If that dont work, restart your computer
+
+
