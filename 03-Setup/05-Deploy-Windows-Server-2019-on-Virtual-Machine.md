@@ -110,3 +110,19 @@ After installation:
 After login, Windows may prompt for network discovery.
 
 Click **Yes** if prompted.
+
+<img width="358" height="411" alt="53" src="https://github.com/user-attachments/assets/deb146f6-0f05-4338-8736-f894c2d4f117" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
