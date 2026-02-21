@@ -44,9 +44,11 @@ If the VM freezes, turn of the VM and 'turn it back on. If that dont work, resta
 
 <img width="635" height="470" alt="43" src="https://github.com/user-attachments/assets/6eb42633-91d7-44c7-baf6-f45352819a1e" />
 
+<br/>
 
 3. Click **Install now**
 
+<img width="664" height="480" alt="44" src="https://github.com/user-attachments/assets/103f1f31-bb13-4951-a930-66b343921abe" />
 
 
 
