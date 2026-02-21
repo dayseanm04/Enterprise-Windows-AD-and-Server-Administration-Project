@@ -88,8 +88,12 @@ The VM will restart automatically during installation.
 
 <img width="683" height="514" alt="50" src="https://github.com/user-attachments/assets/9d4161cd-d147-45e0-a83e-8eb48faa4d7e" />
 
+##  Step 7 – Configure Administrator Password  
 
+After installation:
 
+1. Enter Administrator password  
+2. Confirm password  
 
 
 
