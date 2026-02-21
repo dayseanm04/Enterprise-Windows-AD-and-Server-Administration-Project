@@ -71,6 +71,7 @@ Click **Next**
 
 <img width="652" height="317" alt="47" src="https://github.com/user-attachments/assets/3d818f81-ce05-4451-ad78-e5159d44ae91" />
 
+## Step 6 – Select Virtual Hard Disk  
 
 
 
