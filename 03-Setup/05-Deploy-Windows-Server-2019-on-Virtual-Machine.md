@@ -80,7 +80,9 @@ Click **Next**
 
 Note: this is the 100GB I entered when configuring the **`Windows-2019-SRV VM`**
 
+3. Wait for installation to complete
 
+<img width="632" height="304" alt="49" src="https://github.com/user-attachments/assets/fb931272-437a-4552-bba7-7a338e3277cf" />
 
 
 
