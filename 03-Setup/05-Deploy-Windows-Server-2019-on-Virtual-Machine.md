@@ -105,3 +105,8 @@ After installation:
 
 <img width="581" height="423" alt="52" src="https://github.com/user-attachments/assets/b487558a-5479-4594-b73e-77b8aa12f46c" />
 
+# Post-Installation Network Configuration  
+
+After login, Windows may prompt for network discovery.
+
+Click **Yes** if prompted.
