@@ -103,4 +103,5 @@ After installation:
 2. Enter the Administrator password
 3. Log into Windows Server
 
+<img width="581" height="423" alt="52" src="https://github.com/user-attachments/assets/b487558a-5479-4594-b73e-77b8aa12f46c" />
 
