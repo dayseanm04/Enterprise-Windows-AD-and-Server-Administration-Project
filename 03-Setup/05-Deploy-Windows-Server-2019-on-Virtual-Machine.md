@@ -76,7 +76,9 @@ Click **Next**
 1. Choose the **100GB unallocated space**
 2. Click **Next**
 
-Note: this is the 100GB i entered when configuring the **`Windows-2019-SRV VM`**
+<img width="652" height="490" alt="48" src="https://github.com/user-attachments/assets/9d01e609-4182-4916-ae7e-e6bb4c4f99d6" />
+
+Note: this is the 100GB I entered when configuring the **`Windows-2019-SRV VM`**
 
 
 
