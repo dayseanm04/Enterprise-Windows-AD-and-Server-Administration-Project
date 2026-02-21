@@ -55,4 +55,5 @@ If the VM freezes, turn of the VM and 'turn it back on. If that dont work, resta
 Select: Windows Server 2019 Datacenter Evaluation (Desktop Experience)
 Click **Next**
 
+<img width="652" height="493" alt="45" src="https://github.com/user-attachments/assets/1f29547a-e76c-4c14-a1ad-aa779ea5fbd7" />
 
