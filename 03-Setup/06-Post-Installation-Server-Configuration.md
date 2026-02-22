@@ -42,6 +42,7 @@ This prepares the server for Active Directory Domain Services (AD DS) deployment
 
 <img width="410" height="474" alt="5" src="https://github.com/user-attachments/assets/9c726dbe-0ff3-4314-b366-471db8cda164" />
 
+8. Click **Restart Now**
 
-
+<img width="354" height="172" alt="6" src="https://github.com/user-attachments/assets/3592c9af-a3d5-4737-98ff-a1b0a08ae237" />
 
