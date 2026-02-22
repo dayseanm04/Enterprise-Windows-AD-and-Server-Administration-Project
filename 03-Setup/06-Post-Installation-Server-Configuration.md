@@ -93,6 +93,7 @@ Under **Local Server** in Server Manager:
 
 <img width="799" height="301" alt="13" src="https://github.com/user-attachments/assets/a4847179-0314-496c-8e5d-96570625565d" />
 
+3. Scroll down and click **Install now**
 
 
 
