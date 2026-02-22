@@ -94,7 +94,9 @@ Under **Local Server** in Server Manager:
 <img width="799" height="301" alt="13" src="https://github.com/user-attachments/assets/a4847179-0314-496c-8e5d-96570625565d" />
 
 3. Scroll down and click **Install now**
+<img width="800" height="377" alt="14" src="https://github.com/user-attachments/assets/3b160191-6226-4df6-ae2f-89e4760b7d1e" />
 
+4. Wait for updates to download and install
 
 
 
