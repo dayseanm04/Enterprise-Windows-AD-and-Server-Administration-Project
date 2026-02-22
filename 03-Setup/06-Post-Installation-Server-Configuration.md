@@ -18,3 +18,8 @@ This prepares the server for Active Directory Domain Services (AD DS) deployment
 # Configure Server Identity  
 
 ## Step 1 – Rename the Server  
+
+1. Open **Server Manager**
+2. Click **Local Server**
+3. Click the current computer name
+4. Select **Change**
