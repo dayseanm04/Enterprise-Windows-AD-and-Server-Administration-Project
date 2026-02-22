@@ -97,6 +97,8 @@ Under **Local Server** in Server Manager:
 <img width="800" height="377" alt="14" src="https://github.com/user-attachments/assets/3b160191-6226-4df6-ae2f-89e4760b7d1e" />
 
 4. Wait for updates to download and install
+5. Click **Restart Now** if prompted
+<img width="680" height="444" alt="15" src="https://github.com/user-attachments/assets/07676e45-c45f-4eb7-9d5a-f7cfe213a28a" />
 
 
 
