@@ -119,7 +119,9 @@ After restart:
  - **Start:** 6:00 AM  
  - **End:** 6:00 PM  
 
+<img width="512" height="329" alt="19" src="https://github.com/user-attachments/assets/3ebbbcbf-d640-4226-82c6-41496eb1b8d4" />
 
+4. Click **Save**
 
 
 
