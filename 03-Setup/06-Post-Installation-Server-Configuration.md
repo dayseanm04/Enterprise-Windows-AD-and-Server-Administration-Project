@@ -37,3 +37,11 @@ This prepares the server for Active Directory Domain Services (AD DS) deployment
 
 <img width="764" height="492" alt="4" src="https://github.com/user-attachments/assets/3d7fd903-d025-405d-9a1d-0293a6dbfff4" />
 
+6. Click **OK**
+7. Click **Apply**
+
+<img width="410" height="474" alt="5" src="https://github.com/user-attachments/assets/9c726dbe-0ff3-4314-b366-471db8cda164" />
+
+
+
+
