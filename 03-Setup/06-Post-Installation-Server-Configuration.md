@@ -123,7 +123,16 @@ After restart:
 3. Click **Save**
 This prevents automatic restarts during working hours.
 
+## Create Hyper-V Checkpoint  
 
+After confirming:
 
+- Server name is updated  
+- Time zone is correct  
+- Security features are enabled  
+- Updates are installed  
 
+In **Hyper-V Manager**:
 
+1. Right-click the VM
+2. Click **Checkpoint**
