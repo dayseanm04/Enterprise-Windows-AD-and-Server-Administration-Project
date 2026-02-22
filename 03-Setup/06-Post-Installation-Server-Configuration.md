@@ -82,8 +82,12 @@ Under **Local Server** in Server Manager:
 
 <img width="894" height="337" alt="12" src="https://github.com/user-attachments/assets/f0e02f9e-e047-4285-ac6c-e32c90de9dec" />
 
+---
 
+#  Update the Server  
 
+## Step 3 – Install Windows Updates  
 
+1. In **Server Manager**, click **Local Server**
 
 
