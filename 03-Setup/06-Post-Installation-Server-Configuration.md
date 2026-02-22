@@ -68,6 +68,13 @@ After restart, log back in to continue configuration.
 6. Click **OK**
 <img width="459" height="484" alt="10" src="https://github.com/user-attachments/assets/1208b9df-9d2b-43fa-916d-319529fea925" />
 
+---
 
+# Verify Security Settings  
 
+Under **Local Server** in Server Manager:
+
+- Ensure **Windows Defender Firewall** is **ON**
+
+<img width="706" height="378" alt="11" src="https://github.com/user-attachments/assets/3f172ef6-3fdb-4a15-a680-790650a6b3fb" />
 
