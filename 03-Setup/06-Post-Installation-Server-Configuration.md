@@ -23,3 +23,6 @@ This prepares the server for Active Directory Domain Services (AD DS) deployment
 2. Click **Local Server**
 3. Click the current computer name
 4. Select **Change**
+
+<img width="714" height="230" alt="1" src="https://github.com/user-attachments/assets/c26dd9a8-e2db-4801-8422-6e262ad32571" />
+
