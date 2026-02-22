@@ -100,7 +100,16 @@ Under **Local Server** in Server Manager:
 5. Click **Restart Now** if prompted
 <img width="680" height="444" alt="15" src="https://github.com/user-attachments/assets/07676e45-c45f-4eb7-9d5a-f7cfe213a28a" />
 
+After restart:
 
+- Log back in
+- Confirm the server shows **You're up to date**
+
+<img width="795" height="155" alt="16" src="https://github.com/user-attachments/assets/0d31cbed-7f13-41f9-8ccc-7253e589844f" />
+
+<img width="686" height="410" alt="17" src="https://github.com/user-attachments/assets/dab994a5-cb67-4ca5-8cd1-cc024f0bde42" />
+
+---
 
 
 
