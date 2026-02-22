@@ -54,7 +54,9 @@ After restart, log back in to continue configuration.
 
 ## Step 2 – Set Time Zone  
 
+1. In **Server Manager**, click **Local Server**
 
+<img width="794" height="347" alt="7" src="https://github.com/user-attachments/assets/95f7cef7-f8e2-41df-8f08-43bec0f2d5d8" />
 
-
+2. Click the **Time zone**
 
