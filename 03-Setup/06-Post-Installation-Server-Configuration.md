@@ -14,3 +14,7 @@ This phase ensures the server:
 This prepares the server for Active Directory Domain Services (AD DS) deployment.
 
 ---
+
+# Configure Server Identity  
+
+## Step 1 – Rename the Server  
