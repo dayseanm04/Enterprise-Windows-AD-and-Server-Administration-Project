@@ -113,15 +113,15 @@ After restart:
 
 ## Step 4 – Configure Active Hours  
 
-1. Open **Windows Update Settings**
-2. Click **Change active hours**
-3. Set:
+1. Click **Change active hours**
+2. Set:
  - **Start:** 6:00 AM  
  - **End:** 6:00 PM  
 
 <img width="512" height="329" alt="19" src="https://github.com/user-attachments/assets/3ebbbcbf-d640-4226-82c6-41496eb1b8d4" />
 
-4. Click **Save**
+3. Click **Save**
+This prevents automatic restarts during working hours.
 
 
 
