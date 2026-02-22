@@ -78,3 +78,12 @@ Under **Local Server** in Server Manager:
 
 <img width="706" height="378" alt="11" src="https://github.com/user-attachments/assets/3f172ef6-3fdb-4a15-a680-790650a6b3fb" />
 
+- Ensure **Windows Defender Antivirus** is **ON**
+
+<img width="894" height="337" alt="12" src="https://github.com/user-attachments/assets/f0e02f9e-e047-4285-ac6c-e32c90de9dec" />
+
+
+
+
+
+
