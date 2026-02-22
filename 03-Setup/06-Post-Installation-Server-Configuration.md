@@ -31,3 +31,6 @@ This prepares the server for Active Directory Domain Services (AD DS) deployment
 
 - **Computer Name:**  OTCS-SRV-DC01
 
+<img width="334" height="402" alt="3" src="https://github.com/user-attachments/assets/8a8409d3-f7f9-4e21-bbcb-209f972e6f96" />
+
+5. Click **OK**
