@@ -65,6 +65,8 @@ After restart, log back in to continue configuration.
 
 <img width="429" height="247" alt="9" src="https://github.com/user-attachments/assets/cf274319-6453-45a2-9608-80e4690e7bad" />
 
+6. Click **OK**
+<img width="459" height="484" alt="10" src="https://github.com/user-attachments/assets/1208b9df-9d2b-43fa-916d-319529fea925" />
 
 
 
