@@ -111,9 +111,13 @@ After restart:
 
 ---
 
+## Step 4 – Configure Active Hours  
 
-
-
+1. Open **Windows Update Settings**
+2. Click **Change active hours**
+3. Set:
+ - **Start:** 6:00 AM  
+ - **End:** 6:00 PM  
 
 
 
