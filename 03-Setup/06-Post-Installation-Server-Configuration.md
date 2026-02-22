@@ -46,3 +46,15 @@ This prepares the server for Active Directory Domain Services (AD DS) deployment
 
 <img width="354" height="172" alt="6" src="https://github.com/user-attachments/assets/3592c9af-a3d5-4737-98ff-a1b0a08ae237" />
 
+After restart, log back in to continue configuration.
+
+---
+
+# Configure Time Settings  
+
+## Step 2 – Set Time Zone  
+
+
+
+
+
