@@ -28,6 +28,8 @@ To install a modern browser, IE ESC must be temporarily disabled.
 
 <img width="1116" height="375" alt="5" src="https://github.com/user-attachments/assets/414cc9a8-c190-44f2-b852-3f4527d6de23" />
 
+4. Click the hyperlink (typically shows "On")
+5. Set the following:
 
 
 
