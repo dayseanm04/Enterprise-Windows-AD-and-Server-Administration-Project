@@ -16,3 +16,7 @@ To ensure compatibility with modern web technologies, I will install a modern br
 
 **Internet Explorer Enhanced Security Configuration (IE ESC)** is enabled by default Windows 2019 Server.
 
+IE ESC restricts access to most websites and blocks many downloads.  
+To install a modern browser, IE ESC must be temporarily disabled.
+
+---
