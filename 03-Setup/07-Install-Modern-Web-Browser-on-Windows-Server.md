@@ -43,9 +43,13 @@ To install a modern browser, IE ESC must be temporarily disabled.
 3. Download the installer
 4. Run the executable
 
-
-
 <img width="844" height="222" alt="9" src="https://github.com/user-attachments/assets/a0bf8777-b8e0-44f5-aae8-a17a81d0328a" />
 
+# Step 3 – Set Default Browser 
 
+After installation:
+
+1. Open **Settings**
+2. Navigate to **Default Apps**
+3. Set the newly installed browser as the default web browser
 
