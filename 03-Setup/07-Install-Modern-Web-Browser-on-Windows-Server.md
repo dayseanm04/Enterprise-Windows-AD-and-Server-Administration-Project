@@ -31,8 +31,15 @@ To install a modern browser, IE ESC must be temporarily disabled.
 4. Click the hyperlink (typically shows "On")
 5. Set the following:
    - **Administrators:** Off  
-   - **Users:**
+   - **Users:** Off 
 
 <img width="412" height="448" alt="6" src="https://github.com/user-attachments/assets/38c7ea67-f991-4c09-b787-e1ed85dc3d44" />
+6. Click **OK**
+
+# Step 2 – Download a Modern Web Browser
+
+
+
+
 
 
