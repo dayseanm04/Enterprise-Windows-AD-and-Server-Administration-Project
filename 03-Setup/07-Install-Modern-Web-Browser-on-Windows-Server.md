@@ -53,3 +53,16 @@ After installation:
 2. Navigate to **Default Apps**
 3. Set the newly installed browser as the default web browser
 
+#  Step 4 – Re-Enable IE Enhanced Security Configuration
+
+For security best practices, re-enable IE ESC after installing the browser.
+
+1. Open **Server Manager**
+2. Click **Local Server**
+3. Click **IE Enhanced Security Configuration**
+4. Set:
+
+   - **Administrators:** On  
+   - **Users:** On
+
+
