@@ -11,3 +11,8 @@ However, Internet Explorer is not suitable for modern web administration tools s
 To ensure compatibility with modern web technologies, I will install a modern browser such as **Google Chrome**.
 
 ---
+
+#  Internet Explorer Enhanced Security Configuration (IE ESC)
+
+**Internet Explorer Enhanced Security Configuration (IE ESC)** is enabled by default Windows 2019 Server.
+
