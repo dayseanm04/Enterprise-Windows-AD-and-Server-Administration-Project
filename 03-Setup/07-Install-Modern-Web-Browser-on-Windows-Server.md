@@ -38,6 +38,10 @@ To install a modern browser, IE ESC must be temporarily disabled.
 
 # Step 2 – Download a Modern Web Browser
 
+1. Open **Internet Explorer**
+2. Go to https://www.google.com/chrome/
+3. Download the installer
+
 
 
 
