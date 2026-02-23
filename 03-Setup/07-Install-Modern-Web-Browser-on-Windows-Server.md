@@ -30,6 +30,8 @@ To install a modern browser, IE ESC must be temporarily disabled.
 
 4. Click the hyperlink (typically shows "On")
 5. Set the following:
+   - **Administrators:** Off  
+   - **Users:**
 
 
 
