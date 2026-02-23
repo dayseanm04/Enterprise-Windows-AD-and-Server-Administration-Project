@@ -61,8 +61,7 @@ For security best practices, re-enable IE ESC after installing the browser.
 2. Click **Local Server**
 3. Click **IE Enhanced Security Configuration**
 4. Set:
-
    - **Administrators:** On  
    - **Users:** On
 
-
+5. Click **OK**
