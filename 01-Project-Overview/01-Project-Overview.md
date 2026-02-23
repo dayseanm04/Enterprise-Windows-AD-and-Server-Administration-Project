@@ -1,6 +1,6 @@
-# 🏢 Enterprise Windows AD & Server Administration Project  
+# Enterprise Windows AD & Server Administration Project  
 
-## 📌 Project Overview  
+## Project Overview  
 
 In this project i will be designing, deploying, and administering a **centralized Windows Server 2019 enterprise infrastructure** using Microsoft **Hyper-V** to support a small-to-medium sized organization with approximately 20–25 Windows client computers.
 
@@ -19,7 +19,7 @@ The primary goal of this project is to demonstrate practical Windows Server admi
 
 ---
 
-## 🏢 Company  Overview  
+## Company  Overview  
 
 **Company Name:** Oak Town Corporate Services  
 
@@ -62,40 +62,40 @@ Virtual networking will be configured using:
 
 ##  Infrastructure Goals 
 
-### 🔐 Centralized Identity & Access Management
+### Centralized Identity & Access Management
 - Domain-based authentication  
 - Organizational Unit (OU) structure by department  
 - Role-based security groups  
 
-### 🌐 Core Network Services
+### Core Network Services
 - Internal DNS name resolution  
 - DHCP address management  
 - Structured IP addressing design 
 
-### 🛡 Security Implementation
+### Security Implementation
 - Password policies and account lockout policies  
 - Windows Defender configuration  
 - Windows Firewall rule enforcement  
 - Role-Based Access Control (RBAC)
 
-### 💻 Endpoint Management
+### Endpoint Management
 - Domain-joined Windows client machines  
 - Group Policy enforcement  
 - Department-specific configuration policies
 
-### ⚙️ Automation & Administration
+### Automation & Administration
 - PowerShell scripting for user creation and management  
 - Remote management tools  
 - Centralized server administration  
 
-### 💾 Business Continuity
+### Business Continuity
 - Backup strategy implementation  
 - Recovery procedures  
 - Disaster recovery planning  
 
 ---
 
-## 💼 Business Justification  
+## Business Justification  
 
 As organizations grow, managing users and computers individually becomes inefficient and increases security risks.  
 
@@ -109,7 +109,7 @@ This project demonstrates how Windows Server 2019 can:
 
 ---
 
-## 🖥 Technical Scope  
+## Technical Scope  
 
 This project focuses on:
 
