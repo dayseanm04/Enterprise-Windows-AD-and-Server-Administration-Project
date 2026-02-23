@@ -6,3 +6,8 @@ By default, Windows Server 2019 includes Internet Explorer for legacy applicatio
 However, Internet Explorer is not suitable for modern web administration tools such as:
 
 - Windows Admin Center  
+- Cloud-based management portals  
+
+To ensure compatibility with modern web technologies, I will install a modern browser such as **Google Chrome**.
+
+---
