@@ -27,3 +27,10 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 
 <img width="724" height="550" alt="32" src="https://github.com/user-attachments/assets/3572c2cc-3439-4e78-8272-2a31461810a2" />
 
+5. Click **Apply**
+6. Click **Yes** if prompted about network interruption
+7. Click **OK**
+
+
+
+
