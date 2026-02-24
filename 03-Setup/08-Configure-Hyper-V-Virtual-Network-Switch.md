@@ -31,6 +31,7 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 6. Click **Yes** if prompted about network interruption
 7. Click **OK**
 
+<img width="360" height="251" alt="33" src="https://github.com/user-attachments/assets/ad619a66-897c-4be3-930a-ef1b4b68d29c" />
 
 
 
