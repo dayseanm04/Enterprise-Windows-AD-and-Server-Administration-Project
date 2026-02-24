@@ -61,4 +61,8 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 
 <img width="715" height="311" alt="37" src="https://github.com/user-attachments/assets/2efffeeb-f54c-4780-8e0d-6a5f30f54eba" />
 
+### Test Connectivity to Host Machine
 
+ping 192.168.1.151
+
+<img width="501" height="290" alt="38" src="https://github.com/user-attachments/assets/5ba29111-eb41-4635-bc6a-ddd55f9dc4d1" />
