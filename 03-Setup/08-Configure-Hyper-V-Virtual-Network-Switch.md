@@ -43,7 +43,12 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 
 <img width="462" height="135" alt="34" src="https://github.com/user-attachments/assets/6e1bff51-796f-4462-be24-ab36dad32026" />
 
+4. Click on **Network Adapter**
+5. Under **Virtual Switch**, select: **`OTCS-SW`**
+6. Click **Apply**
+7. Click **OK**
 
+<img width="725" height="358" alt="35" src="https://github.com/user-attachments/assets/44fc9902-a3e2-42fa-be98-efbbdaadd06d" />
 
 
 
