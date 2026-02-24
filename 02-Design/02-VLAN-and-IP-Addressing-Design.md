@@ -1,6 +1,6 @@
 # 02 - VLAN and IP Addressing Design  
 
-## 📌 Overview  
+## Overview  
 
 This document defines the VLAN and IP addressing design for **Oak Town Corporate Services**. Since I am building this project virtually using Hyper-V.
 
@@ -10,13 +10,13 @@ The network is segmented by **department and floor**, using VLANs and **VLSM (/2
 
 ---
 
-## 🏢 Building Layout  
+## Building Layout  
 
 The company operates in **one building with two floors**:
 - 1st Floor – HR and Administration  
 - 2nd Floor – Finance, Customer Service, and IT  
-- 🖥 Server Segment – Windows Server 2019 (Hyper-V)  
-- 🛠 Management Segment – Admin / IT management access  
+- Server Segment – Windows Server 2019 (Hyper-V)  
+- Management Segment – Admin / IT management access  
 
 Each department is assigned:
 
@@ -30,9 +30,9 @@ Formula used:
 
 ---
 
-# 🥇 1st Floor VLAN Design  
+# 1st Floor VLAN Design  
 
-## 👥 HR Department  
+## HR Department  
 
 - **VLAN ID:** 110  
 - **Subnet:** 192.168.1.0/27  
@@ -41,7 +41,7 @@ Formula used:
 - **Broadcast Address:** 192.168.1.31  
 
 
-## 🗂 Administration Department  
+## Administration Department  
 - **VLAN ID:** 150  
 - **Subnet:** 192.168.1.32/27  
 - **Network Address:** 192.168.1.32  
@@ -50,9 +50,9 @@ Formula used:
 
 ---
 
-# 🥈 2nd Floor VLAN Design  
+# 2nd Floor VLAN Design  
 
-## 💰 Finance Department  
+## Finance Department  
 - **VLAN ID:** 210  
 - **Subnet:** 192.168.2.0/27  
 - **Network Address:** 192.168.2.0  
@@ -60,14 +60,14 @@ Formula used:
 - **Broadcast Address:** 192.168.2.31   
 
 
-## 📞 Customer Service Department  
+## Customer Service Department  
 - **VLAN ID:** 220  
 - **Subnet:** 192.168.2.32/27  
 - **Network Address:** 192.168.2.32  
 - **Usable Range:** 192.168.2.33 – 192.168.2.62  
 - **Broadcast Address:** 192.168.2.63  
 
-## 🖥 IT Department  
+## IT Department  
 - **VLAN ID:** 250  
 - **Subnet:** 192.168.2.64/27  
 - **Network Address:** 192.168.2.64  
@@ -76,7 +76,7 @@ Formula used:
 
 ---
 
-# 🖥 Infrastructure VLANs (Servers + Management)  
+# Infrastructure VLANs (Servers + Management)  
 
 ## 🗄 Server VLAN (Windows Server 2019 / Hyper-V)  
 - **VLAN ID:** 300  
@@ -85,18 +85,16 @@ Formula used:
 - **Usable Range:** 10.10.10.1 – 10.10.10.14  
 - **Broadcast Address:** 10.10.10.15  
 
-## 🛠 Management VLAN (Administrative Network)  
+## Management VLAN (Administrative Network)  
 - **VLAN ID:** 500  
 - **Subnet:** 10.10.1.0/28  
 - **Network Address:** 10.10.1.0  
 - **Usable Range:** 10.10.1.1 – 10.10.1.14  
 - **Broadcast Address:** 10.10.1.15
 
-
 ---
 
-
-# 🌐 VLSM Design Strategy  
+# VLSM Design Strategy  
 
 This network uses **Variable Length Subnet Masking (VLSM)** to efficiently allocate address space while avoiding IP waste.
 
@@ -107,5 +105,5 @@ Each department receives a /27 subnet, which provides:
 ### This VLAN and IP addressing design ensures:
 
 - Network segmentation by Department and Floor
-- Improved security between departments  
-- Scalability for future expansion  
+- Improved security between departments
+- Scalability for future expansion
