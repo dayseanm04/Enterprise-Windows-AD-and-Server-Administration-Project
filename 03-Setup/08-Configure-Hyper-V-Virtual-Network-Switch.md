@@ -50,6 +50,15 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 
 <img width="725" height="358" alt="35" src="https://github.com/user-attachments/assets/44fc9902-a3e2-42fa-be98-efbbdaadd06d" />
 
+---
 
+# Step 3 – Verify Network Connectivity
+
+1. Start the **Windows-2019-SRV** virtual machine
+2. Log in
+3. Open **Command Prompt**
+4. Run: **`ipconfig`**
+
+<img width="715" height="311" alt="37" src="https://github.com/user-attachments/assets/2efffeeb-f54c-4780-8e0d-6a5f30f54eba" />
 
 
