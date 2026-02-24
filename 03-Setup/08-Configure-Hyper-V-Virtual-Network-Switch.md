@@ -33,5 +33,18 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 
 <img width="360" height="251" alt="33" src="https://github.com/user-attachments/assets/ad619a66-897c-4be3-930a-ef1b4b68d29c" />
 
+---
+
+# Step 2 – Attach the Virtual Switch to the VM
+
+1. In **Hyper-V Manager**
+2. Right-click the **Windows-2019-SRV** virtual machine
+3. Click **Settings**
+
+<img width="462" height="135" alt="34" src="https://github.com/user-attachments/assets/6e1bff51-796f-4462-be24-ab36dad32026" />
+
+
+
+
 
 
