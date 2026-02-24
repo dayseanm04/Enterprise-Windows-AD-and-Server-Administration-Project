@@ -12,8 +12,9 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 2. On the right panel, click **Virtual Switch Manager**
 
 <img width="425" height="142" alt="30" src="https://github.com/user-attachments/assets/ad7e3e5a-08fa-4e6f-802a-205590f643e2" />
-<img width="425" height="142" alt="30" src="https://github.com/user-attachments/assets/ad7e3e5a-08fa-4e6f-802a-205590f643e2" />
-
 
 4. Select **External**
 5. Click **Create Virtual Switch**
+
+<img width="725" height="281" alt="31" src="https://github.com/user-attachments/assets/fcac793a-9707-48d0-a515-1b8d4c90539c" />
+
