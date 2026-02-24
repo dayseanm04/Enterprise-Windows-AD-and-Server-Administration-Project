@@ -18,3 +18,12 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 
 <img width="725" height="281" alt="31" src="https://github.com/user-attachments/assets/fcac793a-9707-48d0-a515-1b8d4c90539c" />
 
+### Configuration:
+
+- **Name:** `OTCS-SW`
+- **Description:** Virtual switch for Oak Town Corporate Services AD Lab
+- **Connection Type:** External network
+- Select the appropriate **physical network adapter**
+
+<img width="724" height="550" alt="32" src="https://github.com/user-attachments/assets/3572c2cc-3439-4e78-8272-2a31461810a2" />
+
