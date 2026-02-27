@@ -31,3 +31,27 @@ During this process:
 
 <img width="397" height="209" alt="1" src="https://github.com/user-attachments/assets/b2e1a784-71ec-4da1-a4c8-0e08ce0c4e1a" />
 
+### Role Installation Wizard
+
+1. Click **Next** in the before you begin page
+2. Select:
+   - **Role-based or feature-based installation**
+3. Click **Next**
+
+<img width="792" height="310" alt="2" src="https://github.com/user-attachments/assets/54d72dba-648a-468e-9346-488dbebaf0ef" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
