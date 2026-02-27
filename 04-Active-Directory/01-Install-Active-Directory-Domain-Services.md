@@ -68,4 +68,5 @@ make sure **`Include management tools (if applicable)`** is checked
 11. Click **Yes** at the confirmation page
 12. Click **Install**
 
+<img width="782" height="560" alt="8" src="https://github.com/user-attachments/assets/389da9fc-a027-4576-adcd-4556cf06041b" />
 
