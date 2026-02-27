@@ -40,7 +40,8 @@ During this process:
 
 <img width="792" height="310" alt="2" src="https://github.com/user-attachments/assets/54d72dba-648a-468e-9346-488dbebaf0ef" />
 
-
+4. Select the local server
+5. Click **Next**
 
 
 
