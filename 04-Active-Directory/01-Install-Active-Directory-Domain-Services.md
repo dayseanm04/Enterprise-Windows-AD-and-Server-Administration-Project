@@ -21,3 +21,12 @@ During this process:
 - **NetBIOS Domain Name:** OTCSCORP
 - **Server Role:** Domain Controller (DC01)
 
+---
+
+# Step 1 – Install AD DS Role
+
+1. Open **Server Manager**
+2. Click **Manage** (top-right)
+3. Select **Add Roles and Features**
+
+
