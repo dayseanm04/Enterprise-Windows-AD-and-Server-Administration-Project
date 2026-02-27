@@ -43,6 +43,7 @@ During this process:
 4. Select the local server
 5. Click **Next**
 
+<img width="774" height="355" alt="3" src="https://github.com/user-attachments/assets/7a653677-8c90-4972-b28f-f5e723dc89f5" />
 
 
 
