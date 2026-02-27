@@ -50,8 +50,10 @@ During this process:
 
 <img width="582" height="215" alt="4" src="https://github.com/user-attachments/assets/295b20bb-de7e-4665-88e8-56543d7125c7" />
 
+7. Click **Add Features**
+make sure **`Include management tools (if applicable)`** is checked
 
-
+<img width="416" height="424" alt="5" src="https://github.com/user-attachments/assets/2503a21a-c310-4f46-af65-fb0cb54fc4a4" />
 
 
 
