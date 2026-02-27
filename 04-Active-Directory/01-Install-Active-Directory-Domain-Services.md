@@ -82,5 +82,8 @@ After installation completes:
 
 <img width="592" height="463" alt="9" src="https://github.com/user-attachments/assets/a59005e9-471d-4bce-8853-26236cb48204" />
 
+### Deployment Configuration
 
+1. Select:
+   - **Add a new forest**
 
