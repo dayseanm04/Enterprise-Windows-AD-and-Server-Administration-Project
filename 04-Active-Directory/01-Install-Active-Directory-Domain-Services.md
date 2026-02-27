@@ -101,7 +101,8 @@ After installation completes:
 
 <img width="755" height="558" alt="11" src="https://github.com/user-attachments/assets/1cf8d3da-ad47-4daf-b264-af61cff3bf7b" />
 
+# Step 4 – DNS Options
 
-
+1. Ensure that **Create DNS delegation** is unchecked
 
 
