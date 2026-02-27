@@ -29,4 +29,5 @@ During this process:
 2. Click **Manage** (top-right)
 3. Select **Add Roles and Features**
 
+<img width="397" height="209" alt="1" src="https://github.com/user-attachments/assets/b2e1a784-71ec-4da1-a4c8-0e08ce0c4e1a" />
 
