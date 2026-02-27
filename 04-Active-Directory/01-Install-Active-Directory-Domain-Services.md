@@ -90,5 +90,8 @@ After installation completes:
 
 <img width="762" height="338" alt="10" src="https://github.com/user-attachments/assets/5e281307-18b9-4e5f-9ff7-d8795e7257b5" />
 
+3. Click **Next**
+
+---
 
 
