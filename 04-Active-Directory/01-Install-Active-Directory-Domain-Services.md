@@ -145,6 +145,13 @@ Log in using: Administrator and the password
 
 <img width="956" height="481" alt="18" src="https://github.com/user-attachments/assets/ef2646e1-2f1a-4b8b-b4eb-cef40e684c8f" />
 
+# Step 8 – Run Best Practices Analyzer (BPA)
 
+1. Open **Server Manager**
+2. Click **Local Server**
+<img width="732" height="373" alt="19" src="https://github.com/user-attachments/assets/fbf51bcc-f77e-4e29-9658-1b812e0af5cd" />
+
+
+4. Scroll down
 
 
