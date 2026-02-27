@@ -72,8 +72,6 @@ make sure **`Include management tools (if applicable)`** is checked
 
 Wait for installation to complete.
 
----
-
 # Step 2 – Promote Server to Domain Controller
 
 After installation completes:
@@ -92,8 +90,6 @@ After installation completes:
 
 3. Click **Next**
 
----
-
 # Step 3 – Domain Controller Options
 
 1. Set the **Directory Services Restore Mode (DSRM) password**
@@ -107,4 +103,32 @@ After installation completes:
 2. Click **Next**
 
 <img width="764" height="567" alt="12" src="https://github.com/user-attachments/assets/49ff7cfc-e50f-4e32-9043-350fee95ebd6" />
+
+---
+
+# 5 Step 5 – NetBIOS Domain Name
+
+The system auto-generates:
+
+1. NETBIOS name: **`OTCSCORP`**
+2. Click **Next**
+
+<img width="756" height="558" alt="13" src="https://github.com/user-attachments/assets/7bbc3e39-60ff-4158-a98d-95066891b752" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
