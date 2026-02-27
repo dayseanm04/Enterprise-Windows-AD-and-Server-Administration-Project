@@ -133,9 +133,17 @@ The system auto-generates:
 
 <img width="756" height="561" alt="17" src="https://github.com/user-attachments/assets/891c11c2-c326-4562-8998-471fb7e647bf" />
 
+The server will restart automatically after promotion.
 
+---
 
+# Step 7 – Log into the Domain
 
+After reboot:
+
+Log in using: Administrator and the password
+
+<img width="956" height="481" alt="18" src="https://github.com/user-attachments/assets/ef2646e1-2f1a-4b8b-b4eb-cef40e684c8f" />
 
 
 
