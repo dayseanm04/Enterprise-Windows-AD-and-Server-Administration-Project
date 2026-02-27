@@ -70,3 +70,6 @@ make sure **`Include management tools (if applicable)`** is checked
 
 <img width="782" height="560" alt="8" src="https://github.com/user-attachments/assets/389da9fc-a027-4576-adcd-4556cf06041b" />
 
+Wait for installation to complete.
+
+
