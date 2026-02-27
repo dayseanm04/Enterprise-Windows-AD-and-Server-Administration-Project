@@ -60,7 +60,10 @@ make sure **`Include management tools (if applicable)`** is checked
 
 <img width="788" height="557" alt="6" src="https://github.com/user-attachments/assets/67059d6a-1166-404c-b86e-596fa8a9dac9" />
 
+10. Check:
+    - ✅ Restart the destination server automatically if required
 
+<img width="785" height="398" alt="7" src="https://github.com/user-attachments/assets/8cf87907-80f1-4586-aec1-93b2600869f0" />
 
 
 
