@@ -121,7 +121,9 @@ The system auto-generates:
 
 <img width="761" height="562" alt="14" src="https://github.com/user-attachments/assets/8a6f9554-37f0-487c-93a1-260f1a1424d2" />
 
+2. Click **Install**
 
+<img width="759" height="558" alt="15" src="https://github.com/user-attachments/assets/bace250f-2ef9-4fc3-904b-9ccbbf25656c" />
 
 
 
