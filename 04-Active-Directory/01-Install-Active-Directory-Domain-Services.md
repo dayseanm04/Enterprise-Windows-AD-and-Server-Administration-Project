@@ -125,11 +125,13 @@ The system auto-generates:
 
 <img width="759" height="558" alt="15" src="https://github.com/user-attachments/assets/bace250f-2ef9-4fc3-904b-9ccbbf25656c" />
 
-3. Click Close
+3. Click **Close**
 
 <img width="768" height="563" alt="16" src="https://github.com/user-attachments/assets/5f732d61-2ad7-4f61-876f-50402484958b" />
 
+4. Click **Close**
 
+<img width="756" height="561" alt="17" src="https://github.com/user-attachments/assets/891c11c2-c326-4562-8998-471fb7e647bf" />
 
 
 
