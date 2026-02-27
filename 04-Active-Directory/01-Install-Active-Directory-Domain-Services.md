@@ -115,9 +115,11 @@ The system auto-generates:
 
 <img width="756" height="558" alt="13" src="https://github.com/user-attachments/assets/7bbc3e39-60ff-4158-a98d-95066891b752" />
 
+#  Step 6 – Additional Configuration
 
+1. Click **Next** under the paths page
 
-
+<img width="761" height="562" alt="14" src="https://github.com/user-attachments/assets/8a6f9554-37f0-487c-93a1-260f1a1424d2" />
 
 
 
