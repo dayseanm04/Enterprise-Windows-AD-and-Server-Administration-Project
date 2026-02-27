@@ -72,4 +72,11 @@ make sure **`Include management tools (if applicable)`** is checked
 
 Wait for installation to complete.
 
+---
+
+# Step 2 – Promote Server to Domain Controller
+
+After installation completes:
+
+1. Click **Promote this server to a domain controller**
 
