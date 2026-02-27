@@ -104,5 +104,7 @@ After installation completes:
 # Step 4 – DNS Options
 
 1. Ensure that **Create DNS delegation** is unchecked
+2. Click **Next**
 
+<img width="764" height="567" alt="12" src="https://github.com/user-attachments/assets/49ff7cfc-e50f-4e32-9043-350fee95ebd6" />
 
