@@ -2,4 +2,8 @@
 
 ## Overview
 
-In this phase I will deploy Active Directory Domain Services (AD DS) and promotes the Windows Server 2019 system to a Domain Controller.
+In this phase I will deploy Active Directory Domain Services (AD DS) and promotes the Windows Server 2019 VM to a Domain Controller.
+
+During this process:
+
+- I will install AD DS role on the Windows-2019-SRV VM
