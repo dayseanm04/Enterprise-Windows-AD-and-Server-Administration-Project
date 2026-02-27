@@ -55,7 +55,10 @@ make sure **`Include management tools (if applicable)`** is checked
 
 <img width="416" height="424" alt="5" src="https://github.com/user-attachments/assets/2503a21a-c310-4f46-af65-fb0cb54fc4a4" />
 
+8. Click **Next**
+9. Click **Next**
 
+<img width="788" height="557" alt="6" src="https://github.com/user-attachments/assets/67059d6a-1166-404c-b86e-596fa8a9dac9" />
 
 
 
