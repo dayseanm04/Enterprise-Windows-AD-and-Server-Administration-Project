@@ -7,3 +7,4 @@ In this phase I will deploy Active Directory Domain Services (AD DS) and promote
 During this process:
 
 - I will install AD DS role on the Windows-2019-SRV VM
+- Create a new forest
