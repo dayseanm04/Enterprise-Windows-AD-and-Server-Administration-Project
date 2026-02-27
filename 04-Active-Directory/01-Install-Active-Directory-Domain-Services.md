@@ -156,3 +156,7 @@ Log in using: Administrator and the password
 
 <img width="787" height="264" alt="20" src="https://github.com/user-attachments/assets/ab4929a8-4876-4896-ac0e-55020e3739c5" />
 
+Note: I havent done any DNS configs thats why most of the warning are DNS releated.
+
+<img width="751" height="403" alt="21" src="https://github.com/user-attachments/assets/a097edfd-5fa6-4eb3-8920-660c56337fef" />
+
