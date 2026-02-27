@@ -11,3 +11,10 @@ During this process:
 - Configure a root domain
 - Promoted to a Domain Controller
 - Scan Best Practices Analyzer(BPA) after AD DS installation
+
+---
+
+# Environment Details
+
+- **Company Name:** Oak Town Corporate Services
+
