@@ -8,3 +8,5 @@ During this process:
 
 - I will install AD DS role on the Windows-2019-SRV VM
 - Create a new forest
+- Configure a root domain
+- Promoted to a Domain Controller
