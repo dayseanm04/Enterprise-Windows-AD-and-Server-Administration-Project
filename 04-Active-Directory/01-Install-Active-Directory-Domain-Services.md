@@ -151,7 +151,8 @@ Log in using: Administrator and the password
 2. Click **Local Server**
 <img width="732" height="373" alt="19" src="https://github.com/user-attachments/assets/fbf51bcc-f77e-4e29-9658-1b812e0af5cd" />
 
-
 4. Scroll down
+4. Click **Start BPA Scan**
 
+<img width="787" height="264" alt="20" src="https://github.com/user-attachments/assets/ab4929a8-4876-4896-ac0e-55020e3739c5" />
 
