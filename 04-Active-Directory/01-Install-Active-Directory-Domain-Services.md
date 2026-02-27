@@ -10,3 +10,4 @@ During this process:
 - Create a new forest
 - Configure a root domain
 - Promoted to a Domain Controller
+- Scan Best Practices Analyzer(BPA) after AD DS installation
