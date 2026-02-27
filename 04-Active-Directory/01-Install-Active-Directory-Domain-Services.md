@@ -97,6 +97,9 @@ After installation completes:
 # Step 3 – Domain Controller Options
 
 1. Set the **Directory Services Restore Mode (DSRM) password**
+2. Click **Next**
+
+<img width="755" height="558" alt="11" src="https://github.com/user-attachments/assets/1cf8d3da-ad47-4daf-b264-af61cff3bf7b" />
 
 
 
