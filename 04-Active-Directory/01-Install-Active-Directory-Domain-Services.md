@@ -48,6 +48,7 @@ During this process:
 6. Select:
    - **Active Directory Domain Services**
 
+<img width="582" height="215" alt="4" src="https://github.com/user-attachments/assets/295b20bb-de7e-4665-88e8-56543d7125c7" />
 
 
 
