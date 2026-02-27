@@ -17,4 +17,7 @@ During this process:
 # Environment Details
 
 - **Company Name:** Oak Town Corporate Services
+- **Forest Root Domain:** corp.oaktowncs.com
+- **NetBIOS Domain Name:** OTCSCORP
+- **Server Role:** Domain Controller (DC01)
 
