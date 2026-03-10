@@ -78,7 +78,23 @@ IT computers are further divided into:
 
 This supports different configurations for administrative workstations.
 
+---
 
+# Groups OU
+
+The **Groups-OU** contains Active Directory groups used for permissions and communication.
+
+Two types of groups are used:
+
+### Security Groups
+
+Will be used to assign permissions to:
+
+- File shares
+- Applications
+- Network resources
+
+Security groups are organized by department.
 
 
 
