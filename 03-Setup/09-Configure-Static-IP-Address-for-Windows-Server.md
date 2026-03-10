@@ -78,7 +78,14 @@ Click the active network adapter: **Ethernet**
 
 <img width="577" height="451" alt="34" src="https://github.com/user-attachments/assets/5b1bed2d-85bb-4ad1-8bc7-c45afd8be940" />
 
+---
 
+### Step 5
 
+Click on **Properties**
+
+<img width="606" height="505" alt="35" src="https://github.com/user-attachments/assets/63d12ed4-6e82-4340-bb5d-77a4e163e4b3" />
+
+Select **Internet Protocol Version 4 (TCP/IPv4)**
 
 
