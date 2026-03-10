@@ -57,7 +57,14 @@ The IT department includes two additional sub-OUs:
 - **Admins-OU** – For privileged IT tasks
 - **Standard-OU** – for regular IT tasks
 
+---
 
+# Workstations OU
+
+The **Workstations-OU** contains workstation objects for employees.
+
+Each department has its own OU so that policies such as:
+- Security policies
 
 
 
