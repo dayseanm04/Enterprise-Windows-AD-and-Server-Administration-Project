@@ -70,8 +70,13 @@ Click on **Network and Sharing Center**
 
 <img width="783" height="339" alt="33" src="https://github.com/user-attachments/assets/08d902f5-d443-484d-9af2-1018da89eb3f" />
 
+---
 
+### Step 4
 
+Click the active network adapter: **Ethernet**
+
+<img width="577" height="451" alt="34" src="https://github.com/user-attachments/assets/5b1bed2d-85bb-4ad1-8bc7-c45afd8be940" />
 
 
 
