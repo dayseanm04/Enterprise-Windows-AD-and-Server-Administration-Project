@@ -51,7 +51,9 @@ The **Users-OU** will contains all user accounts within the organization.
 
 Users are separated by department to make it easier to:
 - Apply department-specific Group Policies
+- Manage permissions
 
+The IT department includes two additional sub-OUs:
 
 
 
