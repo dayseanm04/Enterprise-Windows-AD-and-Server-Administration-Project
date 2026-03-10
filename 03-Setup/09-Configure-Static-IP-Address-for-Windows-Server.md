@@ -91,11 +91,18 @@ Click on **Properties**
 
 <img width="692" height="518" alt="36" src="https://github.com/user-attachments/assets/4ab8b92a-756e-415d-8e37-3b3fe6c98a7f" />
 
+----
 
+### Step 7
 
+Select **Use the following IP address**
 
+Use the following Config
+- IP address: 192.168.1.2
+- Subnet Mask: 255.255.255.0
+- Default Gateway: 192.168.1.1
 
-
+Enable **Validate settings upon exit**
 
 
 
