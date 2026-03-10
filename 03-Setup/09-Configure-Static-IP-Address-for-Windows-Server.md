@@ -15,10 +15,10 @@ This server will function as the **Domain Controller** for the Oak Town Corporat
 
 # Server Information
 
-**Server VM Name:** Windows-2019-SRV
-**Server name (computer name):** OTCS-SRV-DC01
-**Role:** Domain Controller  
-**Network Type:** Static IP Configuration
+**Server VM Name:** Windows-2019-SRV <br/>
+**Server name (computer name):** OTCS-SRV-DC01 <br/>
+**Role:** Domain Controller <br/>
+**Network Type:** Static IP Configuration <br/>
 
 ---
 
