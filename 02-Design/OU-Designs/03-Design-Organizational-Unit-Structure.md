@@ -120,6 +120,9 @@ Will contains **Domain Controllers** responsible for:
 - Active Directory services
 - Directory replication
 
+### File-Srvs
+
+Note: for this project I only have 2 OUs for the Server-OU in the diagram
 
 
 
