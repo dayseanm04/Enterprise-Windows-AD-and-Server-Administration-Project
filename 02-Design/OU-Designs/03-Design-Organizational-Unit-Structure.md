@@ -134,8 +134,15 @@ The **Disabled-OU** will be used to store inactive objects.
 
 Instead of deleting users or computers immediately, they are moved here.
 
+This allows administrators to:
+- Preserve historical data
+- Prevent accidental deletion
+- Maintain records fpr auditing
 
-
+Objects placed in this OU may include:
+- Former employee accounts
+- Decommissioned workstations
+- Temporary disabled systems
 
 
 
