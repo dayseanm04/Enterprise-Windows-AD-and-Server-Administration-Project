@@ -7,3 +7,7 @@ The OU structure is designed to:
 - Organize Active Directory objects logically
 - Reflect the company’s departmental structure
 - Simplify Group Policy management
+
+## Reference OU Design
+
+![D1](01-OU-Design-Workstations-and-Users.png)
