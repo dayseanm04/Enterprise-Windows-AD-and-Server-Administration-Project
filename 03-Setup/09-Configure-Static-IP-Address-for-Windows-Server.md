@@ -110,6 +110,21 @@ Click **OK**.
 
 <img width="692" height="518" alt="36" src="https://github.com/user-attachments/assets/4ab8b92a-756e-415d-8e37-3b3fe6c98a7f" />
 
+Close the tabs
+
+---
+
+# Verify Static IP Configuration
+
+### Step 1
+
+Open **Command Prompt**.
+
+### Step 2
+
+Run: ipconfig
+
+<img width="678" height="389" alt="37" src="https://github.com/user-attachments/assets/59d4b230-4bc2-4f16-b89b-20182eb51427" />
 
 
 
