@@ -102,9 +102,13 @@ Use the following Config
 - Subnet Mask: 255.255.255.0
 - Default Gateway: 192.168.1.1
 
+Ignore the DNS config for the mean time. (Its my loopback IP)
+
 Enable **Validate settings upon exit**
 
+Click **OK**.
 
+<img width="692" height="518" alt="36" src="https://github.com/user-attachments/assets/4ab8b92a-756e-415d-8e37-3b3fe6c98a7f" />
 
 
 
