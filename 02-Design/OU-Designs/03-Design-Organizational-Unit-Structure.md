@@ -54,7 +54,8 @@ Users are separated by department to make it easier to:
 - Manage permissions
 
 The IT department includes two additional sub-OUs:
-
+- **Admins-OU** – For privileged IT tasks
+- **Standard-OU** – for regular IT tasks
 
 
 
