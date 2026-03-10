@@ -86,6 +86,27 @@ Click on **Properties**
 
 <img width="606" height="505" alt="35" src="https://github.com/user-attachments/assets/63d12ed4-6e82-4340-bb5d-77a4e163e4b3" />
 
-Select **Internet Protocol Version 4 (TCP/IPv4)**
+- Select **Internet Protocol Version 4 (TCP/IPv4)**
+- Then click **Properties**.
+
+<img width="692" height="518" alt="36" src="https://github.com/user-attachments/assets/4ab8b92a-756e-415d-8e37-3b3fe6c98a7f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
