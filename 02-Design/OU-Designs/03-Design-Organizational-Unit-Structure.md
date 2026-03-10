@@ -37,5 +37,21 @@ Admin = Administration
 # OU Design Strategy
 
 The OU structure separates Active Directory objects by **type and function**. The main categories are:
+- Users
+- Computers
+- Groups
+- Servers
+- Disabled Objects
+
+
+
+
+
+
+
+
+
+
+
 
 
