@@ -54,8 +54,13 @@ Open **Control Panel**.
 
 <img width="793" height="353" alt="31" src="https://github.com/user-attachments/assets/1055d9ed-bf67-4197-9bf8-3546f9dd124c" />
 
+---
 
+### Step 2
 
+Click on **Network and Internet**
+
+<img width="806" height="299" alt="32" src="https://github.com/user-attachments/assets/fa18184a-996b-4d29-8586-5c4a7d2b1efc" />
 
 
 
