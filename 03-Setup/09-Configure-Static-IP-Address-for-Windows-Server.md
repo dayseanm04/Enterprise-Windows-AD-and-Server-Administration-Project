@@ -11,4 +11,12 @@ Assigning a static IP is critical for servers, especially **Domain Controllers**
 
 This server will function as the **Domain Controller** for the Oak Town Corporate Services environment.
 
+---
 
+# Server Information
+
+**Server VM Name:** Windows-2019-SRV
+**Role:** Domain Controller  
+**Network Type:** Static IP Configuration
+
+Note: This IP is the IP this Server first received when I configured this VM using the default switch.
