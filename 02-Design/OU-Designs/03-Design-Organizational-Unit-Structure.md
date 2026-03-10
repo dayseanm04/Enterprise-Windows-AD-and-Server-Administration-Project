@@ -67,8 +67,16 @@ Each department has its own OU so that policies such as:
 - Security policies
 - Software deployment
 - Desktop configuration
+- Windows updates
 
+can be applied based on department.
 
+IT computers are further divided into:
+
+- **Admins-OU**
+- **Standard-OU**
+
+This supports different configurations for administrative workstations.
 
 
 
