@@ -126,13 +126,17 @@ Run: ipconfig
 
 <img width="678" height="389" alt="37" src="https://github.com/user-attachments/assets/59d4b230-4bc2-4f16-b89b-20182eb51427" />
 
+---
 
+# Test Default gateway reachability
 
+ping 192.168.1.1
 
+Results
 
+<img width="656" height="351" alt="39" src="https://github.com/user-attachments/assets/fd092419-89a9-4466-a9a6-e528483aa3ae" />
 
+The Windows Server 2019 VM now has a **static IP address configured**.
 
-
-
-
+This configuration is essential for the server’s role as the **Domain Controller** in the Oak Town Corporate Services Active Directory environment.
 
