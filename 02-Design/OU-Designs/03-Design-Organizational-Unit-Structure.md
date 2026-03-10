@@ -13,3 +13,6 @@ The OU structure is designed to:
 ![D1](01-OU-Design-Workstations-and-Users.png)
 ![D2](02-OU-Design-Groups-and-Servers.png)
 
+The domain is **corp.oaktowncs.com**
+
+Company name is: Oak Town Corporate Services
