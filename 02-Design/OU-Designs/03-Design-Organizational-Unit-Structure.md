@@ -14,5 +14,16 @@ The OU structure is designed to:
 ![D2](02-OU-Design-Groups-and-Servers.png)
 
 The domain is **corp.oaktowncs.com**
-
 Company name is: Oak Town Corporate Services
+
+# Company Departments
+
+The simulated organization includes the following departments:
+
+- Human Resources (HR)
+- Finance
+- Information Technology (IT)
+- Administration (Admin)
+- Customer Service (CS)
+
+
