@@ -9,4 +9,6 @@ Assigning a static IP is critical for servers, especially **Domain Controllers**
 - DNS
 - Authentication
 
-  
+This server will function as the **Domain Controller** for the Oak Town Corporate Services environment.
+
+
