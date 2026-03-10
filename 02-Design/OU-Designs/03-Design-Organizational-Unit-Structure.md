@@ -107,6 +107,18 @@ These groups are also organized by department.
 
 ---
 
+# Servers OU
+
+The **Servers-OU** contains server systems within the environment.
+
+Servers are separated into  categories:
+
+### DCs-OU
+Will contains **Domain Controllers** responsible for:
+
+- Authentication
+- Active Directory services
+- Directory replication
 
 
 
