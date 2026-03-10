@@ -65,6 +65,8 @@ The **Workstations-OU** contains workstation objects for employees.
 
 Each department has its own OU so that policies such as:
 - Security policies
+- Software deployment
+- Desktop configuration
 
 
 
