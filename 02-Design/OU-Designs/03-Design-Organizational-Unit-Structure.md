@@ -144,7 +144,16 @@ Objects placed in this OU may include:
 - Decommissioned workstations
 - Temporary disabled systems
 
+---
 
+# Design Benefits
+
+This OU structure provides several advantages:
+
+- Department-based policy management
+- Separation of servers, users, and workstations
+- Improved administrative delegation
+- Better scalability for future growth
 
 
 
