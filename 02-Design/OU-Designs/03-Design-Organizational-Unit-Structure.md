@@ -122,12 +122,17 @@ Will contains **Domain Controllers** responsible for:
 
 ### File-Srvs
 
-Note: for this project I only have 2 OUs for the Server-OU in the diagram
+Note: for this project I only have 2 OUs in the Server-OU in the diagram above. Just know that an organization might have multple servers for different purposes
 
+Separating server roles allows different **Group Policies** to be applied.
 
+---
 
+# Disabled OU
 
+The **Disabled-OU** will be used to store inactive objects.
 
+Instead of deleting users or computers immediately, they are moved here.
 
 
 
