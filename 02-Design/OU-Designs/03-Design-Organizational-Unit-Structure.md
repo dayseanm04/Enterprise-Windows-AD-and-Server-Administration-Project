@@ -5,3 +5,5 @@ This document outlines the **Organizational Unit (OU) design** for the Active Di
 The OU structure is designed to:
 
 - Organize Active Directory objects logically
+- Reflect the company’s departmental structure
+- Simplify Group Policy management
