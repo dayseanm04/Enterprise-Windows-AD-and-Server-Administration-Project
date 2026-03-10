@@ -62,8 +62,13 @@ Click on **Network and Internet**
 
 <img width="806" height="299" alt="32" src="https://github.com/user-attachments/assets/fa18184a-996b-4d29-8586-5c4a7d2b1efc" />
 
+---
 
+### Step 3
 
+Click on **Network and Sharing Center**
+
+<img width="783" height="339" alt="33" src="https://github.com/user-attachments/assets/08d902f5-d443-484d-9af2-1018da89eb3f" />
 
 
 
