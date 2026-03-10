@@ -42,10 +42,15 @@ ipconfig /all
 
 <img width="900" height="485" alt="30" src="https://github.com/user-attachments/assets/090da12a-623b-4f56-ac22-9e5e206beb86" />
 
+Note: The server initially received this **IP address from DHCP**, I using the Hyper-V default switch.
 
-Note: This IP is the IP this Server first received when I configured this VM using the default switch.
+---
 
+# Configure Static IP Address
 
+### Step 1
+
+Open **Control Panel**.
 
 
 
