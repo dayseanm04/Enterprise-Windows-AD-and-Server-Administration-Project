@@ -32,3 +32,10 @@ These departments are used to structure **users, computers, and groups** within 
 CS = Customer Service  
 Admin = Administration
 
+---
+
+# OU Design Strategy
+
+The OU structure separates Active Directory objects by **type and function**. The main categories are:
+
+
