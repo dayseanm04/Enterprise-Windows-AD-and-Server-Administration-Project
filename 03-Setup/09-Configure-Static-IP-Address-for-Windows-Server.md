@@ -52,6 +52,8 @@ Note: The server initially received this **IP address from DHCP**, I using the H
 
 Open **Control Panel**.
 
+<img width="793" height="353" alt="31" src="https://github.com/user-attachments/assets/1055d9ed-bf67-4197-9bf8-3546f9dd124c" />
+
 
 
 
