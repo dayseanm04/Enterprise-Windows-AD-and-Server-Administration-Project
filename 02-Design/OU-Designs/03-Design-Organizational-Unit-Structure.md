@@ -96,5 +96,29 @@ Will be used to assign permissions to:
 
 Security groups are organized by department.
 
+### Distribution Groups
+
+Will ber used primarily for:
+
+- Email distribution lists
+- Communication within departments
+
+These groups are also organized by department.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
