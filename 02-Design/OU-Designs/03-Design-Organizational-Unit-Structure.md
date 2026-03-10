@@ -26,4 +26,9 @@ The simulated organization includes the following departments:
 - Administration (Admin)
 - Customer Service (CS)
 
+These departments are used to structure **users, computers, and groups** within Active Directory.
+
+**Note:**  
+CS = Customer Service  
+Admin = Administration
 
