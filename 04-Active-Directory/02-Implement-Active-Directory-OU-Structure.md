@@ -56,6 +56,7 @@ I will use Active Directory Administration center for this
 1. Open **Server Manager**
 2. Click **Tools**
 3. Select **Active Directory Administration Center**
+4. Click on **Corp (local)**
 
 <img width="914" height="404" alt="44" src="https://github.com/user-attachments/assets/fb8579b5-23bf-49a5-ad33-bf815bfe1e56" />
 
