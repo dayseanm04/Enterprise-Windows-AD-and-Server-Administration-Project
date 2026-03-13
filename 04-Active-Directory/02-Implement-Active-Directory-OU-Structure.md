@@ -16,7 +16,7 @@ The domain used in this environment is: **corp.oaktowncs.com**
 
 ---
 
-# Step 1 – Open Active Directory Users and Computers
+### Step 1 – Open Active Directory Users and Computers
 
 1. Open **Server Manager**
 2. Click **Tools**
