@@ -51,10 +51,17 @@ Click **OK** to create each OU.
 
 ### Step 3 – Create Departmental OUs
 
-Departmental OUs are created under **Users-OU** and **Workstations-OU**.
+I will use Active Directory Administration center for this
 
-Each OU includes a description to  identify the department.
+1. Open **Server Manager**
+2. Click **Tools**
+3. Select **Active Directory Administration Center**
 
+<img width="914" height="404" alt="44" src="https://github.com/user-attachments/assets/fb8579b5-23bf-49a5-ad33-bf815bfe1e56" />
+
+Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each OU includes a description to  identify the department.
+
+Example: <br/>
 OU Name: IT <br/>
 Description: Information Technology Department <br/>
 
