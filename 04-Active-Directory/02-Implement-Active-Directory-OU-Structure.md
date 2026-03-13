@@ -47,4 +47,42 @@ Click **OK** to create each OU.
 
 <img width="837" height="386" alt="43" src="https://github.com/user-attachments/assets/bd083bd2-59eb-4371-9a25-7f0e8f1375cc" />
 
+---
+
+# Step 3 – Create Departmental OUs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
