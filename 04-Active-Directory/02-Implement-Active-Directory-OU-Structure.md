@@ -51,6 +51,7 @@ Click **OK** to create each OU.
 
 # Step 3 – Create Departmental OUs
 
+Departmental OUs are created under **Users-OU** and **Workstations-OU**.
 
 
 
