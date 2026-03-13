@@ -21,3 +21,5 @@ The domain used in this environment is: **corp.oaktowncs.com**
 1. Open **Server Manager**
 2. Click **Tools**
 3. Select:
+
+<img width="590" height="196" alt="40" src="https://github.com/user-attachments/assets/44f373f3-d212-41a3-8960-505940cca50d" />
