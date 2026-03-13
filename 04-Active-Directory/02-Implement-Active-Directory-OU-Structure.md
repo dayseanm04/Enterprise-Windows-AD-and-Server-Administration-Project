@@ -30,3 +30,5 @@ Expand the domain **corp.oaktowncs.com**
 
 <img width="757" height="269" alt="41" src="https://github.com/user-attachments/assets/a645776a-fdda-4e2e-84b9-58bd5f299f15" />
 
+Right-click the domain and select: New > Organizational Unit
+
