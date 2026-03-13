@@ -98,6 +98,7 @@ Inside **Disabled-OU**, create:
 
 Within **Groups-OU**, create two sub-OUs: **Distribution-Groups** and **Security-Groups**
 
+![Uploading 50.png…]()
 
 
 
