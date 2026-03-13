@@ -92,6 +92,8 @@ Inside **Disabled-OU**, create:
 
 <img width="905" height="366" alt="49" src="https://github.com/user-attachments/assets/024dc949-4e64-44b4-ab52-bb90cd7447d6" />
 
+When accounts or systems are no longer active, they I will moved them here instead of being deleting them. This approach helps maintain audit history and improves object management.
+
 ---
 
 # Step 5 – Create Group Organizational Units
