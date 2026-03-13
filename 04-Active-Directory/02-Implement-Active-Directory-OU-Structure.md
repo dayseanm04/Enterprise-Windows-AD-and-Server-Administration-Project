@@ -68,10 +68,7 @@ Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each O
 
 <img width="740" height="601" alt="46" src="https://github.com/user-attachments/assets/b94c6496-540a-45f6-a7f3-5a2e65222017" />
 
-#### Example: <br/>
-OU Name: **IT** <br/>
-Description: **Information Technology Department** <br/>
-Enable: **Protect from accidental deletion**
+4. Click **OK**
 
 
 
