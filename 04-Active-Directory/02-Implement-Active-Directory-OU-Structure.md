@@ -41,4 +41,5 @@ Create the following OUs:
 - Servers-OU
 - Disabled-OU
 
-Enable the option: **Protect container from accidental deletion**
+Enable the option: **Protect container from accidental deletion**<br/>
+Click **OK** to create each OU.
