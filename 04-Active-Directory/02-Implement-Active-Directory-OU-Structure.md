@@ -62,7 +62,13 @@ I will use Active Directory Administration center for this
 
 Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each OU includes a description to  identify the department.
 
-Example: <br/>
+1. Right click on the **Users-OU**
+2. Click **New**
+3. Select **Oganizational Unit**
+
+<img width="740" height="601" alt="46" src="https://github.com/user-attachments/assets/b94c6496-540a-45f6-a7f3-5a2e65222017" />
+
+#### Example: <br/>
 OU Name: **IT** <br/>
 Description: **Information Technology Department** <br/>
 Enable: **Protect from accidental deletion**
