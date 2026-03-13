@@ -12,4 +12,12 @@ View the: [OU Design](/02-Design/OU-Designs/03-Design-Organizational-Unit-Struct
 
 <img width="932" height="315" alt="02-OU-Design-Groups-and-Servers" src="https://github.com/user-attachments/assets/2fb7d178-db0d-4772-a4c2-1bce6055ab8e" />
 
+The domain used in this environment is: **corp.oaktowncs.com**
 
+---
+
+# Step 1 – Open Active Directory Users and Computers
+
+1. Open **Server Manager**
+2. Click **Tools**
+3. Select:
