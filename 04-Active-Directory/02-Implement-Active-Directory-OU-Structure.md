@@ -32,6 +32,7 @@ Expand the domain **corp.oaktowncs.com**
 
 Right-click the domain and select: New > Organizational Unit
 
+<img width="690" height="523" alt="42" src="https://github.com/user-attachments/assets/8b6cc463-b95c-42f4-9f59-ea0c667fe36b" />
 
 Create the following OUs:
 
