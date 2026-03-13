@@ -32,3 +32,13 @@ Expand the domain **corp.oaktowncs.com**
 
 Right-click the domain and select: New > Organizational Unit
 
+
+Create the following OUs:
+
+- Users-OU
+- Workstations-OU
+- Groups-OU
+- Servers-OU
+- Disabled-OU
+
+Enable the option: **Protect container from accidental deletion**
