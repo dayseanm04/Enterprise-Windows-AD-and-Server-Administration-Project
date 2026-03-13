@@ -23,3 +23,10 @@ The domain used in this environment is: **corp.oaktowncs.com**
 3. Select **Active Directory Users and Computers**
 
 <img width="590" height="196" alt="40" src="https://github.com/user-attachments/assets/44f373f3-d212-41a3-8960-505940cca50d" />
+
+### Step 2 – Create Core Organizational Units
+
+Expand the domain **corp.oaktowncs.com**
+
+<img width="757" height="269" alt="41" src="https://github.com/user-attachments/assets/a645776a-fdda-4e2e-84b9-58bd5f299f15" />
+
