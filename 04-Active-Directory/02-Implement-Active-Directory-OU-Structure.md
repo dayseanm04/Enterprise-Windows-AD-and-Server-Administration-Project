@@ -63,9 +63,9 @@ I will use Active Directory Administration center for this
 Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each OU includes a description to  identify the department.
 
 Example: <br/>
-OU Name: IT <br/>
-Description: Information Technology Department <br/>
-
+OU Name: **IT** <br/>
+Description: **Information Technology Department** <br/>
+Enable: **Protect from accidental deletion**
 
 
 
