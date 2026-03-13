@@ -74,7 +74,9 @@ Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each O
 
 <img width="821" height="460" alt="47" src="https://github.com/user-attachments/assets/dde973d2-8fbf-400b-9964-5ca9815eafa4" />
 
+### Department OU in Workstation-OU
 
+<img width="885" height="437" alt="48" src="https://github.com/user-attachments/assets/8f731e2e-7e2b-4c5a-9d49-e089fab3e5bc" />
 
 
 
