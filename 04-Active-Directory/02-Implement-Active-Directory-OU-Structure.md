@@ -4,4 +4,4 @@
 
 This phase I implemented the **Organizational Unit (OU) structure** for the Active Directory environment of **Oak Town Corporate Services**.
 
-[OU Design](/02-Design/OU-Designs/03-Design-Organizational-Unit-Structure.md)
+View the: [OU Design](/02-Design/OU-Designs/03-Design-Organizational-Unit-Structure.md)
