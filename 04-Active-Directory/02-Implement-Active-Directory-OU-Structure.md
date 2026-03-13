@@ -49,13 +49,14 @@ Click **OK** to create each OU.
 
 ---
 
-# Step 3 – Create Departmental OUs
+### Step 3 – Create Departmental OUs
 
 Departmental OUs are created under **Users-OU** and **Workstations-OU**.
 
+Each OU includes a description to  identify the department.
 
-
-
+OU Name: IT <br/>
+Description: Information Technology Department <br/>
 
 
 
