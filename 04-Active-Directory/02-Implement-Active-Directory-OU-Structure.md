@@ -70,7 +70,9 @@ Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each O
 
 4. Click **OK**
 
+### Department OU in User-OU
 
+<img width="821" height="460" alt="47" src="https://github.com/user-attachments/assets/dde973d2-8fbf-400b-9964-5ca9815eafa4" />
 
 
 
