@@ -78,6 +78,9 @@ Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each O
 
 <img width="885" height="437" alt="48" src="https://github.com/user-attachments/assets/8f731e2e-7e2b-4c5a-9d49-e089fab3e5bc" />
 
+---
+
+### Step 4 – Create Disabled Object OUs
 
 
 
