@@ -82,6 +82,7 @@ Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each O
 
 ### Step 4 – Create Disabled Object OUs
 
+I will not delete user, workstations or groups I will put them here in the Disabled-OU
 
 
 
