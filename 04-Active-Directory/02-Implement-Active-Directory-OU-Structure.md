@@ -92,8 +92,11 @@ Inside **Disabled-OU**, create:
 
 <img width="905" height="366" alt="49" src="https://github.com/user-attachments/assets/024dc949-4e64-44b4-ab52-bb90cd7447d6" />
 
+---
 
+# Step 5 – Create Group Organizational Units
 
+Within **Groups-OU**, create two sub-OUs: **Distribution-Groups** and **Security-Groups**
 
 
 
