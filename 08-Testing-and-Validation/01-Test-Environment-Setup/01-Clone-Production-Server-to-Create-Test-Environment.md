@@ -14,3 +14,9 @@ Production Server VM: **Windows-2019-SRV**
 
 Test Server VM: **TST-AD-SRV**
 
+The test server will be used for:
+
+- Configuration testing
+- Active Directory experiments
+- Group Policy validation
+- Administrative tasks testing
