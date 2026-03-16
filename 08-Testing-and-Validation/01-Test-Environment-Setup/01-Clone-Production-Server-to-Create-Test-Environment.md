@@ -64,9 +64,11 @@ This folder will store the virtual hard disk files for the test server..
 
 ![2](images/2.png)
 
+### Step 3 – Export Production Virtual Machine
 
+Open Hyper-V Manager.
 
-
+Locate the production virtual machine: **Windows-2019-SRV**
 
 
 
