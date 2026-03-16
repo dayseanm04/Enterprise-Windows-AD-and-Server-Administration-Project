@@ -68,11 +68,12 @@ This folder will store the virtual hard disk files for the test server..
 
 Open Hyper-V Manager.
 
-Right click on **Windows-2019-SRV**
+1. Right click on **Windows-2019-SRV**
 
 <img width="628" height="289" alt="3" src="https://github.com/user-attachments/assets/b7b14780-7457-4081-a973-7a18f127cb99" />
 
-
+2. Click on **Export..**
+3. Browse to the export folder (**SRV2019_Export**) created earlier:
 
 
 
