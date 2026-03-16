@@ -34,3 +34,31 @@ Navigate to the Desktop:
 cd Desktop
 ```
 
+Create the export folder:
+
+```powershell
+mkdir SRV2019_Export
+```
+
+This folder will store the exported VM files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
