@@ -126,8 +126,12 @@ In Hyper-V Manager
 
 Note: both of the VM have the same name. By clicking on it you can see the date it was created. The 3rd VM is the one I just imported because the creation date is 3/15/2026.
 
+1. Right-click the imported VM (The 3rd VM) and click **Settings**
+2. Click on **Name**
+3. Renamed it to **TST-AD-SRV**
+4. Click **OK**
 
-
+<img width="717" height="436" alt="14" src="https://github.com/user-attachments/assets/39e1d117-5161-48cd-83aa-921baadb1464" />
 
 
 
