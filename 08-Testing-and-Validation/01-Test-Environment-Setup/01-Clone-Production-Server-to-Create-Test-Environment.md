@@ -112,8 +112,9 @@ In Hyper-V Manager
 
 <img width="705" height="526" alt="10" src="https://github.com/user-attachments/assets/29b50594-aa51-4d7a-8e2f-9def30749b1b" />
 
+8. Browse to the VHD directory created earlier in the C:\ directory:
 
-
+<img width="710" height="274" alt="12" src="https://github.com/user-attachments/assets/800dcf0e-e983-4ae7-bc63-20e81cdbf9b6" />
 
 
 
