@@ -104,7 +104,7 @@ In Hyper-V Manager
 
 <img width="711" height="284" alt="8" src="https://github.com/user-attachments/assets/621965aa-6551-4904-9924-43d88a923bc0" />
 
-
+6. Select **Copy the virtual machine (create a new unique ID)**
 
 
 
