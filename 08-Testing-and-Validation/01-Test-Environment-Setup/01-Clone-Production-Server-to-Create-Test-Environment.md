@@ -62,6 +62,30 @@ mkdir TestWinSRV2019-VHD
 
 This folder will store the virtual hard disk files for the test server..
 
+![2](images/2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
