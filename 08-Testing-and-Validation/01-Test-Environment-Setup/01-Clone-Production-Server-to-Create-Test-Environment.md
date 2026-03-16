@@ -68,8 +68,9 @@ This folder will store the virtual hard disk files for the test server..
 
 Open Hyper-V Manager.
 
-Locate the production virtual machine: **Windows-2019-SRV**
+Right click on **Windows-2019-SRV**
 
+<img width="628" height="289" alt="3" src="https://github.com/user-attachments/assets/b7b14780-7457-4081-a973-7a18f127cb99" />
 
 
 
