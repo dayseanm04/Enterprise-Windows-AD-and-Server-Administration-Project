@@ -44,12 +44,15 @@ This folder will store the exported VM files.
 
 ![1](images/1.png)
 
+### Step 2 – Create VHD Folder for Test Server
 
+Create a folder to store the virtual hard disk for the cloned server.
 
+Navigate to the C drive:
 
-
-
-
+```powershell
+cd C:\
+```
 
 
 
