@@ -83,11 +83,15 @@ Open Hyper-V Manager.
 
 Export completed
 
+### Step 4 – Import the Virtual Machine
 
+After the export completes, import the virtual machine.
 
+In Hyper-V Manager 
 
+1. Click **Import Virtual Machine**
 
-
+<img width="741" height="286" alt="6" src="https://github.com/user-attachments/assets/e0db6320-e78d-4c8f-b4f7-4ed908e11b83" />
 
 
 
