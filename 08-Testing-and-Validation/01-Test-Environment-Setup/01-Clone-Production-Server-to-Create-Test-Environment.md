@@ -108,6 +108,31 @@ In Hyper-V Manager
 
 <img width="617" height="244" alt="9" src="https://github.com/user-attachments/assets/3db78012-3dfc-4d26-99fb-5e16723dd327" />
 
+7. In the **Choose Destination** click **Next** section click ****
+
+<img width="705" height="526" alt="10" src="https://github.com/user-attachments/assets/29b50594-aa51-4d7a-8e2f-9def30749b1b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
