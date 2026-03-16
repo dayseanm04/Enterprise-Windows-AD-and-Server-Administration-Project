@@ -133,16 +133,4 @@ Note: both of the VM have the same name. By clicking on it you can see the date 
 
 <img width="717" height="436" alt="14" src="https://github.com/user-attachments/assets/39e1d117-5161-48cd-83aa-921baadb1464" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="750" height="240" alt="15" src="https://github.com/user-attachments/assets/a2c12adf-1f6d-4db3-8104-94df071f6cad" />
