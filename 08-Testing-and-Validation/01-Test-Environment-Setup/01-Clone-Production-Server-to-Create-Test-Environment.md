@@ -114,7 +114,7 @@ In Hyper-V Manager
 
 8. Browse to the VHD directory created earlier in the C:\ directory:
 
-<img width="710" height="274" alt="12" src="https://github.com/user-attachments/assets/800dcf0e-e983-4ae7-bc63-20e81cdbf9b6" />
+<img width="710" height="274" alt="11" src="https://github.com/user-attachments/assets/800dcf0e-e983-4ae7-bc63-20e81cdbf9b6" />
 
 
 
