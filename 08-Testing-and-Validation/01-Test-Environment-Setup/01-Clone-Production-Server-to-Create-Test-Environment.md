@@ -120,8 +120,11 @@ In Hyper-V Manager
 
 <img width="715" height="535" alt="12" src="https://github.com/user-attachments/assets/37dc353b-c337-4405-832c-42edeb39f77e" />
 
+## Rename the Test Server VM
 
+<img width="1027" height="530" alt="13" src="https://github.com/user-attachments/assets/06ff8314-42d0-4c39-b941-079664ad0f69" />
 
+Note: both of the VM have the same name. By clicking on it you can see the date it was created. The 3rd VM is the one I just imported because the creation date is 3/15/2026.
 
 
 
