@@ -75,7 +75,8 @@ Open Hyper-V Manager.
 2. Click on **Export..**
 3. Browse to the export folder (**SRV2019_Export**) created earlier:
 
-<img width="601" height="196" alt="4" src="https://github.com/user-attachments/assets/31bf5e61-547f-43fc-8ac5-25857993cd06" />
+<img width="481" height="160" alt="4" src="https://github.com/user-attachments/assets/668a6083-2e00-4dea-8df2-202269ded162" />
+
 
 4. Click **Export**
 
