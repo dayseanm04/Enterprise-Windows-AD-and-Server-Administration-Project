@@ -79,8 +79,9 @@ Open Hyper-V Manager.
 
 4. Click **Export**
 
+<img width="695" height="300" alt="5" src="https://github.com/user-attachments/assets/baebde5a-e2fb-40a1-afc5-3b9b1e307772" />
 
-
+Export completed
 
 
 
