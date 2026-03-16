@@ -54,8 +54,11 @@ Navigate to the C drive:
 cd C:\
 ```
 
+Create the VHD directory:
 
-
+```powershell
+mkdir TestWinSRV2019-VHD
+```
 
 
 
