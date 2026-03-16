@@ -22,4 +22,15 @@ The test server will be used for:
 - Administrative tasks testing
 - Automation tests
 
+---
+
+### Step 1 – Create Export Folder for VM
+
+Open **PowerShell** and create a directory where the exported virtual machine will be stored.
+
+Navigate to the Desktop:
+
+```powershell
+cd Desktop
+```
 
