@@ -96,7 +96,7 @@ In Hyper-V Manager
 
 2. Click **Next**
 3. Browse to the exported VM folder **SRV2019_Export**
-4. Select the exported virtual machine and click Next.
+4. Select the exported virtual machine and click **Next**.
 
 <img width="692" height="235" alt="7" src="https://github.com/user-attachments/assets/d7543203-c5bc-45c0-a7e9-a8539bf15e88" />
 
@@ -104,7 +104,7 @@ In Hyper-V Manager
 
 <img width="711" height="284" alt="8" src="https://github.com/user-attachments/assets/621965aa-6551-4904-9924-43d88a923bc0" />
 
-6. Select **Copy the virtual machine (create a new unique ID)**
+6. Select **Copy the virtual machine (create a new unique ID)** and click **Next**.
 
 <img width="617" height="244" alt="9" src="https://github.com/user-attachments/assets/3db78012-3dfc-4d26-99fb-5e16723dd327" />
 
