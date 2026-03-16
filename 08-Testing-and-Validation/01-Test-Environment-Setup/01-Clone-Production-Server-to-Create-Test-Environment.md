@@ -97,9 +97,11 @@ In Hyper-V Manager
 3. Browse to the exported VM folder **SRV2019_Export**
 4. Select the exported virtual machine and click Next.
 
-<img width="692" height="235" alt="4" src="https://github.com/user-attachments/assets/d7543203-c5bc-45c0-a7e9-a8539bf15e88" />
+<img width="692" height="235" alt="7" src="https://github.com/user-attachments/assets/d7543203-c5bc-45c0-a7e9-a8539bf15e88" />
 
+5. Select the exported virtual machine and click **Next**.
 
+<img width="711" height="284" alt="8" src="https://github.com/user-attachments/assets/621965aa-6551-4904-9924-43d88a923bc0" />
 
 
 
