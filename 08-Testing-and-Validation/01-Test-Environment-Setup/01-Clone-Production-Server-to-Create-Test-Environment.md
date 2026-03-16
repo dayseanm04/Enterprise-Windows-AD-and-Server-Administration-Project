@@ -62,7 +62,7 @@ mkdir TestWinSRV2019-VHD
 
 This folder will store the virtual hard disk files for the test server..
 
-![2](images/2.png)
+<img width="824" height="399" alt="2" src="https://github.com/user-attachments/assets/670b911b-23be-4690-8282-29e470c19632" />
 
 ### Step 3 – Export Production Virtual Machine
 
