@@ -20,3 +20,6 @@ The test server will be used for:
 - Active Directory experiments
 - Group Policy validation
 - Administrative tasks testing
+- Automation tests
+
+
