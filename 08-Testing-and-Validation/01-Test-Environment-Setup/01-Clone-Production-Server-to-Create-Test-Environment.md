@@ -118,6 +118,7 @@ In Hyper-V Manager
 
 8. Click **Finish** at the Summary section
 
+<img width="715" height="535" alt="12" src="https://github.com/user-attachments/assets/37dc353b-c337-4405-832c-42edeb39f77e" />
 
 
 
