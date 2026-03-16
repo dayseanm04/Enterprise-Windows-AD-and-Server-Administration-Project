@@ -42,7 +42,7 @@ mkdir SRV2019_Export
 
 This folder will store the exported VM files.
 
-![1](images/1.png)
+<img width="712" height="400" alt="1" src="https://github.com/user-attachments/assets/afbbef0a-03d1-4255-bdf4-68d0cca70674" />
 
 ### Step 2 – Create VHD Folder for Test Server
 
