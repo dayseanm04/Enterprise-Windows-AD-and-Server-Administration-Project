@@ -43,8 +43,9 @@ Created a new folder for the test server ISO: **TST-SRV-ISO**
 
 <img width="632" height="276" alt="2" src="https://github.com/user-attachments/assets/5e918337-2fc5-4017-b1f2-2fbb566d14f3" />
 
+Copied the Windows Server 2019 ISO file from **Win-2019-SRV-ISO** into the new folder.
 
-
+<img width="764" height="259" alt="3" src="https://github.com/user-attachments/assets/8d83bbd7-92a1-47e1-ba7b-66ae77137f42" />
 
 
 
