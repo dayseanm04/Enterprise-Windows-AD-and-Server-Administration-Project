@@ -42,6 +42,15 @@ I searched for youtube on Google Chrome (on the Production server(**OTCS-SRV-DC0
 
 <img width="725" height="359" alt="TS5" src="https://github.com/user-attachments/assets/2e7a817c-4631-47ee-bdf8-f25bd3ec9347" />
 
+### Step 2 – Check IP Configuration
+
+Ran the following command in command prompt or PowerShell:
+
+```cmd
+ipconfig /all
+```
+
+<img width="856" height="522" alt="TS6" src="https://github.com/user-attachments/assets/ef90572d-59fb-4015-a1ae-83637d7df589" />
 
 
 
