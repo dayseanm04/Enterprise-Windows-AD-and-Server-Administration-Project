@@ -64,10 +64,12 @@ Note: This DNS server is my loopback IP address
 
 <img width="599" height="509" alt="TS8" src="https://github.com/user-attachments/assets/355c7a92-f1f1-4f35-b1db-0c0367dcb8d5" />
 
+Note: Under Interfaces all of the IP addresses listed are the Server IP addresses.
+Click on **Fowarders**
 
-Note: Under Interfaces all of the IP addresses listed are the Server IP addresses. 
+<img width="686" height="495" alt="TS9" src="https://github.com/user-attachments/assets/bb17c52b-0e8f-4434-bf71-f6316f2871ad" />
 
-
+Note: this IP is the IP address the Server first received when I configured the VM using the default switch.
 
 
 
