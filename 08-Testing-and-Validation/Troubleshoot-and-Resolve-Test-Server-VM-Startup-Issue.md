@@ -34,3 +34,23 @@ As a result, the VM could not start because it could not access the boot media.
 ##  Resolution
 
 To resolve the issue, I created new ISO folder, copied the ISO file to the new folder and reattached to the **TST-AD-SRV** VM.
+
+---
+
+### Step 1 – Created a New ISO folder in my Desktop
+
+Created a new folder for the test server ISO: **TST-SRV-ISO**
+
+<img width="632" height="276" alt="2" src="https://github.com/user-attachments/assets/5e918337-2fc5-4017-b1f2-2fbb566d14f3" />
+
+
+
+
+
+
+
+
+
+
+
+
