@@ -41,6 +41,7 @@ Click **OK** to create the switch.
 
 1. In **Hyper-V Manager**
 2. Right-click on **TST-AD-SRV**
+3. Click **Settings**
 
 <img width="1021" height="325" alt="1" src="https://github.com/user-attachments/assets/16e557cb-a17c-49e5-a5e8-598dbd1bbd19" />
 
