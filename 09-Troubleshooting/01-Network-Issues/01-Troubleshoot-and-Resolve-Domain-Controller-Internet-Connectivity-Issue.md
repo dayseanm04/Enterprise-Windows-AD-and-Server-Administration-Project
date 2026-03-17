@@ -114,8 +114,15 @@ Note: this IP is the IP address the Server first received when I configured the 
 8. Click **OK** and close all windows
 
 
+### Step 3 – Verify Configuration
 
+Run:
 
+```cmd
+ipconfig /all
+```
+
+<img width="903" height="647" alt="TS17" src="https://github.com/user-attachments/assets/de628971-161c-463b-8465-40b2c0090164" />
 
 
 
