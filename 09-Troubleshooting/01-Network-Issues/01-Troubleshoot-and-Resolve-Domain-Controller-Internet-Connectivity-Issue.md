@@ -124,7 +124,13 @@ ipconfig /all
 
 <img width="903" height="647" alt="TS17" src="https://github.com/user-attachments/assets/de628971-161c-463b-8465-40b2c0090164" />
 
+Note: there's no triangle exclamation sign [warning sign] on the Ethernet logo anymore
 
+<img width="354" height="177" alt="TS17" src="https://github.com/user-attachments/assets/3ca62570-e73f-4162-a095-708995c1362c" />
+
+Click on the ethernet logo bottom right (Now It says connected)
+
+<img width="446" height="263" alt="TS18" src="https://github.com/user-attachments/assets/7e072cee-7add-4bea-84de-440efbe4d4cb" />
 
 
 
