@@ -19,6 +19,7 @@ The Domain Controller(**OTCS-SRV-DC01**) could not access the internet.
 <img width="713" height="502" alt="TS1" src="https://github.com/user-attachments/assets/a14bbf93-95b5-4dea-9b00-21ac2b8f2906" />
 
 I searched for youtube on Google Chrome (on the Production server(**OTCS-SRV-DC0**1)
+
 - Site couldnt be reached
 - DNS address could not be found
 
