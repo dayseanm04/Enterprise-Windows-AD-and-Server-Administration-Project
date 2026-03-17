@@ -73,12 +73,17 @@ Click on **Fowarders**
 
 Note: this IP is the IP address the Server first received when I configured the VM using the default switch. The status is **Unable to resolve**. As a result: The Domain Controller could not resolve external domain names and Internet access failed
 
-
 ---
 
-# 🛠 Resolution
+## Resolution
 
-## Step 1 – Update DNS Forwarder
+### Step 1 – Update DNS Forwarder
+1. Clicked edit
+
+<img width="736" height="505" alt="TS10" src="https://github.com/user-attachments/assets/0148eaf3-26b2-45d1-ac75-e949d40bd202" />
+
+2. Clicked the **172.17.80.1** and changed it to **192.168.1.1** my router IP (it's also a DNS server). And clicked **OK**
+
 
 
 
