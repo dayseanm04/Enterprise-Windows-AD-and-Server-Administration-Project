@@ -51,7 +51,7 @@ Copied the Windows Server 2019 ISO file from **Win-2019-SRV-ISO** into the new f
 
 ## Step 2 – Update VM DVD Drive Configuration
 
-<img width="669" height="277" alt="1" src="https://github.com/user-attachments/assets/d9144749-19df-49a3-8df2-c176fd0acdb6" />
+<img width="669" height="277" alt="3" src="https://github.com/user-attachments/assets/d9144749-19df-49a3-8df2-c176fd0acdb6" />
 
 1. Open **Hyper-V Manager**
 2. Right-click on **TST-AD-SRV**
@@ -59,10 +59,15 @@ Copied the Windows Server 2019 ISO file from **Win-2019-SRV-ISO** into the new f
 4. Select **DVD Drive**
 5. Browse to the new ISO in the new **TST-SRV-ISO** folder
 
-<img width="725" height="319" alt="2" src="https://github.com/user-attachments/assets/354b9546-3300-46e2-ad61-f665e9896139" />
+<img width="725" height="319" alt="4" src="https://github.com/user-attachments/assets/354b9546-3300-46e2-ad61-f665e9896139" />
 
+---
 
+## Step 3 – Start the Virtual Machine
 
+1. Return to **Hyper-V Manager**
+2. Start the VM
 
+<img width="651" height="543" alt="5" src="https://github.com/user-attachments/assets/1bc37d8b-b49b-4564-a449-e6f4e782a908" />
 
-
+The TST-AD-SRV VM startup issue has been successfully resolved.
