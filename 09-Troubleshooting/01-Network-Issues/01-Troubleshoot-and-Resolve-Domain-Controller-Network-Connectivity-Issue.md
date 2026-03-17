@@ -84,6 +84,11 @@ Note: this IP is the IP address the Server first received when I configured the 
 
 2. Clicked the **172.17.80.1** and changed it to **192.168.1.1** my router IP (it's also a DNS server). And clicked **OK**
 
+<img width="789" height="518" alt="TS11" src="https://github.com/user-attachments/assets/46ff5a49-1fcf-47f9-8676-8b9aa2ed2638" />
+
+3. Click **Apply** and **OK**
+
+<img width="789" height="518" alt="TS12" src="https://github.com/user-attachments/assets/9fe0fa0b-9ef6-433c-8776-a2aafe986def" />
 
 
 
