@@ -6,3 +6,7 @@ To prevent interference with the production network, the test server environment
 
 I will create an **Internal Virtual Switch** in Hyper-V and connecet the TST-AD-SRV VM to it. This allows communication between the host and the TST-AD-SRV VM while keeping the testing environment separated from the production network.
 
+This configuration ensures that testing Active Directory changes or system configurations will **not impact the production server environment**.
+
+---
+
