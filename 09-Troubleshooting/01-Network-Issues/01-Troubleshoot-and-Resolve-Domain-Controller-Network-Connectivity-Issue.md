@@ -32,9 +32,15 @@ I searched for youtube on Google Chrome (on the Production server(**OTCS-SRV-DC0
 
 <img width="573" height="359" alt="TS4" src="https://github.com/user-attachments/assets/92c52325-2e88-44fc-9667-b1355e1c0308" />
 
+---
 
+## Initial Investigation
 
+### Step 1 – Verify Network Connection
 
+- Confirmed the server was connected to OTCS-SW (External Virtual Switch)
+
+<img width="725" height="359" alt="TS5" src="https://github.com/user-attachments/assets/2e7a817c-4631-47ee-bdf8-f25bd3ec9347" />
 
 
 
