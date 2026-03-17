@@ -94,6 +94,34 @@ Note: this IP is the IP address the Server first received when I configured the 
 
 1. Open **Control Panel**, Click on **Network and Internet**, then click on **Network and Sharing Center**
 
+<img width="931" height="418" alt="TS13" src="https://github.com/user-attachments/assets/4685006d-0bfa-4383-8072-0d35cd1aed9b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
