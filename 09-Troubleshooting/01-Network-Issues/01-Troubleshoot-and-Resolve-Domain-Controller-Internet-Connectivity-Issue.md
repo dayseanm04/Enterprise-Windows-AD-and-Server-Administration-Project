@@ -124,6 +124,8 @@ ipconfig /all
 
 <img width="903" height="647" alt="TS17" src="https://github.com/user-attachments/assets/de628971-161c-463b-8465-40b2c0090164" />
 
+### Verification
+
 Note: there's no triangle exclamation sign [warning sign] on the Ethernet logo anymore
 
 <img width="354" height="177" alt="TS17" src="https://github.com/user-attachments/assets/3ca62570-e73f-4162-a095-708995c1362c" />
@@ -136,8 +138,14 @@ Click Network & Internet
 
 <img width="846" height="427" alt="TS19" src="https://github.com/user-attachments/assets/49433125-9418-46dc-a7d1-3be6904fe997" />
 
+Test:
 
+- Open browser
+- Search up YouTube
 
+<img width="883" height="473" alt="TS20" src="https://github.com/user-attachments/assets/e9424f33-3f78-4d81-9837-ed274224fc54" />
+
+<img width="912" height="391" alt="TS21" src="https://github.com/user-attachments/assets/d8a0e7cf-3dc9-4ac9-af62-ec8a7b04380f" />
 
 
 
