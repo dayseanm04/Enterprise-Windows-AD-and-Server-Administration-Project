@@ -52,10 +52,14 @@ ipconfig /all
 
 <img width="856" height="522" alt="TS6" src="https://github.com/user-attachments/assets/ef90572d-59fb-4015-a1ae-83637d7df589" />
 
+Note: This DNS server is my loopback IP address
 
+### Step 3 – Check DNS Configuration
 
+1. Open Server Manager
+2. Click on Tools, then click on DNS
 
-
+<img width="596" height="174" alt="TS7" src="https://github.com/user-attachments/assets/7c46ed2c-9cf2-4c6b-8a12-3005c87d49be" />
 
 
 
