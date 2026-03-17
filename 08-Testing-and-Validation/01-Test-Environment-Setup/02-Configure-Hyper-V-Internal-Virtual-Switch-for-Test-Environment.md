@@ -10,3 +10,9 @@ This configuration ensures that testing Active Directory changes or system confi
 
 ---
 
+### Step 1 – Open Hyper-V Manager
+
+1. Open **Hyper-V Manager**
+2. In the right-hand **Actions** panel, click **Virtual Switch Manager**
+
+<img width="1021" height="325" alt="1" src="https://github.com/user-attachments/assets/16e557cb-a17c-49e5-a5e8-598dbd1bbd19" />
