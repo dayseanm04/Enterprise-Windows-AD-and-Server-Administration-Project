@@ -30,3 +30,12 @@ Inside **Virtual Switch Manager**:
 Configured the switch with the following settings:<br/>
 Virtual Switch Name: **OTCS-TEST-SW**<br/>
 Notes: **Notes**<br/>
+
+Click **OK** to create the switch.
+
+<img width="728" height="382" alt="3" src="https://github.com/user-attachments/assets/097edba1-fd62-4ccb-bb0f-dbcf5041b6ab" />
+
+
+
+
+
