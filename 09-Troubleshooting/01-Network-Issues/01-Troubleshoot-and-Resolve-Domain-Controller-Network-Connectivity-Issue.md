@@ -69,7 +69,7 @@ Click on **Fowarders**
 
 <img width="686" height="495" alt="TS9" src="https://github.com/user-attachments/assets/bb17c52b-0e8f-4434-bf71-f6316f2871ad" />
 
-Note: this IP is the IP address the Server first received when I configured the VM using the default switch.
+Note: this IP is the IP address the Server first received when I configured the VM using the default switch. The status is **Unable to resolve**. As a result: The Domain Controller could not resolve external domain names and Internet access failed
 
 
 
