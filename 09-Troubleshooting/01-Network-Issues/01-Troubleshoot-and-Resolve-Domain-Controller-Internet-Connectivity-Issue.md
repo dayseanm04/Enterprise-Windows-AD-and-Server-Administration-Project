@@ -90,8 +90,9 @@ Note: this IP is the IP address the Server first received when I configured the 
 
 <img width="789" height="518" alt="TS12" src="https://github.com/user-attachments/assets/9fe0fa0b-9ef6-433c-8776-a2aafe986def" />
 
+### Step 2 – Update Network Adapter DNS Settings
 
-
+1. Open **Control Panel**, Click on **Network and Internet**, then click on **Network and Sharing Center**
 
 
 
