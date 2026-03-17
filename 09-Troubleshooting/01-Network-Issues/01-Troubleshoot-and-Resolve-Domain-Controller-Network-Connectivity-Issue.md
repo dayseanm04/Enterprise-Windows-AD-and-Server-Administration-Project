@@ -62,6 +62,8 @@ Note: This DNS server is my loopback IP address
 
 2. Click on Tools, then click on DNS
 
+### Root Cause The DNS forwarder was incorrectly configured.
+
 <img width="599" height="509" alt="TS8" src="https://github.com/user-attachments/assets/355c7a92-f1f1-4f35-b1db-0c0367dcb8d5" />
 
 Note: Under Interfaces all of the IP addresses listed are the Server IP addresses.
@@ -72,7 +74,11 @@ Click on **Fowarders**
 Note: this IP is the IP address the Server first received when I configured the VM using the default switch. The status is **Unable to resolve**. As a result: The Domain Controller could not resolve external domain names and Internet access failed
 
 
+---
 
+# 🛠 Resolution
+
+## Step 1 – Update DNS Forwarder
 
 
 
