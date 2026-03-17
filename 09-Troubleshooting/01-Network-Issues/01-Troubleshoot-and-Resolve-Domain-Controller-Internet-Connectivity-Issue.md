@@ -100,14 +100,18 @@ Note: this IP is the IP address the Server first received when I configured the 
 
 <img width="562" height="473" alt="TS14" src="https://github.com/user-attachments/assets/4ed3d3ed-b7b5-4b9d-b7ed-265cf86f7e0e" />
 
-4. Click **Properties**
+3. Click **Properties**
 
 <img width="604" height="573" alt="TS15" src="https://github.com/user-attachments/assets/7ad11e13-49c5-4c7a-9908-fa6e27ea7e33" />
 
+4. Select **Internet Protocol Version 4 (IPv4)**
+5. Internet Protocol Version 4 (IPv4)
+6. Set DNS server to: 192.168.1.1
 
+<img width="634" height="516" alt="TS16" src="https://github.com/user-attachments/assets/483c3205-1653-46de-9ff2-35272cb9d215" />
 
-
-
+7. Enable **Validate settings upon exit**
+8. Click **OK** and close all windows
 
 
 
