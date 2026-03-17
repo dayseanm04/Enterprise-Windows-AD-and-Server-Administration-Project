@@ -19,4 +19,12 @@ When attempting to start the test VM, the following error occurred:
 
 <img width="506" height="489" alt="VM-error-ss" src="https://github.com/user-attachments/assets/ea4ab7cc-a451-4ca3-822c-9fea07b1dc8e" />
 
+---
 
+#  Root Cause
+
+The issue was caused by:
+
+- The ISO file being located in a directory that **Hyper-V did not have permission to access**
+
+As a result, the VM could not start because it could not access the boot media.
