@@ -1,9 +1,19 @@
 # 03 – Troubleshoot and Resolve Test Server VM Startup Issue
 
-## 📌 Overview
+## Overview
 
 During the setup of the test environment, the **TST-AD-SRV** VM failed to start in Hyper-V. This issue was caused by an **access/permission error related to the ISO file attached to the VM**.
 
 This document outlines the troubleshooting process, root cause, and resolution.
 
 ---
+
+##  Problem
+
+<img width="506" height="489" alt="VM-error-ss" src="https://github.com/user-attachments/assets/ea4ab7cc-a451-4ca3-822c-9fea07b1dc8e" />
+
+When attempting to start the test VM, the following error occurred:
+- Virtual machine failed to start
+- Access denied error related to ISO file
+- Hyper-V could not access the attached installation media
+
