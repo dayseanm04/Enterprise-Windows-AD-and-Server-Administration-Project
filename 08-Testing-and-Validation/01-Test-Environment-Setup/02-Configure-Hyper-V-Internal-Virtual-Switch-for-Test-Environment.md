@@ -47,6 +47,7 @@ Click **OK** to create the switch.
 
 4. Select **Network Adapter**
 5. Change the virtual switch to: **Change the virtual switch to:**
+6. Click **OK**
 
 <img width="730" height="360" alt="5" src="https://github.com/user-attachments/assets/52413d55-d91a-464e-aaf7-eab2c1c74c69" />
 
