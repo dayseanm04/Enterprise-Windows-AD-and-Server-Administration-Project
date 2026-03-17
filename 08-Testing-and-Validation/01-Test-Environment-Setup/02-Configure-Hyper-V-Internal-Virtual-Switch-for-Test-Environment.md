@@ -24,3 +24,5 @@ This configuration ensures that testing Active Directory changes or system confi
 Inside **Virtual Switch Manager**:
 1. Select **Internal**
 2. Click **Create Virtual Switch**
+
+<img width="736" height="291" alt="2" src="https://github.com/user-attachments/assets/9ab6287f-6adb-4d27-923a-36588e2df3f7" />
