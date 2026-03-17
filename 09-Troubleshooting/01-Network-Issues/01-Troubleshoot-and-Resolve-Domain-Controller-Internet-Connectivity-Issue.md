@@ -132,8 +132,9 @@ Click on the ethernet logo bottom right (Now It says connected)
 
 <img width="446" height="263" alt="TS18" src="https://github.com/user-attachments/assets/7e072cee-7add-4bea-84de-440efbe4d4cb" />
 
+Click Network & Internet
 
-
+<img width="846" height="427" alt="TS19" src="https://github.com/user-attachments/assets/49433125-9418-46dc-a7d1-3be6904fe997" />
 
 
 
