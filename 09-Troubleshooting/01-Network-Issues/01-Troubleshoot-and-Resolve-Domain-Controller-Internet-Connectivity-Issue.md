@@ -96,8 +96,13 @@ Note: this IP is the IP address the Server first received when I configured the 
 
 <img width="931" height="418" alt="TS13" src="https://github.com/user-attachments/assets/4685006d-0bfa-4383-8072-0d35cd1aed9b" />
 
+2. Click **Ethernet**
 
+<img width="562" height="473" alt="TS14" src="https://github.com/user-attachments/assets/4ed3d3ed-b7b5-4b9d-b7ed-265cf86f7e0e" />
 
+4. Click **Properties**
+
+<img width="604" height="573" alt="TS15" src="https://github.com/user-attachments/assets/7ad11e13-49c5-4c7a-9908-fa6e27ea7e33" />
 
 
 
