@@ -47,7 +47,17 @@ Copied the Windows Server 2019 ISO file from **Win-2019-SRV-ISO** into the new f
 
 <img width="764" height="259" alt="3" src="https://github.com/user-attachments/assets/8d83bbd7-92a1-47e1-ba7b-66ae77137f42" />
 
+---
 
+## Step 2 – Update VM DVD Drive Configuration
+
+<img width="669" height="277" alt="1" src="https://github.com/user-attachments/assets/d9144749-19df-49a3-8df2-c176fd0acdb6" />
+
+1. Open **Hyper-V Manager**
+2. Right-click on **TST-AD-SRV**
+3. Click **Settings**
+4. Select **DVD Drive**
+5. Browse to the new ISO in the new **TST-SRV-ISO** folder
 
 
 
