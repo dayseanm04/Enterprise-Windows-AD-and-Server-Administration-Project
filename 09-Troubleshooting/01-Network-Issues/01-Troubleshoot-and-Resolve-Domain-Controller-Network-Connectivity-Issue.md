@@ -57,10 +57,15 @@ Note: This DNS server is my loopback IP address
 ### Step 3 – Check DNS Configuration
 
 1. Open Server Manager
-2. Click on Tools, then click on DNS
 
 <img width="596" height="174" alt="TS7" src="https://github.com/user-attachments/assets/7c46ed2c-9cf2-4c6b-8a12-3005c87d49be" />
 
+2. Click on Tools, then click on DNS
+
+<img width="599" height="509" alt="TS8" src="https://github.com/user-attachments/assets/355c7a92-f1f1-4f35-b1db-0c0367dcb8d5" />
+
+
+Note: Under Interfaces all of the IP addresses listed are the Server IP addresses. 
 
 
 
