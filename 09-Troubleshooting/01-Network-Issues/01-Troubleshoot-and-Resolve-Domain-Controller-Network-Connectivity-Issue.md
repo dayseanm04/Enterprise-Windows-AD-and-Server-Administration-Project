@@ -28,8 +28,9 @@ I searched for youtube on Google Chrome (on the Production server(**OTCS-SRV-DC0
 <img width="256" height="132" alt="TS2" src="https://github.com/user-attachments/assets/e307dcfb-0a4d-4f43-ab3d-559b28225a9d" />
 
 2. Clicked on the Ethernet Logo at the bottom right (note the triangle exclamation sign [warning sign])
-<img width="367" height="221" alt="TS2" src="https://github.com/user-attachments/assets/a3220c38-846d-4418-abc4-7e65c85bfbc1" />
+<img width="367" height="221" alt="TS3" src="https://github.com/user-attachments/assets/a3220c38-846d-4418-abc4-7e65c85bfbc1" />
 
+<img width="573" height="359" alt="TS4" src="https://github.com/user-attachments/assets/92c52325-2e88-44fc-9667-b1355e1c0308" />
 
 
 
