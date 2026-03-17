@@ -37,17 +37,18 @@ Click **OK** to create the switch.
 
 ---
 
-### Step 3 – Configure TST-AD-SRV to use OTCS-TEST-SW
+### Step 3 – Configure TST-AD-SRV VM to use OTCS-TEST-SW
 
 1. In **Hyper-V Manager**
 2. Right-click on **TST-AD-SRV**
 3. Click **Settings**
 
-<img width="1021" height="325" alt="1" src="https://github.com/user-attachments/assets/16e557cb-a17c-49e5-a5e8-598dbd1bbd19" />
+<img width="1021" height="325" alt="4" src="https://github.com/user-attachments/assets/16e557cb-a17c-49e5-a5e8-598dbd1bbd19" />
 
+4. Select **Network Adapter**
+5. Change the virtual switch to: **Change the virtual switch to:**
 
-
-
+<img width="730" height="360" alt="5" src="https://github.com/user-attachments/assets/52413d55-d91a-464e-aaf7-eab2c1c74c69" />
 
 
 
