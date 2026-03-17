@@ -21,10 +21,16 @@ When attempting to start the test VM, the following error occurred:
 
 ---
 
-#  Root Cause
+##  Root Cause
 
 The issue was caused by:
 
 - The ISO file being located in a directory that **Hyper-V did not have permission to access**
 
 As a result, the VM could not start because it could not access the boot media.
+
+---
+
+##  Resolution
+
+To resolve the issue, I created new ISO folder, copied the ISO file to the new folder and reattached to the **TST-AD-SRV** VM.
