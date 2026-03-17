@@ -35,6 +35,24 @@ Click **OK** to create the switch.
 
 <img width="728" height="382" alt="3" src="https://github.com/user-attachments/assets/097edba1-fd62-4ccb-bb0f-dbcf5041b6ab" />
 
+---
+
+### Step 3 – Configure TST-AD-SRV to use OTCS-TEST-SW
+
+1. In **Hyper-V Manager**
+2. Right-click on **TST-AD-SRV**
+
+<img width="1021" height="325" alt="1" src="https://github.com/user-attachments/assets/16e557cb-a17c-49e5-a5e8-598dbd1bbd19" />
+
+
+
+
+
+
+
+
+
+
 
 
 
