@@ -88,7 +88,7 @@ Note: this IP is the IP address the Server first received when I configured the 
 
 3. Click **Apply** and **OK**
 
-<img width="789" height="518" alt="TS12" src="https://github.com/user-attachments/assets/9fe0fa0b-9ef6-433c-8776-a2aafe986def" />
+<img width="644" height="511" alt="TS12" src="https://github.com/user-attachments/assets/9fd29abf-d76e-44b9-a09a-8a039f7088e8" />
 
 ### Step 2 – Update Network Adapter DNS Settings
 
