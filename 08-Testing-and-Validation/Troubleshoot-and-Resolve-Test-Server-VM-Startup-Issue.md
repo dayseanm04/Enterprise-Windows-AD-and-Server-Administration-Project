@@ -59,6 +59,7 @@ Copied the Windows Server 2019 ISO file from **Win-2019-SRV-ISO** into the new f
 4. Select **DVD Drive**
 5. Browse to the new ISO in the new **TST-SRV-ISO** folder
 
+<img width="725" height="319" alt="2" src="https://github.com/user-attachments/assets/354b9546-3300-46e2-ad61-f665e9896139" />
 
 
 
