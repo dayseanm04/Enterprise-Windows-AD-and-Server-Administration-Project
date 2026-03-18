@@ -55,8 +55,12 @@ After reviewing the created accounts:
 
 User accounts were created with: **@corp.company.com** instead of: **@corp.oaktowncs.com**
 
+### Problem 2 – Inconsistent Username Formatting
 
+- Some usernames contained inconsistent formatting  
+- Example: spaces 
 
+<img width="408" height="542" alt="22" src="https://github.com/user-attachments/assets/0b504888-b2f6-41ed-ab22-6f7730d43b42" />
 
 
 
