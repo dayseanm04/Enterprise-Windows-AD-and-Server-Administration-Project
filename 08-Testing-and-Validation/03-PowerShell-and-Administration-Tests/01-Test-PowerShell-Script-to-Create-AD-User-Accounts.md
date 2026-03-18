@@ -12,4 +12,4 @@ The goal of this test was to:
 
 ---
 
- Find the script [**here**](../11-AI-Assistance-and-Documentation/03-AI-Generated-Scripts/01-Create-AD-Users-Account-Script.md)
+ Find the script [**here**](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/11-AI-Assistance-and-Documentation/03-AI-Generated-Scripts/01-Create-AD-Users-Account-Script.md)
