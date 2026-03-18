@@ -61,3 +61,32 @@ User accounts were created with: **@corp.company.com** instead of: **@corp.oakto
 - Example: spaces 
 
 <img width="404" height="538" alt="4" src="https://github.com/user-attachments/assets/7c24b807-4bd6-45d0-bd11-4287fcfb2479" />
+
+### Fix 1 – Update Domain in Script
+
+Clicked on domain name and change it to corp.oaktowncs.com
+Changeed user logon name to hruser1
+Clicked OK
+
+<img width="703" height="542" alt="5" src="https://github.com/user-attachments/assets/4f27dd52-0e89-4018-92b5-cdebcb77e907" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
