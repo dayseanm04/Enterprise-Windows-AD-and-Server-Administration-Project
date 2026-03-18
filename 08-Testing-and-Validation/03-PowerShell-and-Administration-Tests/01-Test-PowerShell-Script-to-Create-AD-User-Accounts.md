@@ -22,3 +22,12 @@ The goal of this test was to:
 ## Save and Run the Script
 
 I copied the script and pasted in in Powershell ISE scrip pane. I ran ran that scriped and saved it in a folder in my Desktop
+
+### Result
+
+- User accounts were successfully created  
+- Accounts appeared under the correct OUs in **Active Directory Users and Computers**  
+
+<img width="685" height="381" alt="1" src="https://github.com/user-attachments/assets/a2b8f6ac-06a5-4e06-84c8-e4de7e567baf" />
+
+
