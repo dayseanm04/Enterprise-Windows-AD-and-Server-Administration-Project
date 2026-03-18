@@ -42,6 +42,16 @@ After reviewing the created accounts:
 
 ### Problem 1 – Incorrect Domain in UPN
 
+#### Review HR user accounts
+
+- Expand on corp.oaktowncs.com
+- Click on Users-OU
+- Click on HR
+- Right click on HR-User1
+- Click properties
+- Click on account
+
+<img width="408" height="542" alt="22" src="https://github.com/user-attachments/assets/0b504888-b2f6-41ed-ab22-6f7730d43b42" />
 
 User accounts were created with: **@corp.company.com** instead of: **@corp.oaktowncs.com**
 
