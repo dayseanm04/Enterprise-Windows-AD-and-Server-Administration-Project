@@ -30,4 +30,24 @@ I copied the script and pasted in in Powershell ISE scrip pane. I ran ran that s
 
 <img width="685" height="381" alt="1" src="https://github.com/user-attachments/assets/a2b8f6ac-06a5-4e06-84c8-e4de7e567baf" />
 
+<img width="739" height="482" alt="20" src="https://github.com/user-attachments/assets/037b100d-b853-4373-b9e2-30eb63da317b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
