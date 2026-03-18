@@ -58,7 +58,8 @@ I will use Active Directory Administration center for this
 3. Select **Active Directory Administration Center**
 4. Click on **Corp (local)**
 
-<img width="914" height="404" alt="44" src="https://github.com/user-attachments/assets/fb8579b5-23bf-49a5-ad33-bf815bfe1e56" />
+<img width="736" height="385" alt="44" src="https://github.com/user-attachments/assets/ec63a52a-fa37-452e-bccc-c70edea8a52e" />
+
 
 Departmental OUs were created under **Users-OU** and **Workstations-OU**. Each OU includes a description to  identify the department.
 
