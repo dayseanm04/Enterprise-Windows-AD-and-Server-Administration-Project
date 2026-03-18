@@ -19,4 +19,6 @@ The goal of this test was to:
 - Server: TST-AD-SRV  
 - Domain: corp.oaktowncs.com  
 
+## Save and Run the Script
 
+I copied the script and pasted in in Powershell ISE scrip pane. I ran ran that scriped and saved it in a folder in my Desktop
