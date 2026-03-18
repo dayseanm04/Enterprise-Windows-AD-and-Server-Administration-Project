@@ -10,6 +10,8 @@ ChatGPT generated a PowerShell script that creates 2 Actice Directory User Accou
 - HR-User1 (Which is the users first name)
 - Test (the users last name)
 
+<img width="941" height="594" alt="10" src="https://github.com/user-attachments/assets/e3c3157f-e26a-4131-9965-32e2bb6bb4cf" />
+
 
 ## How I Used It
 
