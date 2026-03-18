@@ -1,0 +1,5 @@
+# 01 Create AD Users Account Script
+
+## Description
+
+The purpose of the script is to automate the creation of Active Directory Users accounts instead of using the GUI.
