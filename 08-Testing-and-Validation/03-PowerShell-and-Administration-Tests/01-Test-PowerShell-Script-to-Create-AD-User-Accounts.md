@@ -51,7 +51,7 @@ After reviewing the created accounts:
 - Click properties
 - Click on account
 
-<img width="408" height="542" alt="22" src="https://github.com/user-attachments/assets/0b504888-b2f6-41ed-ab22-6f7730d43b42" />
+<img width="408" height="542" alt="3" src="https://github.com/user-attachments/assets/0b504888-b2f6-41ed-ab22-6f7730d43b42" />
 
 User accounts were created with: **@corp.company.com** instead of: **@corp.oaktowncs.com**
 
@@ -60,7 +60,9 @@ User accounts were created with: **@corp.company.com** instead of: **@corp.oakto
 - Some usernames contained inconsistent formatting  
 - Example: spaces 
 
-<img width="408" height="542" alt="22" src="https://github.com/user-attachments/assets/0b504888-b2f6-41ed-ab22-6f7730d43b42" />
+<img width="404" height="538" alt="4" src="https://github.com/user-attachments/assets/7c24b807-4bd6-45d0-bd11-4287fcfb2479" />
+
+
 
 
 
