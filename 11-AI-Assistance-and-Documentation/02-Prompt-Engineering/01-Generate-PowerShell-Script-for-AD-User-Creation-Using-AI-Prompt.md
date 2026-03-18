@@ -12,3 +12,5 @@ ChatGPT generated a PowerShell script that creates 2 Actice Directory User Accou
 
 
 ## How I Used It
+
+I first tested it in the TST-AD-SRV Virtual Machine, which represents a test environment.
