@@ -96,7 +96,7 @@ When accounts or systems are no longer active, they I will moved them here inste
 
 ---
 
-# Step 5 – Create Group Organizational Units
+### Step 5 – Create Group Organizational Units
 
 Within **Groups-OU**, create two sub-OUs: **Distribution-Groups** and **Security-Groups**
 
