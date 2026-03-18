@@ -11,3 +11,5 @@ The goal of this test was to:
 - Confirm login for the created users  
 
 ---
+
+ Find the script [**here**](../11-AI-Assistance-and-Documentation/03-AI-Generated-Scripts/01-Create-AD-Users-Account-Script.md)
