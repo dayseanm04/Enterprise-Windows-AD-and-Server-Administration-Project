@@ -15,7 +15,7 @@ ChatGPT generated a PowerShell script that creates 2 Actice Directory User Accou
 
 ## How I Used It
 
-I first tested it in the **TST-AD-SRV** Virtual Machine, which represents a test environment. What ever change I make in the test dosent affect the production server which is **Win-2019-SRV**
+I first tested it in the **TST-AD-SRV** Virtual Machine, which represents a test environment. What ever change I make in the test environment dosent affect the production server which is **Win-2019-SRV**
 
 <img width="666" height="215" alt="11" src="https://github.com/user-attachments/assets/3f03e232-2468-488e-a51e-23fe732e98bc" />
 
