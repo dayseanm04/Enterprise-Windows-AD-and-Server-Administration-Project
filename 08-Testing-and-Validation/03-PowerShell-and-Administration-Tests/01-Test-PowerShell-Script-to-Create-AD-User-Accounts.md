@@ -30,7 +30,20 @@ I copied the script and pasted in in Powershell ISE scrip pane. I ran ran that s
 
 <img width="685" height="381" alt="1" src="https://github.com/user-attachments/assets/a2b8f6ac-06a5-4e06-84c8-e4de7e567baf" />
 
-<img width="739" height="482" alt="20" src="https://github.com/user-attachments/assets/037b100d-b853-4373-b9e2-30eb63da317b" />
+<img width="739" height="482" alt="2" src="https://github.com/user-attachments/assets/037b100d-b853-4373-b9e2-30eb63da317b" />
+
+## Issue Identified
+
+When I first ran this script I didn't make any changes to the script. It created the user accounts. 
+
+But I didn't change **company** to **oaktowncs**, note that the actual domain name is **corp.oaktowncs.com**. When I used AI to generate the script I didn't include the actual domain name I used **corp.company.com**.
+
+After reviewing the created accounts:
+
+### Problem 1 – Incorrect Domain in UPN
+
+
+User accounts were created with: **@corp.company.com** instead of: **@corp.oaktowncs.com**
 
 
 
