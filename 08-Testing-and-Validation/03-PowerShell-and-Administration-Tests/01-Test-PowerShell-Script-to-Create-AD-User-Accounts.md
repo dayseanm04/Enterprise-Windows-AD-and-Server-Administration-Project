@@ -61,22 +61,3 @@ User accounts were created with: **@corp.company.com** instead of: **@corp.oakto
 - Example: spaces 
 
 <img width="404" height="538" alt="4" src="https://github.com/user-attachments/assets/7c24b807-4bd6-45d0-bd11-4287fcfb2479" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
