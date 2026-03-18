@@ -70,7 +70,15 @@ Clicked OK
 
 <img width="703" height="542" alt="5" src="https://github.com/user-attachments/assets/4f27dd52-0e89-4018-92b5-cdebcb77e907" />
 
+### Attempted to sign into the account
 
+<img width="674" height="687" alt="6" src="https://github.com/user-attachments/assets/403e4eae-a94c-4511-bda0-a0672486a666" />
+
+<img width="602" height="421" alt="7" src="https://github.com/user-attachments/assets/b34aa3e6-5503-4edf-9d0c-15119645af35" />
+
+<img width="598" height="435" alt="Screenshot 2026-03-18 184154" src="https://github.com/user-attachments/assets/37e04acf-5bc5-44e5-badf-22fd1ccdcf44" />
+
+**Logging error**
 
 
 
