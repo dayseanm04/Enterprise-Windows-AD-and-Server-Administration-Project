@@ -51,5 +51,3 @@ foreach ($dept in $departments) {
     }
 }
 ```
-
-## Modifications Made
