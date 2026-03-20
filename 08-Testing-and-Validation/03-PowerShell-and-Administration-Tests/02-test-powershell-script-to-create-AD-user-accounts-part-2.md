@@ -213,5 +213,5 @@ Login still failed
 
 ---
 
-### Click (Here)[../../04-AI-for-Troubleshooting/01-AI-Troubleshoot-AD-User-Login-Issue-on-Domain-Controller.md] for the resolution
+### Click [Here](../../04-AI-for-Troubleshooting/01-AI-Troubleshoot-AD-User-Login-Issue-on-Domain-Controller.md) for the resolution
 
