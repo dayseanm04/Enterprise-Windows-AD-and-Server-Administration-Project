@@ -18,6 +18,6 @@ A newly created Active Directory user account was unable to log in to the Domain
 ### Error Observed
 "The sign-in method you're trying to use isn't allowed."
 
-<img width="708" height="530" alt="43" src="https://github.com/user-attachments/assets/364207b3-4e43-49e4-ad8a-c9ff891723f8" />
 
----
+<img width="598" height="435" alt="36" src="https://github.com/user-attachments/assets/75de62f6-63fd-4f2b-b9aa-1afd5918a6cd" />
+
