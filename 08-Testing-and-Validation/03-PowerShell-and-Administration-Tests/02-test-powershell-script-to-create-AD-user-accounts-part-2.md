@@ -56,3 +56,19 @@ foreach ($dept in $departments) {
 }
 
 ```
+
+<img width="812" height="703" alt="30" src="https://github.com/user-attachments/assets/31881a18-2779-4d31-a67d-b6d805a900c7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
