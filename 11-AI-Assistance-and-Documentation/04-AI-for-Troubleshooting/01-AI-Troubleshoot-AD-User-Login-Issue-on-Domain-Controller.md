@@ -50,6 +50,7 @@ Based on the error message and system behavior, the issue was identified as:
 2. Expand domain
 3. Clicked Users
 
+<img width="1015" height="624" alt="TS20" src="https://github.com/user-attachments/assets/979c41df-0011-43f9-8722-87063ec1f494" />
 
 
 
