@@ -81,6 +81,20 @@ The login failed.
 
 <img width="598" height="435" alt="36" src="https://github.com/user-attachments/assets/757864d8-167b-402e-904d-58c49b34dbd9" />
 
+---
+
+After executing the updated PowerShell script and verifying user account creation, login attempts failed.
+
+This section documents my troubleshooting process.
+
+### Troubleshoot 1 – Verify if Issue is Script-Related
+
+### Action
+
+- Deleted all user accounts created by the script  
+- Manually created a test user account in Active Directory  
+
+
 
 
 
