@@ -81,6 +81,10 @@ Note: Only Administrator is appart of the Domain Admins group that is whay Im ab
 
 <img width="724" height="670" alt="TS24" src="https://github.com/user-attachments/assets/12561d53-caf8-47d4-9dbb-c8894836ba3e" />
 
+### Attempt login
 
+I will attempt to log in as john doe
+
+<img width="824" height="700" alt="TS25" src="https://github.com/user-attachments/assets/5d9c2773-5e42-4b2e-a48b-e6e46e0f8134" />
 
 
