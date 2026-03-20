@@ -170,7 +170,7 @@ Login Failed
 
 - Login still failed  
 
-## Troubleshoot 5 – Investigate Network Configuration
+## Troubleshoot 4 – Investigate Network Configuration
 
 ### Observation
 
@@ -186,14 +186,22 @@ ipconfig /all
 
 <img width="868" height="495" alt="TS8" src="https://github.com/user-attachments/assets/1724c982-b707-454e-b415-83cb160fc665" />
 
+### Finding
+
+The Test Server is using APIPA address
+
+### Step 2 – Configure Host Machine IP
 
 
+1. Open Settings then click on **Network & Internet**
+2. Click on **Edit IP Assignment**
 
+<img width="593" height="344" alt="TS12" src="https://github.com/user-attachments/assets/d47467c1-55d4-43cf-810e-12c6f9387c5a" />
 
+- Select: Manual, enable IPv4
+- I changed my hostmachine IP to 169.254.130.49/16
 
-
-
-
+<img width="502" height="370" alt="TS13" src="https://github.com/user-attachments/assets/a9a8e042-79a2-488c-9b76-f591982f387e" />
 
 
 
