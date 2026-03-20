@@ -94,5 +94,8 @@ I successfully logged in as john doe
 1. Open PowerShell
 2. net user
 
+<img width="802" height="341" alt="TS26" src="https://github.com/user-attachments/assets/91f73fff-1615-4fba-83d7-61dcda0b0fbb" />
 
-
+## Notes
+- Domain Controllers have strict login restrictions for security reasons  
+- Standard users are not allowed to log in locally by default
