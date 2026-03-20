@@ -77,6 +77,9 @@ I was prompted to change the passsword, I changed it
 
 <img width="749" height="491" alt="35" src="https://github.com/user-attachments/assets/684ee86a-3224-41ef-9b23-64ff557b0d12" />
 
+The login failed.
+
+<img width="598" height="435" alt="36" src="https://github.com/user-attachments/assets/757864d8-167b-402e-904d-58c49b34dbd9" />
 
 
 
