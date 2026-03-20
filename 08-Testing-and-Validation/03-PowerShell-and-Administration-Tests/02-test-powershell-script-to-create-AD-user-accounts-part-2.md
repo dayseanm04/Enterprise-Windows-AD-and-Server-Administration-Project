@@ -94,7 +94,11 @@ This section documents my troubleshooting process.
 - Deleted all user accounts created by the script  
 - Manually created a test user account in Active Directory  
 
+Steps:
 
+1. Open **Active Directory Users and Computers**
+2. Navigate to User-OU, Administration
+3. Right-click **New, User**
 
 
 
