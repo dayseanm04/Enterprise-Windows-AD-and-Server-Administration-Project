@@ -87,7 +87,7 @@ After executing the updated PowerShell script and verifying user account creatio
 
 This section documents my troubleshooting process.
 
-### Troubleshoot 1 – Verify if Issue is Script-Related
+## Troubleshoot 1 – Verify if Issue is Script-Related
 
 ### Action
 
@@ -122,7 +122,7 @@ The login failed.
 The issue is **not related to the PowerShell script**  
 It affects user accounts in general
 
-### Troubleshoot 2 – Check Account Properties
+## Troubleshoot 2 – Check Account Properties
 
 ### Action
 
@@ -148,7 +148,7 @@ Login Failed
 
 <img width="778" height="660" alt="TS4" src="https://github.com/user-attachments/assets/d4b1df00-1771-4712-8341-6ce787b67b2f" />
 
-## 🔧 Troubleshoot 4 – Change User SamAccountName from corp ot OTCSCORP
+## Troubleshoot 3 – Change User SamAccountName from corp ot OTCSCORP
 
 ### Action
 
@@ -157,8 +157,6 @@ Login Failed
 3. Change corp to OTCSCORP
 
 <img width="1009" height="447" alt="TS5" src="https://github.com/user-attachments/assets/47b8fd15-23c8-434f-a2dc-a0a700303c18" />
-
-
 
 ### Retest Login with OTCSCORP\john.doe
 
@@ -172,10 +170,21 @@ Login Failed
 
 - Login still failed  
 
+## Troubleshoot 5 – Investigate Network Configuration
 
+### Observation
 
+- Test server is using OTCS-TEST-SW (Internal Virtual Switch)
 
+### Step 1 – Check IP Configuration
 
+Run:
+
+```powershell
+ipconfig /all
+```
+
+<img width="868" height="495" alt="TS8" src="https://github.com/user-attachments/assets/1724c982-b707-454e-b415-83cb160fc665" />
 
 
 
