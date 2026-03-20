@@ -75,6 +75,7 @@ I was prompted to change the passsword, I changed it
 
 <img width="726" height="718" alt="34" src="https://github.com/user-attachments/assets/322230fb-97db-4762-bf55-d22e1a068ce7" />
 
+<img width="749" height="491" alt="35" src="https://github.com/user-attachments/assets/684ee86a-3224-41ef-9b23-64ff557b0d12" />
 
 
 
