@@ -102,7 +102,12 @@ Steps:
 
 <img width="854" height="588" alt="40" src="https://github.com/user-attachments/assets/9544d3b8-6241-4da1-8b47-d051c5d7ce6a" />
 
+click **Next**
 
+<img width="841" height="581" alt="41" src="https://github.com/user-attachments/assets/6c6a8bd4-f0e3-40c3-88b8-da5f23b4f410" />
+
+Click **Finisj**
+<img width="848" height="505" alt="42" src="https://github.com/user-attachments/assets/742c1828-9b42-421d-bce2-d0e3bb81535f" />
 
 
 
