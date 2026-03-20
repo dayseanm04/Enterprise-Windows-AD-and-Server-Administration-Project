@@ -71,8 +71,9 @@ I attempted to sign in as **finuser3**
 
 <img width="698" height="695" alt="33" src="https://github.com/user-attachments/assets/08c78081-2d54-4d77-98af-45aaf433707f" />
 
-I was prompted to change the passsword
+I was prompted to change the passsword, I changed it
 
+<img width="726" height="718" alt="34" src="https://github.com/user-attachments/assets/322230fb-97db-4762-bf55-d22e1a068ce7" />
 
 
 
