@@ -115,7 +115,12 @@ I attempted to log in as **john.doe**
 
 The login failed.
 
+<img width="598" height="435" alt="36" src="https://github.com/user-attachments/assets/757864d8-167b-402e-904d-58c49b34dbd9" />
 
+### Conclusion
+
+The issue is **not related to the PowerShell script**  
+It affects user accounts in general
 
 
 
