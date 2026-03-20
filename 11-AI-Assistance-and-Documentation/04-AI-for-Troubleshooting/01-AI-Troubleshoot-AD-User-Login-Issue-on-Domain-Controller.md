@@ -58,7 +58,13 @@ Based on the error message and system behavior, the issue was identified as:
 
 <img width="706" height="588" alt="TS21" src="https://github.com/user-attachments/assets/6b2cb757-5bd0-4e2e-bb6b-389eeefbde5c" />
 
+Note: that john doe is part of the Domain Users group. Click OK
 
+1. Right click Domain Admins
+2. Click properties
+3. Click member
+
+<img width="725" height="567" alt="TS22" src="https://github.com/user-attachments/assets/d1b85979-6312-463b-b0dc-0d5d66ab19df" />
 
 
 
