@@ -37,8 +37,14 @@ Based on the error message and system behavior, the issue was identified as:
 ### After I created a user account in active directory and I tried to login using that account I got this message "This sign-in method you're trying to use isn't allowed. For more info, contact your network administrator".
 
 
+### AI Guidance
+- Explained that Domain Controllers have restricted login policies  
+- Clarified that standard users do not have permission to log in locally  
+- Suggested verifying group membership and user rights assignments  
 
+---
 
+## Troubleshooting Steps
 
 
 
