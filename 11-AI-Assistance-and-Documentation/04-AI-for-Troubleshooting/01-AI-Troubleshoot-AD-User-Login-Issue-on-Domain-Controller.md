@@ -77,6 +77,9 @@ Note: Only Administrator is appart of the Domain Admins group that is whay Im ab
 
 <img width="787" height="493" alt="TS23" src="https://github.com/user-attachments/assets/ce93d19b-2b73-4326-933e-bde96c43bb52" />
 
+5. Click **OK**
+
+<img width="724" height="670" alt="TS24" src="https://github.com/user-attachments/assets/12561d53-caf8-47d4-9dbb-c8894836ba3e" />
 
 
 
