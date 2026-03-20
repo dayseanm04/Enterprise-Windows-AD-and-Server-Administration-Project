@@ -59,8 +59,9 @@ foreach ($dept in $departments) {
 
 <img width="812" height="703" alt="30" src="https://github.com/user-attachments/assets/31881a18-2779-4d31-a67d-b6d805a900c7" />
 
+### Verify user accounts were created
 
-
+<img width="816" height="509" alt="31" src="https://github.com/user-attachments/assets/1f44bbbb-a6b4-433f-936b-7a6f1c48b6cf" />
 
 
 
