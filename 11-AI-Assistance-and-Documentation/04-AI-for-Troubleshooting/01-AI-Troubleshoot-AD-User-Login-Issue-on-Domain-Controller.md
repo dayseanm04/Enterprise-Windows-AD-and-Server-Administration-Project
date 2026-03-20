@@ -52,6 +52,11 @@ Based on the error message and system behavior, the issue was identified as:
 
 <img width="1015" height="624" alt="TS20" src="https://github.com/user-attachments/assets/979c41df-0011-43f9-8722-87063ec1f494" />
 
+4. Right clicked Domain users
+5. Clicked properties
+6. Click member
+
+<img width="706" height="588" alt="TS21" src="https://github.com/user-attachments/assets/6b2cb757-5bd0-4e2e-bb6b-389eeefbde5c" />
 
 
 
