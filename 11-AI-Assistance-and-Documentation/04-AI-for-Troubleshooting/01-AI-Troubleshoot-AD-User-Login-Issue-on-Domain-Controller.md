@@ -66,8 +66,9 @@ Note: that john doe is part of the Domain Users group. Click OK
 
 <img width="725" height="567" alt="TS22" src="https://github.com/user-attachments/assets/d1b85979-6312-463b-b0dc-0d5d66ab19df" />
 
+Note: Only Administrator is appart of the Domain Admins group that is whay Im able to log into the Domain Controller as Administrator.
 
-
+### Fix
 
 
 
