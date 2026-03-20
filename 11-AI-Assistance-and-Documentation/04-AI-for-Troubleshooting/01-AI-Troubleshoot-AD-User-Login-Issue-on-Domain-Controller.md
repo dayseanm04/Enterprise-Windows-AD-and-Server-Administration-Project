@@ -87,4 +87,12 @@ I will attempt to log in as john doe
 
 <img width="824" height="700" alt="TS25" src="https://github.com/user-attachments/assets/5d9c2773-5e42-4b2e-a48b-e6e46e0f8134" />
 
+I successfully logged in as john doe
+
+### Verification
+
+1. Open PowerShell
+2. net user
+
+
 
