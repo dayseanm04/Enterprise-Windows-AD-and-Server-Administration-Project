@@ -213,5 +213,5 @@ Login still failed
 
 ---
 
-### Click [Here](../04-AI-for-Troubleshooting/01-AI-Troubleshoot-AD-User-Login-Issue-on-Domain-Controller.md) for the resolution
+### Click [Here]([../04-AI-for-Troubleshooting/01-AI-Troubleshoot-AD-User-Login-Issue-on-Domain-Controller.md](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/11-AI-Assistance-and-Documentation/04-AI-for-Troubleshooting/01-AI-Troubleshoot-AD-User-Login-Issue-on-Domain-Controller.md)) for the resolution
 
