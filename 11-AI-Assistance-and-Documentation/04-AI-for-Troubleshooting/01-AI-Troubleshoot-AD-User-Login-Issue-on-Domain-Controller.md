@@ -46,6 +46,10 @@ Based on the error message and system behavior, the issue was identified as:
 
 ## Troubleshooting Steps
 
+1. Open Active Directory Users and Computers
+2. Expand domain
+3. Clicked Users
+
 
 
 
