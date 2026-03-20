@@ -160,6 +160,18 @@ Login Failed
 
 
 
+### Retest Login with OTCSCORP\john.doe
+
+<img width="862" height="705" alt="TS6" src="https://github.com/user-attachments/assets/231ae26b-796f-4bbb-bbc3-c8debe8d5c5f" />
+
+<img width="846" height="662" alt="TS7" src="https://github.com/user-attachments/assets/191ff84e-c11b-498a-b3e6-d7a41385a6e2" />
+
+---
+
+### Result
+
+- Login still failed  
+
 
 
 
