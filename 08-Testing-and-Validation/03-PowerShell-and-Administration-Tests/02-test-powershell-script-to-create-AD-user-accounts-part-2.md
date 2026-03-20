@@ -132,10 +132,15 @@ It affects user accounts in general
 
 <img width="810" height="511" alt="TS1" src="https://github.com/user-attachments/assets/40bb4207-3a93-43b2-9f17-80e6a9b2cc12" />
 
+<img width="1015" height="477" alt="TS2" src="https://github.com/user-attachments/assets/e55b105c-3ded-4827-aec9-3332aed666ff" />
 
+### Finding
 
+- User SamAccountName was set to **corp**
 
+### Action Taken
 
+Attempted login using: corp\john.doe
 
 
 
