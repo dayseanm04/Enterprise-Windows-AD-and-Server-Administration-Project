@@ -67,7 +67,7 @@ foreach ($dept in $departments) {
 
 <img width="766" height="554" alt="32" src="https://github.com/user-attachments/assets/a064a8b2-4ad1-45db-aa0a-97545aaf228b" />
 
-I attempted to sign in as **finuser3**
+I attempted to log in as **finuser3**
 
 <img width="698" height="695" alt="33" src="https://github.com/user-attachments/assets/08c78081-2d54-4d77-98af-45aaf433707f" />
 
@@ -106,11 +106,14 @@ click **Next**
 
 <img width="841" height="581" alt="41" src="https://github.com/user-attachments/assets/6c6a8bd4-f0e3-40c3-88b8-da5f23b4f410" />
 
-Click **Finisj**
+Click **Finish**
 <img width="848" height="505" alt="42" src="https://github.com/user-attachments/assets/742c1828-9b42-421d-bce2-d0e3bb81535f" />
 
+I attempted to log in as **john.doe**
 
+<img width="708" height="530" alt="43" src="https://github.com/user-attachments/assets/ea92291b-4fd8-4fad-b9c6-1e8a0dbc4514" />
 
+The login failed.
 
 
 
