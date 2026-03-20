@@ -122,6 +122,42 @@ The login failed.
 The issue is **not related to the PowerShell script**  
 It affects user accounts in general
 
+### Troubleshoot 2 – Check Account Properties
+
+### Action
+
+1. Open **Active Directory Administrative Center**
+2. Navigated to corp → Users-OU → Administration
+3. Right-click **john doe**, then  **Properties**
+
+<img width="810" height="511" alt="TS1" src="https://github.com/user-attachments/assets/40bb4207-3a93-43b2-9f17-80e6a9b2cc12" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
