@@ -73,7 +73,9 @@ Note: Only Administrator is appart of the Domain Admins group that is whay Im ab
 1. Click **Add**
 2. Under Enter object names to select
 3. Type **john doe** and Check Name
+4. Click **OK**
 
+<img width="787" height="493" alt="TS23" src="https://github.com/user-attachments/assets/ce93d19b-2b73-4326-933e-bde96c43bb52" />
 
 
 
