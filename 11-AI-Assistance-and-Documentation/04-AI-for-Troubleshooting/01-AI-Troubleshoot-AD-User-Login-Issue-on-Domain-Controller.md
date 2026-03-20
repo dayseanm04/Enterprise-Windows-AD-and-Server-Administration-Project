@@ -31,3 +31,25 @@ Based on the error message and system behavior, the issue was identified as:
 - Only privileged users (such as members of the Domain Admins group) are allowed to log in locally by default
 
 ---
+
+## AI Assistance Used
+
+### After I created a user account in active directory and I tried to login using that account I got this message "This sign-in method you're trying to use isn't allowed. For more info, contact your network administrator".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
