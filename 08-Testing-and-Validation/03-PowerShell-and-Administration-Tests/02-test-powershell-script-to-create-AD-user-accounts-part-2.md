@@ -148,9 +148,15 @@ Login Failed
 
 <img width="778" height="660" alt="TS4" src="https://github.com/user-attachments/assets/d4b1df00-1771-4712-8341-6ce787b67b2f" />
 
+## 🔧 Troubleshoot 4 – Change User SamAccountName from corp ot OTCSCORP
 
+### Action
 
+1. In **Active Directory Administrative Center**
+2. Edit user properties
+3. Change corp to OTCSCORP
 
+<img width="1009" height="447" alt="TS5" src="https://github.com/user-attachments/assets/47b8fd15-23c8-434f-a2dc-a0a700303c18" />
 
 
 
