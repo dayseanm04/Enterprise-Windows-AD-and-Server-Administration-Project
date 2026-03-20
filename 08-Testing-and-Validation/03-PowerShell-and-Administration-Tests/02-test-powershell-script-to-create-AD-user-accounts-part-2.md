@@ -1,4 +1,4 @@
-# 02 – Test PowerShell Script to Create AD User Accounts Part 2
+# 02 – Test PowerShell Script for creating AD User Accounts Part 2
 
 ## Overview
 
