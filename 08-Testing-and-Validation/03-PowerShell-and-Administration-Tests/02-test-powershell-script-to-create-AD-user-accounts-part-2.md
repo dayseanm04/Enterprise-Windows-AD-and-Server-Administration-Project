@@ -67,6 +67,22 @@ foreach ($dept in $departments) {
 
 <img width="766" height="554" alt="32" src="https://github.com/user-attachments/assets/a064a8b2-4ad1-45db-aa0a-97545aaf228b" />
 
+I attempted to sign in as **finuser3**
+
+<img width="698" height="695" alt="33" src="https://github.com/user-attachments/assets/08c78081-2d54-4d77-98af-45aaf433707f" />
+
+I was prompted to change the passsword
+
+
+
+
+
+
+
+
+
+
+
 
 
 
