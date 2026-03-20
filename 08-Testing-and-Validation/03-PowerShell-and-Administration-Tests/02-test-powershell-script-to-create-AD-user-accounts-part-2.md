@@ -210,3 +210,8 @@ Attempted to login
 <img width="846" height="662" alt="TS7" src="https://github.com/user-attachments/assets/191ff84e-c11b-498a-b3e6-d7a41385a6e2" />
 
 Login still failed 
+
+---
+
+### Click (Here)[../../04-AI-for-Troubleshooting/01-AI-Troubleshoot-AD-User-Login-Issue-on-Domain-Controller.md] for the resolution
+
