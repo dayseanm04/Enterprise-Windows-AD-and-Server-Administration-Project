@@ -46,23 +46,23 @@ Based on the error message and system behavior, the issue was identified as:
 
 ## Troubleshooting Steps
 
-1. Open Active Directory Users and Computers
+1. Open **Active Directory Users and Computers**
 2. Expand domain
-3. Clicked Users
+3. Clicked **Users**
 
 <img width="1015" height="624" alt="TS20" src="https://github.com/user-attachments/assets/979c41df-0011-43f9-8722-87063ec1f494" />
 
-4. Right clicked Domain users
-5. Clicked properties
-6. Click member
+4. Right clicked **Domain Users**
+5. Clicked **properties**
+6. Click **member**
 
 <img width="706" height="588" alt="TS21" src="https://github.com/user-attachments/assets/6b2cb757-5bd0-4e2e-bb6b-389eeefbde5c" />
 
 Note: that john doe is part of the Domain Users group. Click OK
 
-1. Right click Domain Admins
-2. Click properties
-3. Click member
+1. Right click **Domain Admins**
+2. Click **properties**
+3. Click **member**
 
 <img width="725" height="567" alt="TS22" src="https://github.com/user-attachments/assets/d1b85979-6312-463b-b0dc-0d5d66ab19df" />
 
@@ -70,6 +70,9 @@ Note: Only Administrator is appart of the Domain Admins group that is whay Im ab
 
 ### Fix
 
+1. Click **Add**
+2. Under Enter object names to select
+3. Type **john doe** and Check Name
 
 
 
