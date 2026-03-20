@@ -142,7 +142,11 @@ It affects user accounts in general
 
 Attempted login using: corp\john.doe
 
+<img width="711" height="694" alt="TS3" src="https://github.com/user-attachments/assets/93ee2cdc-e4ed-4468-895a-2047f5ee799a" />
 
+Login Failed
+
+<img width="778" height="660" alt="TS4" src="https://github.com/user-attachments/assets/d4b1df00-1771-4712-8341-6ce787b67b2f" />
 
 
 
