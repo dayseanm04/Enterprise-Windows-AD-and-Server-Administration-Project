@@ -203,9 +203,10 @@ The Test Server is using APIPA address
 
 <img width="502" height="370" alt="TS13" src="https://github.com/user-attachments/assets/a9a8e042-79a2-488c-9b76-f591982f387e" />
 
+Attempted to login
 
+<img width="862" height="705" alt="TS6" src="https://github.com/user-attachments/assets/231ae26b-796f-4bbb-bbc3-c8debe8d5c5f" />
 
+<img width="846" height="662" alt="TS7" src="https://github.com/user-attachments/assets/191ff84e-c11b-498a-b3e6-d7a41385a6e2" />
 
-
-
-
+Login still failed 
