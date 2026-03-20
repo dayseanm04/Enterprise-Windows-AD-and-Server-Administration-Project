@@ -100,6 +100,7 @@ Steps:
 2. Navigate to User-OU, Administration
 3. Right-click **New, User**
 
+<img width="854" height="588" alt="40" src="https://github.com/user-attachments/assets/9544d3b8-6241-4da1-8b47-d051c5d7ce6a" />
 
 
 
