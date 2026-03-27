@@ -8,3 +8,19 @@
 In this task I will create and organize user accounts within department Organizational Units (OUs) in Active Directory using the Active Directory Administrative Center (ADAC). 
 
 ---
+
+## Objectives
+- Create user accounts for multiple departments
+
+
+
+
+
+
+
+
+
+
+
+
+
