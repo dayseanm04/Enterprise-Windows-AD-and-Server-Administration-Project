@@ -151,12 +151,3 @@ Set-ADUser -Identity "a.jones" -ChangePasswordAtLogon $true
 Anna Jones is prompted to change password at login
 
 <img width="786" height="585" alt="22" src="https://github.com/user-attachments/assets/bb711481-709d-4ca4-828f-c2a2f4a7b5eb" />
-
-
-
-
-
-
-
-
-
