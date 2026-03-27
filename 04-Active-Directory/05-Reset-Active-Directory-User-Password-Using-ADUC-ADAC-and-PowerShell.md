@@ -23,6 +23,9 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 
 ---
 
+### [Click Here for the AD User Accounts Reference] (/Reference-Oaktown-CS-User-Accounts.md)
+
+
 ### Scenario
 **Anna Jones** (Administration Department) forgot her password. The goal is to reset her password using multiple methods.
 
