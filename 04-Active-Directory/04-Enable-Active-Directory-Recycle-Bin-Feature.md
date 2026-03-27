@@ -52,7 +52,10 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 
 ## Verification
 
+<img width="937" height="446" alt="5" src="https://github.com/user-attachments/assets/b7bd159a-37c0-4493-9a2e-add2d313145d" />
+
 After enabling the feature:
+- A **Deleted Objects** container will appear in the domain
 
 
 
