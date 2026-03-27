@@ -114,7 +114,11 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 
 <img width="815" height="424" alt="16" src="https://github.com/user-attachments/assets/02bd3724-7399-4f28-8358-f186fd2ab0bd" />
 
+### Create Secure Password
 
+```powershell
+$password = Read-Host -AsSecureString "Enter new password"
+```
 
 
 
