@@ -35,8 +35,20 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 
 - Click **OK** to confirm
 
+### 4. Confirm the Action
+- A confirmation window will appear
+- Click **OK**
+
 <img width="399" height="200" alt="3" src="https://github.com/user-attachments/assets/de9d3f14-d9f5-4547-b174-e50322d9b6bf" />
-- click **OK**
+
+
+
+
+
+
+
+
+
 
 
 
