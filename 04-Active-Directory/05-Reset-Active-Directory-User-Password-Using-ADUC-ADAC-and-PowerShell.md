@@ -8,3 +8,10 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 ## Objectives
 - Reset a user password using ADUC
 - Reset a user password using ADAC
+- Reset a user password using PowerShell
+- Disable and re-enable a user account
+- Enforce password change at next logon
+
+
+
+
