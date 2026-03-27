@@ -78,10 +78,13 @@ I will assign **Daniel Moore** as a the Domain Admin G
 <img width="726" height="458" alt="6" src="https://github.com/user-attachments/assets/e95d7b48-d619-464d-ae1b-edbe72cf18e2" />
 - Click **Add**
 
-
 ---
 
-### 5. Add Administrative User
+### 5. Add Daniel Moore to Domain Admins
+- Click **Add**
+
+<img width="673" height="409" alt="7" src="https://github.com/user-attachments/assets/8e1288b0-c898-4e4a-b9ba-0e90b7ccec6a" />
+- Entered: **`daniel`** under **Enter the object names to select**
 
 
 
