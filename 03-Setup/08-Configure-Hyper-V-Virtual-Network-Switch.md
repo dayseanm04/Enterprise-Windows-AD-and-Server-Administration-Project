@@ -21,7 +21,7 @@ In order for the Windows Server 2019 virtual machine to communicate with the phy
 ### Configuration:
 
 - **Name:** `OTCS-SW`
-- **Description:** Virtual switch for Oak Town Corporate Services AD Lab
+- **Description:** Virtual switch for windows AD and Server administration
 - **Connection Type:** External network
 - Select the appropriate **physical network adapter**
 
