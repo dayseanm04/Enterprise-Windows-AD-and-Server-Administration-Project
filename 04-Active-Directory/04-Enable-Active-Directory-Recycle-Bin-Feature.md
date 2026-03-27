@@ -56,11 +56,5 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 
 After enabling the feature:
 - A **Deleted Objects** container will appear in the domain
-
-
-
-
-
-
-
-
+- This confirms that the Recycle Bin is active
+- Deleted objects can now be restored
