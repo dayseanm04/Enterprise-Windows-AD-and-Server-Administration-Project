@@ -75,7 +75,9 @@ The following settings were applied during user creation:
 | Customer Service   | Sarah Miller   | Standard     | corp\s.miller     |                          |
 | HR Department      | Robert Taylor  | Standard     | corp\r.taylor     |                           |
 | HR Department      | Emma Davis     | Standard     | corp\e.davis      |                           |
-|
+| Finance            | David Clark    | Standard     | corp\d.clark      |                           |
+| Finance            | Laura White    | Standard     | corp\l.white      |                           |
+
 
 
 
