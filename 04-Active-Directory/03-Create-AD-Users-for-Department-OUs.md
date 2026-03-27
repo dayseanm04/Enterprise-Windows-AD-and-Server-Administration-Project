@@ -21,7 +21,9 @@ In this task I will create and organize user accounts within department Organiza
 - Click **Tools**
 - Select **Active Directory Administrative Center**
 
-
+### 2. Navigate to Users OU
+- Expand `corp (local)`
+- Select **Users-OU**
 
 
 
