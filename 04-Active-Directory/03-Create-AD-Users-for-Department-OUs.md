@@ -17,7 +17,9 @@ In this task I will create and organize user accounts within department Organiza
 ## Steps to Create Users
 
 ### 1. Open Active Directory Administrative Center
-
+- Open **Server Manager**
+- Click **Tools**
+- Select **Active Directory Administrative Center**
 
 
 
