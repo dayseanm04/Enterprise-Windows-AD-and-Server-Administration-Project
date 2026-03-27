@@ -35,7 +35,10 @@ In this task I will create and organize user accounts within department Organiza
 - Click **New**
 - Click **User**
 
-
+- Enter user details:
+  - First Name
+  - Last Name
+  - User logon name
 
 
 
