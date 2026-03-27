@@ -29,7 +29,7 @@ I will login to a AD user accounts I created. This test validates Active Directo
 ### 1. Attempt Login with Standard User
 
 - Username: **`m.brown`**
-- Password: **`ChangeMe10@`**
+- Password: 
 
 Prompted me to changed the password because I specified change password at the next log on
 
@@ -99,9 +99,13 @@ I will assign **Daniel Moore** as a the Domain Admin G
 
 <img width="706" height="452" alt="10" src="https://github.com/user-attachments/assets/425429c9-657d-42df-856a-83e6a2e04806" />
 
+---
 
+## Validation
 
-
+### 6. Login with Admin Account
+- Username: `OTCSCORP\d.moore`
+- Password: 
 
 
 
