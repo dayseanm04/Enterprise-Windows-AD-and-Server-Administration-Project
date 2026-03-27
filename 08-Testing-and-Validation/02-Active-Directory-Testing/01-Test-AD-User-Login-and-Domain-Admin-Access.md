@@ -9,4 +9,5 @@ I will login to a AD user accounts I created. This test validates Active Directo
 
 ## Objectives
 - Test login with a standard AD user account
+- Identify domain controller login restrictions
 
