@@ -39,6 +39,7 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 3. Select **Active Directory Users and Computers**
 4. Clicked on the domain
 
+<img width="747" height="344" alt="1" src="https://github.com/user-attachments/assets/d9195500-7d5d-4524-9038-ecbe7584c358" />
 
 
 
