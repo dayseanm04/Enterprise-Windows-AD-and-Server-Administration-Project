@@ -107,8 +107,10 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 ## Method 3: Reset Password Using PowerShell
 
 ### Steps
-1. Open **Active Directory Module for Windows PowerShell**
 
+1. Search and open **Active Directory Module for Windows PowerShell**
+
+<img width="739" height="373" alt="15" src="https://github.com/user-attachments/assets/02084fec-17f2-4606-b22f-d1853e538d19" />
 
 
 
