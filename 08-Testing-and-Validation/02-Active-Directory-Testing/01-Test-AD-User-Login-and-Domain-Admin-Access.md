@@ -79,7 +79,9 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Click **Add**
 
 
+---
 
+### 5. Add Administrative User
 
 
 
