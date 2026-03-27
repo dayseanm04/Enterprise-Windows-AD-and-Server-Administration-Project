@@ -28,3 +28,59 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 
 ---
 
+## Method 1: Reset Password Using ADUC
+
+### Steps
+1. Open **Server Manager**
+2. Click **Tools**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
