@@ -55,6 +55,9 @@ Prompted me to changed the password because I specified change password at the n
 
 ## Fix: Assign Domain Admin Privileges
 
+I will assign **Daniel Moore** as a the Domain Admin G
+
+
 ### 3. Open Active Directory Users and Computers
 - Open **Server Manager**
 - Click **Tools**
