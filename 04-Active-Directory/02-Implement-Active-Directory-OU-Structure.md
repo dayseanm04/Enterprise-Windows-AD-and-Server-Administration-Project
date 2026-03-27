@@ -105,8 +105,9 @@ Within **Groups-OU**, create two sub-OUs: **Distribution-Groups** and **Security
 
 ---
 
-### Created Admin and Stanard OU in Users-OU
+### Step 6 – Created Admin and Stanard OU in Users-OU
 
+<img width="740" height="265" alt="12" src="https://github.com/user-attachments/assets/fc6fcde4-95e9-4663-9f6e-78f7cc42ef33" />
 
 ## Implementation Summary
 
