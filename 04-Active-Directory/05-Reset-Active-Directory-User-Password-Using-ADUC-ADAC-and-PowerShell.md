@@ -41,6 +41,7 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 
 <img width="747" height="344" alt="1" src="https://github.com/user-attachments/assets/d9195500-7d5d-4524-9038-ecbe7584c358" />
 
+5. Clicked on **`Users-OU` and `Administration OU`**
 
 
 
