@@ -142,9 +142,11 @@ Set-ADUser -Identity "a.jones" -ChangePasswordAtLogon $true
 
 <img width="864" height="368" alt="19" src="https://github.com/user-attachments/assets/d38bb346-33fc-4bce-b0dd-325c152f4be9" />
 
+## Login Validation Test
 
+<img width="753" height="529" alt="20" src="https://github.com/user-attachments/assets/b8859a67-a23e-44b7-9f49-7ca45a9475c4" />
 
-
+<img width="794" height="442" alt="21" src="https://github.com/user-attachments/assets/b622bef2-a47f-4fcd-993d-330fde1d09ef" />
 
 
 
