@@ -67,6 +67,7 @@ The following settings were applied during user creation:
 
 ### Verify AD User Accounts creation
 
+<img width="821" height="361" alt="4" src="https://github.com/user-attachments/assets/8837f2d2-6f68-4a3e-ae44-ca9651a7f3e4" />
 
 
 
