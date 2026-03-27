@@ -40,9 +40,12 @@ In this task I will create and organize user accounts within department Organiza
   - Last Name
   - User logon name
 
+---
 
+## Naming Convention
+User logon names follow this format:
 
-
+first initial + last name (regular accounts)
 
 
 
