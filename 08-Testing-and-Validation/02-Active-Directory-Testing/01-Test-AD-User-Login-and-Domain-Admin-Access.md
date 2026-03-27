@@ -62,6 +62,7 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Open **Server Manager**
 - Click **Tools**
 - Select **Active Directory Users and Computers**
+- Clicked on the **Domain**
 
 <img width="760" height="351" alt="4" src="https://github.com/user-attachments/assets/44a08b5a-c670-4e1c-a236-710c81ea7643" />
 
