@@ -63,7 +63,7 @@ The following settings were applied during user creation:
 
 ### Example
 
-<img width="905" height="531" alt="52" src="https://github.com/user-attachments/assets/3deba644-be60-45e7-b84b-0e4610fc1562" />
+<img width="905" height="531" alt="3" src="https://github.com/user-attachments/assets/3deba644-be60-45e7-b84b-0e4610fc1562" />
 
 
 
