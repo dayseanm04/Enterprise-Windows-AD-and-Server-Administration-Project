@@ -79,7 +79,7 @@ The following settings were applied during user creation:
 
 <img width="781" height="377" alt="9" src="https://github.com/user-attachments/assets/e1118940-da39-499c-a41f-82830a107d3a" />
 
-Click [**`here`**](../02-Active-Directory-Testing/01-Test-AD-User-Login-and-Domain-Admin-Access.md)
+## Click [**`here`**](/02-Active-Directory-Testing/01-Test-AD-User-Login-and-Domain-Admin-Access.md)
 
 
 ## User Accounts Table
