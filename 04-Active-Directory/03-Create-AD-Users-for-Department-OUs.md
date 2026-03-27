@@ -71,7 +71,9 @@ The following settings were applied during user creation:
 |--------------------|----------------|--------------|-------------------|--------------------------|
 | Administration     | Michael Brown  | Standard     | corp\m.brown      |                          |
 | Administration     | Anna Jones     | Standard     | corp\a.jones      |                          |
-
+| Customer Service   | James Wilson   | Standard     | corp\j.wilson     |                          |
+| Customer Service   | Sarah Miller   | Standard     | corp\s.miller     |                          |
+| 
 
 
 
