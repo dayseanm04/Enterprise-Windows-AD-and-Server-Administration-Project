@@ -57,6 +57,8 @@ The following settings were applied during user creation:
 
 - User must change password at next logon
 - Account expiration set to never
+- Protect object from accidental deletion enabled
+
 
 
 
