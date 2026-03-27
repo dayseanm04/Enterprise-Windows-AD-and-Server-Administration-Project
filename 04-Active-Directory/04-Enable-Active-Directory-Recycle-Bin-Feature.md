@@ -20,3 +20,14 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 
 ---
 
+### 2. Navigate to the Domain
+- In ADAC, click on `corp (local)`
+
+
+---
+
+
+
+
+
+
