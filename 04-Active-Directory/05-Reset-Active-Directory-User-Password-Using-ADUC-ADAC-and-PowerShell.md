@@ -72,6 +72,8 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 - Right-click on the user's Account then click **Enable Account**
 <img width="726" height="263" alt="8" src="https://github.com/user-attachments/assets/1de11a1f-4cc0-45fd-bbfe-03ee4f44b22b" />
 
+<img width="651" height="305" alt="9" src="https://github.com/user-attachments/assets/70e47c0e-0b66-4493-8b09-2702bcc1ceaa" />
+
 ---
 
 ## Method 2: Reset Password Using ADAC
