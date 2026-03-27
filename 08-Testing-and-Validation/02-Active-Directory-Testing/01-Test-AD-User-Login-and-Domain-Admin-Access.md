@@ -55,7 +55,8 @@ Prompted me to changed the password because I specified change password at the n
 
 ## Fix: Assign Domain Admin Privileges
 
-
+### 3. Open Active Directory Users and Computers
+- Open **Server Manager**
 
 
 
