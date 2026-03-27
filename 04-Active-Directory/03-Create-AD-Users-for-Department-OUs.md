@@ -61,7 +61,9 @@ The following settings were applied during user creation:
 - Default password: `ChangeMe10@`
 - Company: OakTown Corporate Services
 
+### Example
 
+<img width="905" height="531" alt="52" src="https://github.com/user-attachments/assets/3deba644-be60-45e7-b84b-0e4610fc1562" />
 
 
 
