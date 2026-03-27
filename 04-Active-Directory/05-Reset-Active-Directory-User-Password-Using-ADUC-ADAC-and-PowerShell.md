@@ -92,6 +92,7 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 
 <img width="920" height="594" alt="11" src="https://github.com/user-attachments/assets/7e6a9827-6993-42dd-8398-98052da7a76c" />
 
+<img width="585" height="256" alt="12" src="https://github.com/user-attachments/assets/31aee874-3f4c-492c-aa22-6d73129796f2" />
 
 
 
