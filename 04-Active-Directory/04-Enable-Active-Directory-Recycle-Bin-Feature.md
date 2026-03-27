@@ -41,7 +41,10 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 
 <img width="399" height="200" alt="3" src="https://github.com/user-attachments/assets/de9d3f14-d9f5-4547-b174-e50322d9b6bf" />
 
+---
 
+### 5. Refresh ADAC
+- Click the **Refresh** button (top-right)
 
 
 
