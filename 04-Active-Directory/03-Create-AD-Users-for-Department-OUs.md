@@ -73,6 +73,7 @@ The following settings were applied during user creation:
 
 <img width="876" height="376" alt="6" src="https://github.com/user-attachments/assets/f1a799c6-ea1e-4f07-b86f-b2f19e44d0a3" />
 
+<img width="802" height="402" alt="7" src="https://github.com/user-attachments/assets/80278f83-2c70-4b3a-bf9e-9580a6f4b77b" />
 
 
 
