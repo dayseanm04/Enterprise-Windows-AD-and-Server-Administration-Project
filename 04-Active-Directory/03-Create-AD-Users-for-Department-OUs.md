@@ -25,6 +25,32 @@ In this task I will create and organize user accounts within department Organiza
 - Expand `corp (local)`
 - Select **Users-OU**
 
+<img width="935" height="379" alt="50" src="https://github.com/user-attachments/assets/c8727afc-82e6-4357-ab80-3494b552a4fa" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
