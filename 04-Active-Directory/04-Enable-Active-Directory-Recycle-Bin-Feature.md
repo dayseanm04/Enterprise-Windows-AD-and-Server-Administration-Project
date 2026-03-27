@@ -29,7 +29,10 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 
 ### 3. Enable Recycle Bin
 - In the right-hand **Tasks** pane
+- Click **Enable Recycle Bin**
 
+
+- Click **OK** to confirm
 
 
 
