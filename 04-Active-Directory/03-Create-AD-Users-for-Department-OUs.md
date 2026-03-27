@@ -73,7 +73,9 @@ The following settings were applied during user creation:
 | Administration     | Anna Jones     | Standard     | corp\a.jones      |                          |
 | Customer Service   | James Wilson   | Standard     | corp\j.wilson     |                          |
 | Customer Service   | Sarah Miller   | Standard     | corp\s.miller     |                          |
-| 
+| HR Department      | Robert Taylor  | Standard     | corp\r.taylor     |                           |
+| HR Department      | Emma Davis     | Standard     | corp\e.davis      |                           |
+|
 
 
 
