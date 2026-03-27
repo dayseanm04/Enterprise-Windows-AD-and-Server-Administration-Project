@@ -31,9 +31,11 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 - In the right-hand **Tasks** pane
 - Click **Enable Recycle Bin**
 
-<img width="399" height="200" alt="2" src="https://github.com/user-attachments/assets/de9d3f14-d9f5-4547-b174-e50322d9b6bf" />
+<img width="691" height="420" alt="2" src="https://github.com/user-attachments/assets/f0b01689-4952-472b-8b8c-1a213293d7a5" />
 
 - Click **OK** to confirm
+
+<img width="399" height="200" alt="3" src="https://github.com/user-attachments/assets/de9d3f14-d9f5-4547-b174-e50322d9b6bf" />
 
 
 
