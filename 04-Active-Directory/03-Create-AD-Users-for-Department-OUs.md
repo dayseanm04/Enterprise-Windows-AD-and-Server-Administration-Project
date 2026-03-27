@@ -59,7 +59,7 @@ The following settings were applied during user creation:
 - Account expiration set to never
 - Protect object from accidental deletion enabled
 - Default password: `ChangeMe10@`
-
+- Company: OakTown Corporate Services
 
 
 
