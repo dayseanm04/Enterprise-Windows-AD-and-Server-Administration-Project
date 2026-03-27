@@ -120,11 +120,13 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 $password = Read-Host -AsSecureString "Enter new password"
 ```
 
+This command promps for a password
+
 <img width="750" height="276" alt="17" src="https://github.com/user-attachments/assets/cd02dcdb-054f-4b94-ada7-505a18950e4b" />
 
 Note: **the AsSecureString does not display the password you type in plain text**
 
-
+### Reset Password
 
 
 
