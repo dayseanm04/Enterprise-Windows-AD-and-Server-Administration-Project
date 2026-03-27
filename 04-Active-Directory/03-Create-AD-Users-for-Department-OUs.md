@@ -77,8 +77,10 @@ The following settings were applied during user creation:
 | HR Department      | Emma Davis     | Standard     | corp\e.davis      |                           |
 | Finance            | David Clark    | Standard     | corp\d.clark      |                           |
 | Finance            | Laura White    | Standard     | corp\l.white      |                           |
-
-
+| IT Department      | Daniel Moore   | Admin        | corp\d.moree      | System Administrator      |
+| IT Department      | Daniel Moore   | Standard     | corp\da.moree     | IT Support                |
+| IT Department      | Sophie Hall    | Admin        | corp\s.hall       | System Administrator      |
+| IT Department      | Sophie Hall    | Standard     | corp\so.hall      | IT Support                |
 
 
 
