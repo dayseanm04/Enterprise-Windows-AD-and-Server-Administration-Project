@@ -103,6 +103,11 @@ Within **Groups-OU**, create two sub-OUs: **Distribution-Groups** and **Security
 
 <img width="732" height="293" alt="11" src="https://github.com/user-attachments/assets/c24fd5f6-d0ea-4889-b77f-58a9d93ec0f2" />
 
+---
+
+### Created Admin and Stanard OU in Users-OU
+
+
 ## Implementation Summary
 
 The Active Directory OU hierarchy for **Oak Town Corporate Services** has been successfully implemented.
