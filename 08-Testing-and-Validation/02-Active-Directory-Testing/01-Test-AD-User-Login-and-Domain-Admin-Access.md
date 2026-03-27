@@ -47,6 +47,26 @@ Prompted me to changed the password because I specified change password at the n
 
 ---
 
+### 2. Identify the Issue
+- The error message indicates that the sign-in method is not allowed
+- This confirms restricted access for non-admin users on domain controllers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
