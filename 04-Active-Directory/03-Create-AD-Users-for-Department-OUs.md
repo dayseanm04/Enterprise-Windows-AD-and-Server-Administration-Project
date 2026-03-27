@@ -31,6 +31,9 @@ In this task I will create and organize user accounts within department Organiza
 
 ### 3. Create Users in Department OUs
 - Select a department OU (e.g., **Administration**)
+- Right-click inside the OU,
+- Click **New**
+- Click **User**
 
 
 
