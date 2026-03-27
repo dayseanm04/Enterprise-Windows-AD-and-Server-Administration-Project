@@ -31,8 +31,9 @@ I will login to a AD user accounts I created. This test validates Active Directo
 - Username: **`m.brown`**
 - Password: **`ChangeMe10@`**
 
-prompt me to changed the password because I specified change password at the next log on
+Prompted me to changed the password because I specified change password at the next log on
 
+<img width="773" height="683" alt="10" src="https://github.com/user-attachments/assets/fcb8434c-878a-4257-81ba-41266c5fe018" />
 
 
 
