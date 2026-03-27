@@ -21,3 +21,34 @@ I will login to a AD user accounts I created. This test validates Active Directo
 - **Tools Used:**
   - Active Directory Users and Computers (ADUC)
   - Windows Server (Domain Controller)
+
+---
+
+## Test Scenario
+
+### 1. Attempt Login with Standard User
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
