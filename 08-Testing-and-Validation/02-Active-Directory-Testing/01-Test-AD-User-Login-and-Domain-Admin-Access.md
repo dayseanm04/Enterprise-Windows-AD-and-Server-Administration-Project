@@ -33,11 +33,11 @@ I will login to a AD user accounts I created. This test validates Active Directo
 
 Prompted me to changed the password because I specified change password at the next log on
 
-<img width="773" height="683" alt="10" src="https://github.com/user-attachments/assets/fcb8434c-878a-4257-81ba-41266c5fe018" />
+<img width="773" height="683" alt="1" src="https://github.com/user-attachments/assets/fcb8434c-878a-4257-81ba-41266c5fe018" />
 
-<img width="861" height="518" alt="11" src="https://github.com/user-attachments/assets/658bc172-1558-403b-a80e-a9769bcd68ff" />
+<img width="861" height="518" alt="2" src="https://github.com/user-attachments/assets/658bc172-1558-403b-a80e-a9769bcd68ff" />
 
-<img width="811" height="437" alt="12" src="https://github.com/user-attachments/assets/ec97d389-2790-46f1-9cf8-9f8b6a91a8ab" />
+<img width="811" height="437" alt="3" src="https://github.com/user-attachments/assets/ec97d389-2790-46f1-9cf8-9f8b6a91a8ab" />
 
 **Result:**
 - Login attempt failed on the domain controller
@@ -63,7 +63,7 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Click **Tools**
 - Select **Active Directory Users and Computers**
 
-<img width="760" height="351" alt="13" src="https://github.com/user-attachments/assets/44a08b5a-c670-4e1c-a236-710c81ea7643" />
+<img width="760" height="351" alt="4" src="https://github.com/user-attachments/assets/44a08b5a-c670-4e1c-a236-710c81ea7643" />
 
 
 
