@@ -66,7 +66,9 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 <img width="358" height="163" alt="7" src="https://github.com/user-attachments/assets/363216a0-be45-42b9-8ec0-2c463d8ad465" />
 - click **OK**
 
+---
 
+## Method 2: Reset Password Using ADAC
 
 
 
