@@ -65,7 +65,12 @@ The following settings were applied during user creation:
 
 <img width="905" height="531" alt="3" src="https://github.com/user-attachments/assets/3deba644-be60-45e7-b84b-0e4610fc1562" />
 
+## User Accounts Table
 
+| Department          | Name           | Account Type | Logon Name        | Notes                   |
+|--------------------|----------------|--------------|-------------------|--------------------------|
+| Administration     | Michael Brown  | Standard     | corp\m.brown      |                          |
+| Administration     | Anna Jones     | Standard     | corp\a.jones      |                          |
 
 
 
