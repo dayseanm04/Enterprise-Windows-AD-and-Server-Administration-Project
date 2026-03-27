@@ -12,6 +12,13 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 - Disable and re-enable a user account
 - Enforce password change at next logon
 
+---
 
+## Environment
+- **Domain:** corp.oaktowncs.com
+- **Tools Used:**
+  - Active Directory Users and Computers (ADUC)
+  - Active Directory Administrative Center (ADAC)
+  - Active Directory Module for Windows PowerShell
 
 
