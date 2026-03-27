@@ -11,3 +11,13 @@ I will login to a AD user accounts I created. This test validates Active Directo
 - Test login with a standard AD user account
 - Identify domain controller login restrictions
 - Assign Domain Admin privileges to a user
+- Validate successful administrative login
+
+---
+
+
+## Environment
+- **Domain:** corp.oaktowncs.com
+- **Tools Used:**
+  - Active Directory Users and Computers (ADUC)
+  - Windows Server (Domain Controller)
