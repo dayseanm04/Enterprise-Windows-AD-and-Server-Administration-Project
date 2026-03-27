@@ -12,8 +12,11 @@ In this task I will create and organize user accounts within department Organiza
 ## Objectives
 - Create user accounts for multiple departments
 
+---
 
+## Steps to Create Users
 
+### 1. Open Active Directory Administrative Center
 
 
 
