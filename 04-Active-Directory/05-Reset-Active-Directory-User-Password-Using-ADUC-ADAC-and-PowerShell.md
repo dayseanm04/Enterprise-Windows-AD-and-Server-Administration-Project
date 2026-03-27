@@ -88,7 +88,7 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 ### Reset password via RESET PASSWORD Panel
 
 - Enter username: **OTCSCORP\a.jones**
-
+- Enter new password: ...
 
 
 
