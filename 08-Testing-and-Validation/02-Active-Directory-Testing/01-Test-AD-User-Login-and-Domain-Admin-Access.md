@@ -93,7 +93,9 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Select the **admin account (d.moore)**
 - Click **OK**
 
+<img width="680" height="328" alt="18" src="https://github.com/user-attachments/assets/bf561895-0e38-4ec5-b051-6607f3d7418c" />
 
+- Click **OK**
 
 
 
