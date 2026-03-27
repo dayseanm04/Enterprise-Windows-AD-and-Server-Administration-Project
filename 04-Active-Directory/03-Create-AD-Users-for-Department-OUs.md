@@ -79,6 +79,9 @@ The following settings were applied during user creation:
 
 <img width="781" height="377" alt="9" src="https://github.com/user-attachments/assets/e1118940-da39-499c-a41f-82830a107d3a" />
 
+Click [**`here`**](08-Testing-and-Validation/02-Active-Directory-Testing/01-Test-AD-User-Login-and-Domain-Admin-Access.md)
+
+
 ## User Accounts Table
 
 | Department          | Name           | Account Type | Logon Name        | Notes                   |
@@ -95,30 +98,3 @@ The following settings were applied during user creation:
 | IT Department      | Daniel Moore   | Standard     | corp\da.mooree     | IT Support                |
 | IT Department      | Sophie Hall    | Admin        | corp\s.hall       | System Administrator      |
 | IT Department      | Sophie Hall    | Standard     | corp\so.hall      | IT Support                |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
