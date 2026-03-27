@@ -27,7 +27,9 @@ In this task I will create and organize user accounts within department Organiza
 
 <img width="935" height="379" alt="50" src="https://github.com/user-attachments/assets/c8727afc-82e6-4357-ab80-3494b552a4fa" />
 
+---
 
+### 3. Create Users in Department OUs
 
 
 
