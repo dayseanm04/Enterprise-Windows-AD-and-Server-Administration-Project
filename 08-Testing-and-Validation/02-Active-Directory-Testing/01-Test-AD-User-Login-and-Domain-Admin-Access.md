@@ -76,6 +76,7 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Clicked on the **Members** tab
 
 <img width="726" height="458" alt="6" src="https://github.com/user-attachments/assets/e95d7b48-d619-464d-ae1b-edbe72cf18e2" />
+- Click **Add**
 
 
 
