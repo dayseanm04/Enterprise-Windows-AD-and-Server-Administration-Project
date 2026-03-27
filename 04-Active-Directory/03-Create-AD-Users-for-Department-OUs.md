@@ -71,6 +71,10 @@ The following settings were applied during user creation:
 
 <img width="802" height="375" alt="5" src="https://github.com/user-attachments/assets/1d300608-dde7-46a6-ac4d-73c64ce157cb" />
 
+<img width="876" height="376" alt="6" src="https://github.com/user-attachments/assets/f1a799c6-ea1e-4f07-b86f-b2f19e44d0a3" />
+
+
+
 
 ## User Accounts Table
 
