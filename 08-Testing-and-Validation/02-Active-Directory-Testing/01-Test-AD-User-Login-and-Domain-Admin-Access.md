@@ -107,8 +107,10 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Username: `OTCSCORP\d.moore`
 - Password: 
 
+**Result:**
+- Login successful
 
-
+Opened **Powershell**
 
 
 
