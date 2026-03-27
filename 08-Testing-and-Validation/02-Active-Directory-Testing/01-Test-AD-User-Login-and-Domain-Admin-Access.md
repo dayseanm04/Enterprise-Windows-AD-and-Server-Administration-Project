@@ -63,6 +63,46 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Click **Tools**
 - Select **Active Directory Users and Computers**
 
+<img width="760" height="351" alt="13" src="https://github.com/user-attachments/assets/44a08b5a-c670-4e1c-a236-710c81ea7643" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
