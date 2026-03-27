@@ -13,5 +13,10 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 
 ## Steps to Enable AD Recycle Bin
 
+### 1. Open Active Directory Administrative Center
+- Open **Server Manager**
+- Click **Tools**
+- Select **Active Directory Administrative Center**
 
+---
 
