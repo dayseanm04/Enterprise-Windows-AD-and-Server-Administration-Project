@@ -4,5 +4,9 @@
 
 I will login to a AD user accounts I created. This test validates Active Directory user authentication. It includes logging in with a standard user account, verifying access restrictions on the domain controller (**OTCS-SRV-DC01**), assigning Domain Admin privileges, and verifying successful login.
 
-
 ---
+
+
+## Objectives
+- Test login with a standard AD user account
+
