@@ -65,8 +65,12 @@ I will assign **Daniel Moore** as a the Domain Admin G
 
 <img width="760" height="351" alt="4" src="https://github.com/user-attachments/assets/44a08b5a-c670-4e1c-a236-710c81ea7643" />
 
+---
 
+### 4. Add User to Domain Admins Group
+- Double Clicked on **`Users`**
 
+<img width="1004" height="403" alt="14" src="https://github.com/user-attachments/assets/babbab2e-e95e-41d8-938f-bb2db768bb4f" />
 
 
 
