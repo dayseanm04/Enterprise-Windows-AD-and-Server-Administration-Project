@@ -64,10 +64,13 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 <img width="700" height="331" alt="6" src="https://github.com/user-attachments/assets/f6597a7c-2ca2-4004-9e88-7a854c0b8d85" />
 
 <img width="358" height="163" alt="7" src="https://github.com/user-attachments/assets/363216a0-be45-42b9-8ec0-2c463d8ad465" />
+
 - click **OK**
 
 ### Re-enable Account
+
 - Right-click on the user's Account then click **Enable Account**
+<img width="726" height="263" alt="8" src="https://github.com/user-attachments/assets/1de11a1f-4cc0-45fd-bbfe-03ee4f44b22b" />
 
 ---
 
