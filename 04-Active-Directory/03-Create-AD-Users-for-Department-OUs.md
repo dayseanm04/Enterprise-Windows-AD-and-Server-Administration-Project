@@ -49,6 +49,25 @@ User logon names follow this format:
 
 first initial + last name (regular accounts)
 
+---
+
+### Account Configuration Settings
+
+The following settings were applied during user creation:
+
+- User must change password at next logon
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
