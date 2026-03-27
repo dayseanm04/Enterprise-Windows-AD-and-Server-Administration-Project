@@ -23,10 +23,11 @@ In this task I will enable the Active Directory Recycle Bin feature using the **
 ### 2. Navigate to the Domain
 - In ADAC, click on `corp (local)`
 
-<img width="986" height="538" alt="20" src="https://github.com/user-attachments/assets/c9a395a6-5a86-4aee-ab7f-850e027aee73" />
+<img width="986" height="538" alt="1" src="https://github.com/user-attachments/assets/c9a395a6-5a86-4aee-ab7f-850e027aee73" />
 
 ---
 
+### 3. Enable Recycle Bin
 
 
 
