@@ -112,6 +112,7 @@ I will assign **Daniel Moore** as a the Domain Admin G
 
 Opened **Powershell**
 
+<img width="633" height="240" alt="11" src="https://github.com/user-attachments/assets/a5cf0ba2-26ac-41ea-8595-38b88e0f7f94" />
 
 
 
