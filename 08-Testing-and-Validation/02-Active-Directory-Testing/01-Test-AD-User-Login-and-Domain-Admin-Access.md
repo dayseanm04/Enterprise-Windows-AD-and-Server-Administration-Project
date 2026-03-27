@@ -28,10 +28,10 @@ I will login to a AD user accounts I created. This test validates Active Directo
 
 ### 1. Attempt Login with Standard User
 
+- Username: **`m.brown`**
+- Password: **`ChangeMe10@`**
 
-
-
-
+prompt me to changed the password
 
 
 
