@@ -56,6 +56,7 @@ first initial + last name (regular accounts)
 The following settings were applied during user creation:
 
 - User must change password at next logon
+- Account expiration set to never
 
 
 
