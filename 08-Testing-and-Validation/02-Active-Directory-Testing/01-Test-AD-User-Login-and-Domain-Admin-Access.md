@@ -6,7 +6,7 @@ I will login to a AD user accounts I created. This test validates Active Directo
 
 ---
 
-## [Click here to view AD User Account Creation](../../../04-Active-Directory/01-Create-AD-Users-for-Department-OUs.md)
+## [Click here to view AD User Account Creation](../../../04-Active-Directory/03-Create-AD-Users-for-Department-OUs.md)
 
 ## Objectives
 - Test login with a standard AD user account
