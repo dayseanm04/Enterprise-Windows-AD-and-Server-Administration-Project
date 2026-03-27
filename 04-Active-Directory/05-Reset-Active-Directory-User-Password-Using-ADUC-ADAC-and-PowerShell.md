@@ -128,6 +128,28 @@ Note: **the AsSecureString does not display the password you type in plain text*
 
 ### Reset Password
 
+```powershell
+Set-ADAccountPassword -Identity "a.jones" -NewPassword $password -Reset
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
