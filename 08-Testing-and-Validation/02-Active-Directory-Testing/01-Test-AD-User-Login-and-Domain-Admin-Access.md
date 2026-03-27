@@ -57,7 +57,8 @@ Prompted me to changed the password because I specified change password at the n
 
 ### 3. Open Active Directory Users and Computers
 - Open **Server Manager**
-
+- Click **Tools**
+- Select **Active Directory Users and Computers**
 
 
 
