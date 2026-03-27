@@ -134,9 +134,11 @@ Set-ADAccountPassword -Identity "a.jones" -NewPassword $password -Reset
 
 <img width="871" height="317" alt="18" src="https://github.com/user-attachments/assets/dcae72c2-6aa8-4934-bf19-5c4de1c8bcfe" />
 
+### Force Password Change at Logon
 
-
-
+```powershell
+Set-ADUser -Identity "a.jones" -ChangePasswordAtLogon $true
+```
 
 
 
