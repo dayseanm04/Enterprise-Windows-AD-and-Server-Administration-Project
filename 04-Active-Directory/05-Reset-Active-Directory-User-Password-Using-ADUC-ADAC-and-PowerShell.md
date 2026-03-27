@@ -140,6 +140,7 @@ Set-ADAccountPassword -Identity "a.jones" -NewPassword $password -Reset
 Set-ADUser -Identity "a.jones" -ChangePasswordAtLogon $true
 ```
 
+<img width="864" height="368" alt="19" src="https://github.com/user-attachments/assets/d38bb346-33fc-4bce-b0dd-325c152f4be9" />
 
 
 
