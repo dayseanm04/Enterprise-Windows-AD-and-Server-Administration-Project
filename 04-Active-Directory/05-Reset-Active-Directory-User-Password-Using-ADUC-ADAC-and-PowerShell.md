@@ -148,8 +148,9 @@ Set-ADUser -Identity "a.jones" -ChangePasswordAtLogon $true
 
 <img width="794" height="442" alt="21" src="https://github.com/user-attachments/assets/b622bef2-a47f-4fcd-993d-330fde1d09ef" />
 
+Anna Jones is prompted to change password at login
 
-
+<img width="786" height="585" alt="22" src="https://github.com/user-attachments/assets/bb711481-709d-4ca4-828f-c2a2f4a7b5eb" />
 
 
 
