@@ -84,7 +84,9 @@ I will assign **Daniel Moore** as a the Domain Admin G
 - Click **Add**
 
 <img width="673" height="409" alt="7" src="https://github.com/user-attachments/assets/8e1288b0-c898-4e4a-b9ba-0e90b7ccec6a" />
+
 - Entered: **`daniel`** under **Enter the object names to select**
+- Clicked **Check Names**
 
 
 
