@@ -59,8 +59,9 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 
 ### Reset Password
 - Right-click the account again the click **Reset Password**
+- Enter new **password** then Click **OK**
 
-
+<img width="700" height="331" alt="6" src="https://github.com/user-attachments/assets/f6597a7c-2ca2-4004-9e88-7a854c0b8d85" />
 
 
 
