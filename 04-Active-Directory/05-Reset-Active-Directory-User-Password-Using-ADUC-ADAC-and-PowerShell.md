@@ -21,4 +21,10 @@ This task I will demonstrate how to reset a user's password in Active Directory 
   - Active Directory Administrative Center (ADAC)
   - Active Directory Module for Windows PowerShell
 
+---
+
+### Scenario
+**Anna Jones** (Administration Department) forgot her password. The goal is to reset her password using multiple methods.
+
+---
 
