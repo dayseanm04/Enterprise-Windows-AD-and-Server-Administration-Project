@@ -51,7 +51,8 @@ This task I will demonstrate how to reset a user's password in Active Directory 
 
 <img width="744" height="346" alt="4" src="https://github.com/user-attachments/assets/0d4fd874-b18d-4a54-8085-0e24d7cee6f3" />
 
-
+### Disable Account
+- Click **Disable Account**
 
 
 
