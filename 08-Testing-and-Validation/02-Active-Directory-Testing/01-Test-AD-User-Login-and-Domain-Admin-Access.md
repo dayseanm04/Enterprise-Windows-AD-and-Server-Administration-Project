@@ -42,7 +42,10 @@ Prompted me to changed the password because I specified change password at the n
 **Result:**
 - Login attempt failed on the domain controller
 
+**Reason:**
+- Only members of privileged groups (e.g., Domain Admins or Administrator) are allowed to log in to a domain controller
 
+---
 
 
 
