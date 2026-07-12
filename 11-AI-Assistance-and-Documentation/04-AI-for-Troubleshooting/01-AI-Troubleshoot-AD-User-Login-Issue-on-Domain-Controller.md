@@ -102,4 +102,4 @@ I successfully logged in as john doe
 
 ### Conclusion 
 
-The AI generated script used for creating the AD user accounts was successfuly creaded user accounts. But I count log into those accounts because there are not **Domain Admins**. I tested it by adding the test account **john doe** in the Domain Admins group and I succesfuly log into the Test DC.
+The AI generated script used for creating the AD user accounts was successfuly created user accounts. But I couldnt log into those accounts because there are not **Domain Admins**. I tested it by adding the test account **john doe** in the Domain Admins group and I succesfuly log into the Test DC.
