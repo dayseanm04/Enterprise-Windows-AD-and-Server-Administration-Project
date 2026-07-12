@@ -22,3 +22,27 @@ In this task creates I will create the shared folders I will use throughout the 
 - Configuring Share Permissions
 - Configuring NTFS Permissions
 - Applying security best practices
+
+# Powershell script to create the folders
+
+1. Open **notepad** or **text editor**
+2. Write the script
+3. Save is as **createfolders.ps1**
+4. Save it in **Desktop**
+
+```powershell
+$foldernames = @("Company-folder", "HR-folder", "IT-folder", "Finance-Folder", "Customer-Services-Folder")
+
+foreach ($foldername in $foldernames) {
+	mkdir $foldername
+}
+
+Write-Host ""
+Write-Host "Folders Created"
+```
+
+## Run the script
+
+1. Open **Powershell**
+2. cd **Desktop**
+3. **./createfolders.ps1**
