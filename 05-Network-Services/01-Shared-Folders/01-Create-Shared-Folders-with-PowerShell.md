@@ -49,4 +49,5 @@ Write-Host "Folders Created"
 
 # Expected Results
 
+<img width="713" height="454" alt="1" src="https://github.com/user-attachments/assets/b7aabcdc-799c-4ce7-8953-245c382e9268" />
 
