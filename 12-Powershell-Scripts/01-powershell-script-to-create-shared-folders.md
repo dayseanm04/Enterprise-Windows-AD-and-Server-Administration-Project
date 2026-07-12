@@ -1,7 +1,7 @@
 # Powershell script to create folders
 
 1. Open **notepad**
-2. write the script
+2. Write the script
 3. Save is as **createfolders.ps1**
 4. Save it in **Desktop**
 
