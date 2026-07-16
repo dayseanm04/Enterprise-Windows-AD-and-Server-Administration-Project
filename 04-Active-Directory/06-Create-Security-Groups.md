@@ -9,3 +9,7 @@ Create departmental security groups to manage resource permissions
 ## Steps to Create Security Groups
 
 ### 1. Open Active Directory Users and Computers
+- Open Server Manager
+- Click Tools
+- Select Active Directory Users and Computers
+
