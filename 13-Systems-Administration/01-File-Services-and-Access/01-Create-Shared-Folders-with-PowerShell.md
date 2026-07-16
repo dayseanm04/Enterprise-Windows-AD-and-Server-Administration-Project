@@ -53,3 +53,6 @@ Write-Host "Folders Created"
 
 <img width="784" height="398" alt="2" src="https://github.com/user-attachments/assets/ca86ea94-f051-4423-b70b-59986f4f9ef0" />
 
+### These are the files I created in each folder
+Note: I will conifgure files and folder permisions
+
