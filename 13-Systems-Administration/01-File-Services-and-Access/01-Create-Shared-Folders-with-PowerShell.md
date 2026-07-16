@@ -57,4 +57,4 @@ Write-Host "Folders Created"
 Note: I will conifgure files and folder permisions
 
 **View contents of a folder using command prompt:** dir /s /b
-
+<img width="804" height="354" alt="1" src="https://github.com/user-attachments/assets/22d83b32-7020-4fb5-9853-1b571d763844" />
