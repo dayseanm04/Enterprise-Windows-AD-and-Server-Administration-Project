@@ -28,3 +28,9 @@ Create departmental security groups to manage resource permissions
 - Click **Group**
 
 <img width="658" height="402" alt="4" src="https://github.com/user-attachments/assets/e0a06436-2e02-4e5a-aaa4-fda68f8d4fdb" />
+
+### Enter group details:
+- Group name (e.g., **Administration-Sec-Group**)
+- Group scope: Select **Global**
+- Group type: Select **Security**
+- Click **OK**
