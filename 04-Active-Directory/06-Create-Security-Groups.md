@@ -14,3 +14,9 @@ Create departmental security groups to manage resource permissions
 - Select Active Directory Users and Computers
 
 <img width="588" height="246" alt="11" src="https://github.com/user-attachments/assets/e7215b94-1ca4-4139-8e01-b704dede3258" />
+
+### 2. Navigate to Security-Group-OU
+- Expand corp **corp.oaktowncs.com**
+- Expand **Groups-OU**
+- Click on **Security-Group-OU**
+
