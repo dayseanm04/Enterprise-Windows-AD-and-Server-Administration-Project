@@ -13,3 +13,4 @@ Create departmental security groups to manage resource permissions
 - Click Tools
 - Select Active Directory Users and Computers
 
+<img width="588" height="246" alt="11" src="https://github.com/user-attachments/assets/e7215b94-1ca4-4139-8e01-b704dede3258" />
