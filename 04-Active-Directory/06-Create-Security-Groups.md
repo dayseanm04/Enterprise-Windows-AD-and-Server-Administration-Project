@@ -5,3 +5,7 @@ In this task I will create Security Groups for each department within Active Dir
 
 ## Objectives
 Create departmental security groups to manage resource permissions
+
+## Steps to Create Security Groups
+
+### 1. Open Active Directory Users and Computers
