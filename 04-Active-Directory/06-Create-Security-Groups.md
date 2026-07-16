@@ -39,4 +39,7 @@ Create departmental security groups to manage resource permissions
 Security group names follow this format:
 ### [Department Name] + -Sec-Group
 
+## Reference Security Groups
+
+<img width="622" height="329" alt="3" src="https://github.com/user-attachments/assets/450382d9-e5ab-45c8-9160-66a95ac34c2b" />
 
