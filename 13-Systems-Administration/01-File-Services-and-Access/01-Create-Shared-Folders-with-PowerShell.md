@@ -56,3 +56,5 @@ Write-Host "Folders Created"
 ### These are the files I created in each folder
 Note: I will conifgure files and folder permisions
 
+**View contents of a folder using command prompt:** dir /s /b
+
