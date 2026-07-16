@@ -20,3 +20,11 @@ Create departmental security groups to manage resource permissions
 - Expand **Groups-OU**
 - Click on **Security-Group-OU**
 
+<img width="622" height="329" alt="3" src="https://github.com/user-attachments/assets/450382d9-e5ab-45c8-9160-66a95ac34c2b" />
+
+### 3. Create Security Groups
+- Right click any empty space
+- Click **New**
+- Click **Group**
+
+<img width="658" height="402" alt="4" src="https://github.com/user-attachments/assets/e0a06436-2e02-4e5a-aaa4-fda68f8d4fdb" />
