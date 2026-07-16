@@ -34,3 +34,9 @@ Create departmental security groups to manage resource permissions
 - Group scope: Select **Global**
 - Group type: Select **Security**
 - Click **OK**
+
+## Naming Convention
+Security group names follow this format:
+### [Department Name] + -Sec-Group
+
+
