@@ -3,3 +3,5 @@
 ## Overview
 In this task I will create Security Groups for each department within Active Directory using the Active Directory Users and Computers (ADUC) console.
 
+## Objectives
+Create departmental security groups to manage resource permissions
