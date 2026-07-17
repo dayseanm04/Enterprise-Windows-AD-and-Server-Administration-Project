@@ -21,3 +21,7 @@ on their department or administrative role.
 - Click on **Security-Group-OU**
 
 <img width="622" height="329" alt="3" src="https://github.com/user-attachments/assets/450382d9-e5ab-45c8-9160-66a95ac34c2b" />
+
+### Add Users to Their Respective Security Groups
+- Double-click on a target security group (e.g., **Administration-Sec-Group**)
+- 
