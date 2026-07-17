@@ -24,4 +24,4 @@ on their department or administrative role.
 
 ### Add Users to Their Respective Security Groups
 - Double-click on a target security group (e.g., **Administration-Sec-Group**)
-- 
+- Click on the **Members** tab
