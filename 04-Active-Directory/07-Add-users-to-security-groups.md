@@ -29,3 +29,7 @@ on their department or administrative role.
 
 <img width="672" height="448" alt="20" src="https://github.com/user-attachments/assets/fae44e17-87a6-434a-b157-1d141ac43631" />
 
+- Enter the **names** of the users and add them
+- Click **OK**
+
+<img width="766" height="515" alt="22" src="https://github.com/user-attachments/assets/55e97fce-034d-4cdb-8930-5b356d82d893" />
