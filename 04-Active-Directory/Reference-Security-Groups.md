@@ -8,3 +8,4 @@ The table below maps the user accounts to their respective Active Directory secu
 | **Customer Service** | `Customer-Service-Sec-Group` | `corp\j.wilson` <br> `corp\s.miller` | James Wilson <br> Sarah Miller | Standard <br> Standard |
 | **Finance** | `Finance-Sec-Group` | `corp\d.clark` <br> `corp\l.white` | David Clark <br> Laura White | Standard <br> Standard |
 | **HR Department** | `HR-Sec-Group` | `corp\r.taylor` <br> `corp\e.davis` | Robert Taylor <br> Emma Davis | Standard <br> Standard |
+| **IT Department (All)** | `IT-Sec-Group` | `corp\d.moore` <br> `corp\da.mooree` <br> `corp\s.hall` <br> `corp\so.hall` | Daniel Moore <br> Daniel Moore <br> Sophie Hall <br> Sophie Hall | Admin <br> Standard <br> Admin <br> Standard |
