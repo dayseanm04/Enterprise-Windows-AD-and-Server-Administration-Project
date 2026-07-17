@@ -25,5 +25,7 @@ on their department or administrative role.
 ### Add Users to Their Respective Security Groups
 - Double-click on a target security group (e.g., **Administration-Sec-Group**)
 - Click on the **Members** tab
+- Click the **Add** button
 
 <img width="672" height="448" alt="20" src="https://github.com/user-attachments/assets/fae44e17-87a6-434a-b157-1d141ac43631" />
+
