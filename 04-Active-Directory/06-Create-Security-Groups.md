@@ -41,5 +41,5 @@ Security group names follow this format:
 
 ## Reference Security Groups
 
-<img width="622" height="329" alt="3" src="https://github.com/user-attachments/assets/450382d9-e5ab-45c8-9160-66a95ac34c2b" />
+<img width="687" height="345" alt="1" src="https://github.com/user-attachments/assets/d19cda62-e0a7-4246-9438-289718190adf" />
 
