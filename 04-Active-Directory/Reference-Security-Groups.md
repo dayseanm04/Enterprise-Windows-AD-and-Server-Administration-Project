@@ -11,3 +11,4 @@ The table below maps the user accounts to their respective Active Directory secu
 | **IT Department (All)** | `IT-Sec-Group` | `corp\d.moore` <br> `corp\da.mooree` <br> `corp\s.hall` <br> `corp\so.hall` | Daniel Moore <br> Daniel Moore <br> Sophie Hall <br> Sophie Hall | Admin <br> Standard <br> Admin <br> Standard |
 | **IT Admin** | `IT-Admin-Sec-Group` | `corp\d.moore` <br> `corp\s.hall` | Daniel Moore  |  Admin (System Administrator) |
 | **IT Standard** | `IT-Standard-Sec-Group` | `corp\da.mooree` <br> `corp\so.hall` | Sophie Hall | Standard (IT Support) |
+| **Every user** | `EveryUser-Sec-Group` | N/A | every user | N/A |
