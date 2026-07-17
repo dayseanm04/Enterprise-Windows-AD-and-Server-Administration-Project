@@ -14,3 +14,10 @@ on their department or administrative role.
 - Select Active Directory Users and Computers
 
 <img width="588" height="246" alt="11" src="https://github.com/user-attachments/assets/e7215b94-1ca4-4139-8e01-b704dede3258" />
+
+### 2. Navigate to Security-Group-OU
+- Expand corp **corp.oaktowncs.com**
+- Expand **Groups-OU**
+- Click on **Security-Group-OU**
+
+<img width="622" height="329" alt="3" src="https://github.com/user-attachments/assets/450382d9-e5ab-45c8-9160-66a95ac34c2b" />
