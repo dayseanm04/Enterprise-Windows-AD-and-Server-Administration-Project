@@ -6,3 +6,4 @@ The table below maps the user accounts to their respective Active Directory secu
 |-------------------|-----------------------|------------|-------------|--------------|
 | **Administration** | `Administration-Sec-Group` | `corp\m.brown` <br> `corp\a.jones` | Michael Brown <br> Anna Jones | Standard <br> Standard |
 | **Customer Service** | `Customer-Service-Sec-Group` | `corp\j.wilson` <br> `corp\s.miller` | James Wilson <br> Sarah Miller | Standard <br> Standard |
+| **Finance** | `Finance-Sec-Group` | `corp\d.clark` <br> `corp\l.white` | David Clark <br> Laura White | Standard <br> Standard |
