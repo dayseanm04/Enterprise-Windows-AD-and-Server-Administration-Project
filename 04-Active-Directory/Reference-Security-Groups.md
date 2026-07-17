@@ -10,4 +10,4 @@ The table below maps the user accounts to their respective Active Directory secu
 | **HR Department** | `HR-Sec-Group` | `corp\r.taylor` <br> `corp\e.davis` | Robert Taylor <br> Emma Davis | Standard <br> Standard |
 | **IT Department (All)** | `IT-Sec-Group` | `corp\d.moore` <br> `corp\da.mooree` <br> `corp\s.hall` <br> `corp\so.hall` | Daniel Moore <br> Daniel Moore <br> Sophie Hall <br> Sophie Hall | Admin <br> Standard <br> Admin <br> Standard |
 | **IT Admin** | `IT-Admin-Sec-Group` | `corp\d.moore` <br> `corp\s.hall` | Daniel Moore <br> Sophie Hall | Admin (System Administrator) <br> Admin (System Administrator) |
-| **IT Standard** | `IT-Standard-Sec-Group` | `corp\da.mooree` <br> `corp\so.hall` | Sophie Hall | Standard (IT Support) <br> Standard (IT Support)|
+| **IT Standard** | `IT-Standard-Sec-Group` | `corp\da.mooree` <br> `corp\so.hall` | Sophie Hall | Standard (IT Support) <br> Standard |
