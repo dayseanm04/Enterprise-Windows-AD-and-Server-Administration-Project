@@ -5,3 +5,6 @@ In this task I will assign the previously created Active Directory user accounts
 Active Directory Users and Computers (ADUC) console. This ensures users receive the appropriate network permissions and resource access based 
 on their department or administrative role.
 
+## Objectives
+- Assign department users to their designated Security Groups
+
