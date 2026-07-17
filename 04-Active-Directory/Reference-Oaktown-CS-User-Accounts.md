@@ -11,6 +11,4 @@
 | Finance            | David Clark    | Standard     | corp\d.clark      |                          |
 | Finance            | Laura White    | Standard     | corp\l.white      |                          |
 | IT Department      | Daniel Moore   | Admin        | corp\d.moore      | System Administrator    |
-| IT Department      | Daniel Moore   | Standard     | corp\da.mooree     | IT Support              |
-| IT Department      | Sophie Hall    | Admin        | corp\s.hall       | System Administrator     |
 | IT Department      | Sophie Hall    | Standard     | corp\so.hall      | IT Support               |
