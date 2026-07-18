@@ -27,3 +27,6 @@ I will test and verify the forward and reverse lookup functionalities of the Win
 ### Step 3: Run Reverse Lookup Tests from the Client Machine (comp-a-test)
 
 <img width="918" height="595" alt="3" src="https://github.com/user-attachments/assets/e117a1bf-2091-4b5e-aed8-4a7fecb619d1" />
+
+### Step 4: Validate DNS Server Resolution using nslookup on the Client Machine
+
