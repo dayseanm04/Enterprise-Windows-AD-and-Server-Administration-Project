@@ -27,3 +27,6 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 1. Launch **Server Manager** on the domain controller.
 2. Click on the **Tools** menu located in the top-right navigation bar.
 3. Select **DNS** from the drop-down options to open the management console.
+
+<img width="391" height="208" alt="1" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
+
