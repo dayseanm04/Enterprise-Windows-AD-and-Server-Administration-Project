@@ -9,3 +9,9 @@ In this task I will demonstrate how to test and validate the functionality of th
 - Perform local forward lookup testing on the domain controller.
 - Validate local IPv4 forward lookup resolution on the domain controller.
 - Validate remote client-side name resolution and network connectivity from a Windows 11 host.
+
+---
+
+## Environment
+- **Domain Controller:** OTCS-DC01 (IP: **`192.168.1.2`**, Loopback: **`127.0.0.1`** / **`::1`**)
+- **Client Machine:** Windows 11 Host (IP: **`192.168.1.3`**)
