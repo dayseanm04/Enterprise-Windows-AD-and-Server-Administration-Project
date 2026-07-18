@@ -8,3 +8,11 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 ## Objectives
 - Configure a primary forward zone
 
+---
+
+## Environment
+- **Domain:** corp.oaktowncs.com
+- **Tools Used:**
+  - Server Manager
+  - DNS Manager Console
+ 
