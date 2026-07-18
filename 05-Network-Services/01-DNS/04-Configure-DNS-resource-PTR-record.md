@@ -38,4 +38,12 @@ While PTR records are often auto-generated alongside Host (A) records, you can c
 
 <img width="762" height="326" alt="2" src="https://github.com/user-attachments/assets/357e91f7-c091-49eb-9891-1a28f7024a96" />
 
+### Step 3: Configure the Resource Record Parameters
+1. In the **New Resource Record** dialog window under the Pointer (PTR) tab, fill in the following properties
+2. Check the configuration box at the bottom labeled: **Allow any unauthenticated user to update all DNS records with the same name. This setting applies only to DNS records for a new name.**
+3. Click **OK**.
+
+
+
+
 
