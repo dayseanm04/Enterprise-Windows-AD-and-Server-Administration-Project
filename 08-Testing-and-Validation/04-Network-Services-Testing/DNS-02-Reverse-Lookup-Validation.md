@@ -22,3 +22,4 @@ I will test and verify the forward and reverse lookup functionalities of the Win
 
 ### Step 2: Validate Name Resolution using nslookup on the Domain Controller
 
+<img width="625" height="371" alt="2" src="https://github.com/user-attachments/assets/dc5452f8-0999-4c3e-bd03-ab4ddc05a8db" />
