@@ -67,6 +67,7 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 1. On the **Dynamic Update** screen, select **Allow only secure dynamic updates (recommended for Active Directory)**. Choosing this prevents rogue network equipment or users from spoofing or injecting unauthorized records into our zone data.
 2. Click **Next**.
 
+<img width="649" height="428" alt="7" src="https://github.com/user-attachments/assets/c18a5433-c8b8-4a29-81f6-77cab8c4e45d" />
 
 
 
