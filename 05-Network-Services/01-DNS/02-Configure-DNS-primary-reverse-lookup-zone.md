@@ -56,4 +56,5 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 1. On the **Reverse Lookup Zone Name** page, select **IPv4 Reverse Lookup Zone**.
 2. Click **Next**.
 
+<img width="726" height="434" alt="5" src="https://github.com/user-attachments/assets/dd72f76a-3fc7-461c-8454-66e026d13480" />
 
