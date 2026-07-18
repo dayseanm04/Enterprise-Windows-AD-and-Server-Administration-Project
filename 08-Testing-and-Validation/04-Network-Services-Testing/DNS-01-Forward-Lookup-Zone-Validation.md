@@ -19,3 +19,8 @@ In this task I will demonstrate how to test and validate the functionality of th
 - **Tools Used:** 
   - Windows Command Prompt (CMD)
   - Windows PowerShell
+
+---
+
+## Method 1: Local Server-Side Validation
+
