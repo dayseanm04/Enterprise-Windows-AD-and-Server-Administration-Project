@@ -6,3 +6,7 @@
   * **Domain Controller / DNS Server:** `OTCS-DC01` running Windows Server 2019 on a Hyper-V VM (`192.168.1.2`).
   * **Client Machine:** Windows 11 Host Machine (`192.168.1.3`) connected via `vEthernet (OTCS-SW)`.
 
+---
+
+## Problem 1: Active Directory Domain Controller Could Not Be Reached
+
