@@ -36,5 +36,6 @@ While PTR records are often auto-generated alongside Host (A) records, you can c
 4. Right-click on any empty space within the right-hand details pane of the zone workspace.
 5. Click on **New Pointer (PTR)...** from the contextual menu.
 
+<img width="762" height="326" alt="2" src="https://github.com/user-attachments/assets/357e91f7-c091-49eb-9891-1a28f7024a96" />
 
 
