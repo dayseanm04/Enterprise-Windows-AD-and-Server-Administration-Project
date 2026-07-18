@@ -20,3 +20,7 @@
 ### Analysis
 * I havent configured the host computer `comp-a-test` to use the Windows Server as its DNS server. Because it was using my ISP DNS, it could not resolve the internal private Active Directory domain name or locate the Domain Controller.
 
+### What I Did
+1. Opened **Control Panel**, Click **Network and Sharing Center** on the host machine.
+2. Clicked on the network connection **vEthernet (OTCS-SW)** and opened **Properties**.
+
