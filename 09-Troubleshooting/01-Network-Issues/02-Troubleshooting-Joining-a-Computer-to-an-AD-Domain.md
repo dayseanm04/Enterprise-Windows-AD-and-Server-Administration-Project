@@ -24,4 +24,7 @@
 1. Opened **Control Panel**, Click **Network and Sharing Center** on the host machine.
 2. Clicked on the network connection **vEthernet (OTCS-SW)** and opened **Properties**.
 3. Selected **Internet Protocol Version 4 (TCP/IPv4)** and clicked **Properties**.
+4. Selected "Use the following IP address" and "Use the following DNS server addresses" and configured:
+  
+<img width="395" height="452" alt="0" src="https://github.com/user-attachments/assets/f684a6a3-194f-4042-8e37-7b7eb83d3ad9" />
 
