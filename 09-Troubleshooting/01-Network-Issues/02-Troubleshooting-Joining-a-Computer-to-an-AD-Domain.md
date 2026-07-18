@@ -30,7 +30,7 @@
 
 5. Opened PowerShell and ran `ipconfig /all` to verify that the host machine's DNS Server was correctly set to `192.168.1.2`.
 
-<img width="856" height="378" alt="90" src="https://github.com/user-attachments/assets/df3fd463-64a3-4cc6-86a1-bf9c8615dda2" />
+<img width="856" height="378" alt="1" src="https://github.com/user-attachments/assets/df3fd463-64a3-4cc6-86a1-bf9c8615dda2" />
 
 ---
 
@@ -44,6 +44,8 @@
   * Pinged the server from the host machine (`ping 192.168.1.2`) **Success**.
   * Pinged the host from the server VM (`ping 192.168.1.3`) **Success**.
   * Pinged the domain name from the host machine (`ping -4 corp.oaktowncs.com`)  **Success** (Resolves to `192.168.1.2`).
+
+<img width="780" height="2" alt="92" src="https://github.com/user-attachments/assets/755f8b19-9387-48f0-8041-fca21a01dfc3" />
 
 
 
