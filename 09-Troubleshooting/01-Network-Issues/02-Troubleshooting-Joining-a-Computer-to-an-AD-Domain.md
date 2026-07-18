@@ -55,3 +55,6 @@
 3. I check the box to **Create associated pointer (PTR) record
 
 > **Reference Documentation:** For detailed, step-by-step instructions on provisioning these resource records, see the project markdown guides:
+
+> * [How to Create a DNS Host (A) Record]([https://github.com/](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/05-Network-Services/01-DNS/03-Configure-DNS-resource-A-record.md)) *(Replace with link to your A record guide)*
+> * [How to Manually Create a DNS Pointer (PTR) Record]([https://github.com/](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/05-Network-Services/01-DNS/04-Configure-DNS-resource-PTR-record.md)) *(Replace with link to your PTR record guide)*
