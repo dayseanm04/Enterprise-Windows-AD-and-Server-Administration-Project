@@ -58,3 +58,10 @@
 
 * [How to Create a DNS Host (A) Record]([https://github.com/](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/05-Network-Services/01-DNS/03-Configure-DNS-resource-A-record.md))
 * [How to Manually Create a DNS Pointer (PTR) Record]([https://github.com/](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/05-Network-Services/01-DNS/04-Configure-DNS-resource-PTR-record.md))
+
+---
+
+## Solution & Final Outcome
+* **Solution:** Configured the local host machine to use the Domain Controller's static IP address for its DNS lookup, and manually configured a matching Host (A) and Pointer (PTR) resource record within the Windows Server DNS Manager console.
+
+
