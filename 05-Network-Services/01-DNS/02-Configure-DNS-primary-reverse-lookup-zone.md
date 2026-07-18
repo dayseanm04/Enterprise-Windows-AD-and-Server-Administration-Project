@@ -61,3 +61,5 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 3. On the next screen, keep the selection on **Network ID:** and enter the first three octets of your network range: **`192.168.1`**. 
 4. Click **Next**.
 
+<img width="619" height="426" alt="6" src="https://github.com/user-attachments/assets/89a20e14-f9b9-40a1-ab46-d807919de17f" />
+
