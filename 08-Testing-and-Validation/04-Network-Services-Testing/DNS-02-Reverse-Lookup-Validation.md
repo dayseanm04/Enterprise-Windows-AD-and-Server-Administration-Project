@@ -30,3 +30,4 @@ I will test and verify the forward and reverse lookup functionalities of the Win
 
 ### Step 4: Validate DNS Server Resolution using nslookup on the Client Machine
 
+<img width="779" height="358" alt="4" src="https://github.com/user-attachments/assets/eb40b296-e357-4592-b75a-4664a7eb3b4f" />
