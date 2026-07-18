@@ -23,4 +23,5 @@
 ### What I Did
 1. Opened **Control Panel**, Click **Network and Sharing Center** on the host machine.
 2. Clicked on the network connection **vEthernet (OTCS-SW)** and opened **Properties**.
+3. Selected **Internet Protocol Version 4 (TCP/IPv4)** and clicked **Properties**.
 
