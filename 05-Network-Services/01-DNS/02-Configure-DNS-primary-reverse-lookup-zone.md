@@ -9,3 +9,7 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 ## Objectives
 - Configure a Primary Reverse Lookup Zone integrated directly into Active Directory.
 
+---
+
+## Environment
+- **Domain Controller:** OTCS-DC01 (`OTCS-DC01.corp.oaktowncs`)
