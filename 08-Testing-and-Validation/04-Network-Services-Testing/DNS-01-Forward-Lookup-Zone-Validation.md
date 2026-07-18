@@ -34,4 +34,5 @@ When I configured a static IP for the domain controller OTCS-DC01 I configured t
 
 ```cmd
 ping otcs-dc01
+ping -4 otcs-dc01 (this shows the IPv4 address)
 ```
