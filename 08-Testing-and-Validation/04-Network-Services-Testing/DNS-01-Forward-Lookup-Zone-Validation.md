@@ -45,4 +45,11 @@ ping -4 otcs-dc01 (this shows the IPv4 address)
 Now I will test the dns using my host machine (win 11 [192.168.1.3])
 I've set the DNS server to the windows server(OTCS-DC01 [192.168.1.2])
 
+### Steps
+
+1. Log into the external client machine (Windows 11 Host).
+2. Open Windows PowerShell.
+3. Execute a forward lookup connectivity test against the target domain controller hostname:
+
+
 
