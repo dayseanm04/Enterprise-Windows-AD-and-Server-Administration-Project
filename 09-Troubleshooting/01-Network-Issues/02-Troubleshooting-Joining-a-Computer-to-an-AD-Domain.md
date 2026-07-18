@@ -45,7 +45,8 @@
   * Pinged the host from the server VM (`ping 192.168.1.3`) **Success**.
   * Pinged the domain name from the host machine (`ping -4 corp.oaktowncs.com`)  **Success** (Resolves to `192.168.1.2`).
 
-<img width="780" height="2" alt="92" src="https://github.com/user-attachments/assets/755f8b19-9387-48f0-8041-fca21a01dfc3" />
+<img width="780" height="319" alt="2" src="https://github.com/user-attachments/assets/755f8b19-9387-48f0-8041-fca21a01dfc3" />
+<img width="629" height="230" alt="3" src="https://github.com/user-attachments/assets/89aa271e-b32d-40b4-a2c3-3446cac7a159" />
 
 
 
