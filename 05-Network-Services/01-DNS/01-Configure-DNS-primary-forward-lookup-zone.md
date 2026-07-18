@@ -40,5 +40,7 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 4. 
 <img width="502" height="402" alt="3" src="https://github.com/user-attachments/assets/05b43976-9c19-4fa3-9d2b-681f26764d40" />
 
-
+### Step 4: Define Replication Scope
+1. On the **Active Directory Zone Replication Scope** page, select the radio button for **To all DNS servers running on domain controllers in this domain: corp.oaktowncs.com**.
+2. Click **Next**.
 
