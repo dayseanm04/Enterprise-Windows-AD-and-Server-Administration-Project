@@ -37,5 +37,7 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 1. On the **New Zone Wizard** welcome page, click **Next**.
 2. Select **Primary zone** as the type of zone to create.
 
+<img width="502" height="402" alt="3" src="https://github.com/user-attachments/assets/05b43976-9c19-4fa3-9d2b-681f26764d40" />
+
 
 
