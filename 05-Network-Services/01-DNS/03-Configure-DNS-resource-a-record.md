@@ -18,4 +18,8 @@ In this task, I configured a record for my local host machine which I will be us
 - **Test Machine Hostname:** `comp-a-test`
 - **Test Machine IP Address:** `192.168.1.3` (Local Windows host machine)
 
+---
 
+## Step-by-Step Configuration
+
+### Step 1: Access DNS Manager Console
