@@ -28,3 +28,10 @@ While PTR records are often auto-generated alongside Host (A) records, you can c
 3. Select **DNS** from the drop-down menu.
 
 <img width="391" height="208" alt="1" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
+
+### Step 2: Access the Target Reverse Lookup Zone
+1. In the **DNS Manager** console tree, expand `OTCS-DC01.corp.oaktowncs`.
+2. Click to expand the **Reverse Lookup Zones** directory.
+3. Select **1.168.192.in-addr.arpa**.
+
+
