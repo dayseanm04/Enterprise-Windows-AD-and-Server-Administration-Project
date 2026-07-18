@@ -17,3 +17,6 @@
 
 <img width="800" height="424" alt="1" src="https://github.com/user-attachments/assets/eb5b9b15-33bb-4504-8623-99dcb642e5e2" />
 
+### Analysis
+* I havent configured the host computer `comp-a-test` to use the Windows Server as its DNS server. Because it was using my ISP DNS, it could not resolve the internal private Active Directory domain name or locate the Domain Controller.
+
