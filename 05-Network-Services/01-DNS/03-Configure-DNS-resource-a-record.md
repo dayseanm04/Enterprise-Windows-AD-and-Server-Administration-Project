@@ -35,3 +35,5 @@ In this task, I configured a record for my local host machine which I will be us
 3. Right-click on your target domain: **corp.oaktowncs.com**.
 4. Select **New Host (A or AAAA)...** from the context menu.
 
+<img width="762" height="374" alt="2" src="https://github.com/user-attachments/assets/2e6132d0-c8e2-4005-bf04-b15bbad300f6" />
+
