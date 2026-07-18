@@ -57,4 +57,10 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 2. Click **Next**].
 3. On the final confirmation summary page, click **Finish**.
 
+<img width="496" height="397" alt="6" src="https://github.com/user-attachments/assets/07701274-65d7-4c44-9649-a63568f937e9" />
+
+<img width="575" height="399" alt="7" src="https://github.com/user-attachments/assets/a9410c09-7913-475c-b8d6-80274603f650" />
+
+<img width="759" height="214" alt="8" src="https://github.com/user-attachments/assets/267eb321-d7e0-4db2-a477-d7aa0be144e5" />
+
 
