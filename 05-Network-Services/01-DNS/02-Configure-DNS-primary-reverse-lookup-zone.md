@@ -44,5 +44,6 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 2. Check the box at the bottom labeled **Store the zone in Active Directory (available only if DNS server is a writeable domain controller)**.
 3. Click **Next**.
 
+<img width="650" height="426" alt="3" src="https://github.com/user-attachments/assets/1a9d1ca3-5afd-4b01-9149-3468381fdb18" />
 
 
