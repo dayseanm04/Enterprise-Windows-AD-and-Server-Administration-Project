@@ -28,3 +28,9 @@
   
 <img width="395" height="452" alt="0" src="https://github.com/user-attachments/assets/f684a6a3-194f-4042-8e37-7b7eb83d3ad9" />
 
+5. Opened PowerShell and ran `ipconfig /all` to verify that the host machine's DNS Server was correctly set to `192.168.1.2`.
+
+<img width="856" height="378" alt="90" src="https://github.com/user-attachments/assets/df3fd463-64a3-4cc6-86a1-bf9c8615dda2" />
+
+
+
