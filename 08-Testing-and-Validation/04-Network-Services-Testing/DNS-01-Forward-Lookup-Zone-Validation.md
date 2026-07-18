@@ -13,5 +13,9 @@ In this task I will demonstrate how to test and validate the functionality of th
 ---
 
 ## Environment
-- **Domain Controller:** OTCS-DC01 (IP: **`192.168.1.2`**, Loopback: **`127.0.0.1`** / **`::1`**)
+- **Domain Controller:** **OTCS-DC01** (IP: **`192.168.1.2`**, Loopback: **`127.0.0.1`** / **`::1`**)
 - **Client Machine:** Windows 11 Host (IP: **`192.168.1.3`**)
+- **Configured Domain:** corp.oaktowncs.com
+- **Tools Used:** 
+  - Windows Command Prompt (CMD)
+  - Windows PowerShell
