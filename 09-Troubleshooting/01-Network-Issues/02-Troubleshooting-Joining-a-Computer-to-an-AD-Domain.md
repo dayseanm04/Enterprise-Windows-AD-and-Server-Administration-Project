@@ -15,4 +15,5 @@
 * Clicked details shows: `The error was: "DNS name does not exist." (error code 0x0000232B RCODE_NAME_ERROR)`.
 * The network query failed to find the service location (SRV) record for `_ldap._tcp.dc._msdcs.corp.oaktowncs.com`.
 
-* 
+<img width="800" height="424" alt="1" src="https://github.com/user-attachments/assets/eb5b9b15-33bb-4504-8623-99dcb642e5e2" />
+
