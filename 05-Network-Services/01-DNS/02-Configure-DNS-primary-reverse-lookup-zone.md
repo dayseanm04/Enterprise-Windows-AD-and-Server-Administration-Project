@@ -69,5 +69,8 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 
 <img width="649" height="428" alt="7" src="https://github.com/user-attachments/assets/c18a5433-c8b8-4a29-81f6-77cab8c4e45d" />
 
+### Step 7: Confirm and Complete Final Summary
+1. Review the summary on the **Completing the New Zone Wizard** page to confirm the parameters match your network scope
+2. Click **Finish** to close out the setup wizard and finalize the zone creation.
 
-
+<img width="647" height="428" alt="8" src="https://github.com/user-attachments/assets/9859d1d3-bc2f-4795-b322-279243379cfd" />
