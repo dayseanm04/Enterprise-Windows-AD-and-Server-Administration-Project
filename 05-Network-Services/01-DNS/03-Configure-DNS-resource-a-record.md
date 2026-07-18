@@ -48,6 +48,7 @@ In this task, I configured a record for my local host machine which I will be us
 5. When the success dialog popups stating *"The host record comp-a-test.corp.oaktowncs.com was successfully created."*, click **OK**.
 6. Click **Done**.
 
+<img width="664" height="426" alt="20" src="https://github.com/user-attachments/assets/a304bdac-4f71-425d-8ff9-ae2344431594" />
 
 
 
