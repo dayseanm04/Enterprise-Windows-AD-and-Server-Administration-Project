@@ -37,3 +37,14 @@ In this task, I configured a record for my local host machine which I will be us
 
 <img width="762" height="374" alt="2" src="https://github.com/user-attachments/assets/2e6132d0-c8e2-4005-bf04-b15bbad300f6" />
 
+### Step 3: Create the new host
+1. In the **New Host** dialog window, enter the following parameters
+2. Check the box labeled **Create associated pointer (PTR) record**.
+3. Check the box labeled **Allow any unauthenticated user to update DNS records with the same owner name**.
+
+
+
+
+
+
+
