@@ -16,5 +16,9 @@ I will test and verify the forward and reverse lookup functionalities of the Win
 ## Verification Procedures
 
 ### Step 1: Execute Reverse Lookup Tests via Ping from the Domain Controller
+1. On the **OTCS-DC01** domain controller, run **Windows PowerShell**.
 
 <img width="778" height="517" alt="1" src="https://github.com/user-attachments/assets/d54b40f6-41fd-4766-ab75-9c84f876e7d9" />
+
+### Step 2: Validate Name Resolution using nslookup on the Domain Controller
+
