@@ -49,5 +49,9 @@
 <img width="629" height="230" alt="3" src="https://github.com/user-attachments/assets/89aa271e-b32d-40b4-a2c3-3446cac7a159" />
 <img width="714" height="284" alt="4" src="https://github.com/user-attachments/assets/133c7f11-a0d5-4d56-9a74-9f99adb3dd8b" />
 
+### What I Did
+1. Switched to the Windows Server VM (`OTCS-DC01`).
+2. I then configure a **New Host (A or AAAA)** for **comp-a-test**
+3. I check the box to **Create associated pointer (PTR) record
 
 
