@@ -7,3 +7,5 @@ In this task I will demonstrate how to test and validate the functionality of th
 
 ## Objectives
 - Perform local forward lookup testing on the domain controller.
+- Validate local IPv4 forward lookup resolution on the domain controller.
+- Validate remote client-side name resolution and network connectivity from a Windows 11 host.
