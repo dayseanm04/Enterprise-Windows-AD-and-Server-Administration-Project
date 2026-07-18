@@ -29,3 +29,9 @@ When I configured a static IP for the domain controller OTCS-DC01 I configured t
 
 ### Steps
 1. Logged into the domain controller **OTCS-DC01** as Administrator.
+2. Open **Command Prompt** as an Administrator.
+3. Execute a default ping command to test native resolution:
+
+```cmd
+ping otcs-dc01
+```
