@@ -43,6 +43,7 @@ While PTR records are often auto-generated alongside Host (A) records, you can c
 2. Check the configuration box at the bottom labeled: **Allow any unauthenticated user to update all DNS records with the same name. This setting applies only to DNS records for a new name.**
 3. Click **OK**.
 
+<img width="662" height="490" alt="3" src="https://github.com/user-attachments/assets/0fb5f287-f5d1-4d2e-bd2a-d2a4db36c582" />
 
 
 
