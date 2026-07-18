@@ -11,4 +11,9 @@ I will test and verify the forward and reverse lookup functionalities of the Win
 - **Domain Controller:** `OTCS-DC01` (IP: `192.168.1.2`, Domain: `corp.oaktowncs.com`)
 - **Test Client Machine:** `comp-a-test` (IP: `192.168.1.3`)
 
+---
+
+## Verification Procedures
+
+### Step 1: Execute Reverse Lookup Tests via Ping from the Domain Controller
 
