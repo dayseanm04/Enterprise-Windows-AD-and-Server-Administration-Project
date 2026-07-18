@@ -51,5 +51,6 @@ I've set the DNS server to the windows server(OTCS-DC01 [192.168.1.2])
 2. Open Windows PowerShell.
 3. Execute a forward lookup connectivity test against the target domain controller hostname:
 
+<img width="752" height="303" alt="2" src="https://github.com/user-attachments/assets/062e8e2c-d3f8-400e-b850-130873344b21" />
 
 
