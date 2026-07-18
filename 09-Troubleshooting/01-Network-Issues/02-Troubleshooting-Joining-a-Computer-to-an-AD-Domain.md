@@ -32,5 +32,11 @@
 
 <img width="856" height="378" alt="90" src="https://github.com/user-attachments/assets/df3fd463-64a3-4cc6-86a1-bf9c8615dda2" />
 
+---
+
+## Problem 2: General Network Error validating the Computer Name
+
+### What I See
+* After fixing the DNS settings on the client, a second domain join attempt failed with a new error message: *"The following error occurred validating the name 'COMP-A-TEST'. A general network error occurred."*
 
 
