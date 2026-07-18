@@ -8,5 +8,11 @@
 
 ---
 
-## Problem 1: Active Directory Domain Controller Could Not Be Reached
+## Problem 1: Active Directory Domain Controller Could Not Be Contact
 
+### What I Seen
+* When attempting to join the domain via System Properties, an error dialog displays: *"An Active Directory Domain Controller (AD DC) for the domain 'corp.oaktowncs.com' could not be contacted."*
+* Clicked details shows: `The error was: "DNS name does not exist." (error code 0x0000232B RCODE_NAME_ERROR)`.
+* The network query failed to find the service location (SRV) record for `_ldap._tcp.dc._msdcs.corp.oaktowncs.com`.
+
+* 
