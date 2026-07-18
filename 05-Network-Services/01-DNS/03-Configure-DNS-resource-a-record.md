@@ -42,9 +42,11 @@ In this task, I configured a record for my local host machine which I will be us
 2. Check the box labeled **Create associated pointer (PTR) record**.
 3. Check the box labeled **Allow any unauthenticated user to update DNS records with the same owner name**.
 
-<img width="667" height="453" alt="11" src="https://github.com/user-attachments/assets/aba2fbf9-3d8e-4be2-b15e-a8947ac54448" />
+<img width="667" height="453" alt="3" src="https://github.com/user-attachments/assets/aba2fbf9-3d8e-4be2-b15e-a8947ac54448" />
 
-
+4. Click **Add Host**
+5. When the success dialog popups stating *"The host record comp-a-test.corp.oaktowncs.com was successfully created."*, click **OK**.
+6. Click **Done**.
 
 
 
