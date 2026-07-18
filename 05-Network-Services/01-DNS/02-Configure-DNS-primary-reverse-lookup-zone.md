@@ -35,3 +35,5 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 2. Locate and right-click on the folder named **Reverse Lookup Zones**.
 3. Click on **New Zone...** from the contextual menu.
 
+<img width="756" height="282" alt="1" src="https://github.com/user-attachments/assets/6033f023-04b8-4e8f-8def-c46ea8764cf2" />
+
