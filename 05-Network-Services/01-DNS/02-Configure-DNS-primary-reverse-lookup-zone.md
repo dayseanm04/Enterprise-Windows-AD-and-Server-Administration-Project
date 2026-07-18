@@ -30,3 +30,8 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 
 <img width="391" height="208" alt="1" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
 
+### Step 2: Launch the New Zone Wizard
+1. In the **DNS Manager** console tree, look under your server node (`OTCS-DC01.corp.oaktowncs`).
+2. Locate and right-click on the folder named **Reverse Lookup Zones**.
+3. Click on **New Zone...** from the contextual menu.
+
