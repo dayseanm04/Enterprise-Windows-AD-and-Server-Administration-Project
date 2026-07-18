@@ -41,3 +41,8 @@ ping -4 otcs-dc01 (this shows the IPv4 address)
 
 ## Method 2: Remote Client-Side Validation
 
+### Pre-Configuration Note
+Now I will test the dns using my host machine (win 11 [192.168.1.3])
+I've set the DNS server to the windows server(OTCS-DC01 [192.168.1.2])
+
+
