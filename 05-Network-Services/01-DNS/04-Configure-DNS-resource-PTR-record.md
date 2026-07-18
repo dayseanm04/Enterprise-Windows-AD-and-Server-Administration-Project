@@ -45,6 +45,7 @@ While PTR records are often auto-generated alongside Host (A) records, you can c
 
 <img width="662" height="490" alt="3" src="https://github.com/user-attachments/assets/0fb5f287-f5d1-4d2e-bd2a-d2a4db36c582" />
 
+<img width="759" height="272" alt="23" src="https://github.com/user-attachments/assets/feaef992-33d3-490e-a8c9-616938d370ac" />
 
 
 
