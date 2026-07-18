@@ -39,5 +39,5 @@ ping -4 otcs-dc01 (this shows the IPv4 address)
 
 <img width="751" height="453" alt="1" src="https://github.com/user-attachments/assets/b28c141f-4976-4d20-9295-94a063e88c82" />
 
-
+## Method 2: Remote Client-Side Validation
 
