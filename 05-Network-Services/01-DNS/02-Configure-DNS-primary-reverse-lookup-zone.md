@@ -13,3 +13,5 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 
 ## Environment
 - **Domain Controller:** OTCS-DC01 (`OTCS-DC01.corp.oaktowncs`)
+- **Target Subnet Network ID:** `192.168.1.0/24`
+- 
