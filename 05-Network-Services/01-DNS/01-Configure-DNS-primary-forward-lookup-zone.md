@@ -63,4 +63,4 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 
 <img width="759" height="214" alt="8" src="https://github.com/user-attachments/assets/267eb321-d7e0-4db2-a477-d7aa0be144e5" />
 
-
+**Note:** The zone already exists because the dns server role was installed active directory domain services and it created a primary forward lookup zone for the domain.
