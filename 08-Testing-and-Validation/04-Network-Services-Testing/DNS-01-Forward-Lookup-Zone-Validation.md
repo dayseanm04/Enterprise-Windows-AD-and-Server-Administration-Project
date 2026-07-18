@@ -24,3 +24,8 @@ In this task I will demonstrate how to test and validate the functionality of th
 
 ## Method 1: Local Server-Side Validation
 
+### Pre-Configuration Note
+When I configured a static IP for the domain controller OTCS-DC01 I configured the primary DNS server to itself 127.0.0.1
+
+### Steps
+1. Logged into the domain controller **OTCS-DC01** as Administrator.
