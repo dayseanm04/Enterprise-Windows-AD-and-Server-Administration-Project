@@ -39,4 +39,11 @@
 ### What I See
 * After fixing the DNS settings on the client, a second domain join attempt failed with a new error message: *"The following error occurred validating the name 'COMP-A-TEST'. A general network error occurred."*
 
+### Analysis
+* Network reachability was confirmed using bi-directional ping tests:
+  * Pinged the server from the host machine (`ping 192.168.1.2`) **Success**.
+  * Pinged the host from the server VM (`ping 192.168.1.3`) **Success**.
+  * Pinged the domain name from the host machine (`ping -4 corp.oaktowncs.com`)  **Success** (Resolves to `192.168.1.2`).
+
+
 
