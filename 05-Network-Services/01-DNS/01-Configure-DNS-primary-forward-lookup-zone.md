@@ -52,6 +52,9 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 
 <img width="496" height="385" alt="5" src="https://github.com/user-attachments/assets/be6411aa-093b-4a8b-9ccc-200385090569" />
 
-
+### Step 6: Set Dynamic Update Policy
+1. On the **Dynamic Update** page, select **Allow only secure dynamic updates (recommended for Active Directory)**.
+2. Click **Next**].
+3. On the final confirmation summary page, click **Finish**.
 
 
