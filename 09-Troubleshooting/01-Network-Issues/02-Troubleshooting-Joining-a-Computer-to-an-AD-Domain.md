@@ -56,8 +56,8 @@
 
 > **Reference Documentation:** For detailed, step-by-step instructions on provisioning these resource records, see the project markdown guides:
 
-* [How to Create a DNS Host (A) Record]([https://github.com/](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/05-Network-Services/01-DNS/03-Configure-DNS-resource-A-record.md))
-* [How to Manually Create a DNS Pointer (PTR) Record]([https://github.com/](https://github.com/dayseanm04/Enterprise-Windows-AD-and-Server-Administration-Project/blob/main/05-Network-Services/01-DNS/04-Configure-DNS-resource-PTR-record.md))
+* [How to Create a DNS Host (A) Record](../../05-Network-Services/01-DNS/03-Configure-DNS-resource-A-record.md)
+* [How to Manually Create a DNS Pointer (PTR) Record](../../05-Network-Services/01-DNS/04-Configure-DNS-resource-PTR-record.md)
 
 ---
 
