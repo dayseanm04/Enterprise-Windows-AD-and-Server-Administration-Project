@@ -46,4 +46,10 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 
 <img width="650" height="426" alt="3" src="https://github.com/user-attachments/assets/1a9d1ca3-5afd-4b01-9149-3468381fdb18" />
 
+### Step 4: Choose the Directory Replication Scope
+1. On the **Active Directory Zone Replication Scope** configuration page, select the option: **To all DNS servers running on domain controllers in this domain: corp.oaktowncs.com**. This setting ensures that every local domain controller running DNS in our specific network partition will stay automatically synced with these pointers.
+2. Click **Next**.
+
+
+
 
