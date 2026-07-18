@@ -22,4 +22,10 @@ In this task, I configured a record for my local host machine which I will be us
 
 ## Step-by-Step Configuration
 
-### Step 1: Access DNS Manager Console
+### Step 1: Open DNS Manager
+1. Open **Server Manager**.
+2. Click **Tools** in the top navigation bar.
+3. Select **DNS** from the drop-down menu.
+
+<img width="391" height="208" alt="1" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
+
