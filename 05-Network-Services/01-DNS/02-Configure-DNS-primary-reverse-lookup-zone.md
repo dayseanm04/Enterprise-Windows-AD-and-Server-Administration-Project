@@ -52,5 +52,8 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 
 <img width="621" height="425" alt="4" src="https://github.com/user-attachments/assets/61240cde-fbfb-4c4b-9dca-f07dfc304755" />
 
+### Step 5: Specify IP Version and Network Identity
+1. On the **Reverse Lookup Zone Name** page, select **IPv4 Reverse Lookup Zone**.
+2. Click **Next**.
 
 
