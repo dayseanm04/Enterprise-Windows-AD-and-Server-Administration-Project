@@ -39,6 +39,10 @@ In this task I will configure an Active Directory-Integrated Primary Reverse Loo
 
 4. When the **New Zone Wizard** welcome window initializes, click **Next**.
 
+### Step 3: Select Zone Type and Active Directory Integration
+1. On the **Zone Type** parameters screen, select the **Primary zone**. 
+2. Check the box at the bottom labeled **Store the zone in Active Directory (available only if DNS server is a writeable domain controller)**.
+3. Click **Next**.
 
 
 
