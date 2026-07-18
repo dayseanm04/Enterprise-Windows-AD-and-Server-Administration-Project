@@ -16,3 +16,9 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
   - Server Manager
   - DNS Manager Console
  
+---
+
+## Step-by-Step Configuration
+
+### Step 1: Open DNS Manager
+1. Open **Server Manager**.
