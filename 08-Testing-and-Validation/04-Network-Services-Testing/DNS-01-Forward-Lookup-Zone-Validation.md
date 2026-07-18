@@ -36,3 +36,8 @@ When I configured a static IP for the domain controller OTCS-DC01 I configured t
 ping otcs-dc01
 ping -4 otcs-dc01 (this shows the IPv4 address)
 ```
+
+<img width="751" height="453" alt="1" src="https://github.com/user-attachments/assets/b28c141f-4976-4d20-9295-94a063e88c82" />
+
+
+
