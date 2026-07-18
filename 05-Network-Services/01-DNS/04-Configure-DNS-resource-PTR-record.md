@@ -33,5 +33,8 @@ While PTR records are often auto-generated alongside Host (A) records, you can c
 1. In the **DNS Manager** console tree, expand `OTCS-DC01.corp.oaktowncs`.
 2. Click to expand the **Reverse Lookup Zones** directory.
 3. Select **1.168.192.in-addr.arpa**.
+4. Right-click on any empty space within the right-hand details pane of the zone workspace.
+5. Click on **New Pointer (PTR)...** from the contextual menu.
+
 
 
