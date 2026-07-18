@@ -25,4 +25,15 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 2. Click **Tools** in the top navigation bar.
 3. Select **DNS** from the drop-down menu.
 
-<img width="391" height="208" alt="Screenshot 2026-07-17 222412" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
+<img width="391" height="208" alt="1" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
+
+### Step 2: Initialize New Zone Wizard
+1. In the **DNS Manager** console tree, expand your server node (`OTCS-DC01.corp.oaktowncs`).
+2. Right-click on **Forward Lookup Zones** and select **New Zone...**
+
+<img width="650" height="283" alt="2" src="https://github.com/user-attachments/assets/c7b6a027-3c2a-47c9-9778-34a7cec2d300" />
+
+
+
+
+
