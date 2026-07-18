@@ -50,6 +50,8 @@ A Forward Lookup Zone is a fundamental component of the Domain Name System (DNS)
 1. On the **Zone Name** page, type `corp.oaktowncs.com` into the **Zone name:** field.
 2. Click **Next**.
 
+<img width="496" height="385" alt="5" src="https://github.com/user-attachments/assets/be6411aa-093b-4a8b-9ccc-200385090569" />
+
 
 
 
