@@ -55,7 +55,7 @@
 ### What I Did
 1. Switched to the Windows Server VM (`OTCS-DC01`).
 2. I then configure a **New Host (A or AAAA)** for **comp-a-test**
-3. I check the box to **Create associated pointer (PTR) record
+3. I check the box to **Create associated pointer (PTR)** record
 
 > **Reference Documentation:** For detailed, step-by-step instructions on provisioning these resource records, see the project markdown guides:
 
