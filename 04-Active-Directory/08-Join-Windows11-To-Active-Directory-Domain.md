@@ -18,3 +18,7 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 ## Step-by-Step Guide
 
 ### Step 1: Open System Settings
+
+1. Open the **Settings** app on the target machine (`comp-a-test`).
+2. Click **System** in the left sidebar.
+3. Scroll down and Click **About**.
