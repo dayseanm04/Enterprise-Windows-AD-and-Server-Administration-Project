@@ -23,8 +23,12 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 2. Click **System** in the left sidebar.
 3. Scroll down and Click **About**.
 
-<img width="625" height="78" alt="Screenshot 2026-07-20 175559" src="https://github.com/user-attachments/assets/72fc0355-3025-4960-a34e-a4208227bb72" />
+<img width="625" height="78" alt="1" src="https://github.com/user-attachments/assets/72fc0355-3025-4960-a34e-a4208227bb72" />
 
 ---
 
 ### Step 2: Access Advanced System Properties
+1. Scroll down to the **Related links** section.
+2. Click **Domain or workgroup** to open the **System Properties** widow.
+
+<img width="581" height="69" alt="2" src="https://github.com/user-attachments/assets/514fefc4-c5db-4f52-92c5-53687ad7629c" />
