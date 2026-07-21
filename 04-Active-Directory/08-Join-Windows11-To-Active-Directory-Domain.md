@@ -56,7 +56,7 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 2. I will click **OK**.
 
 <img width="329" height="153" alt="S6" src="https://github.com/user-attachments/assets/b6f676f0-15cd-4a73-9a79-a9be6619499b" />
-
+<br/>
 <img width="355" height="185" alt="7" src="https://github.com/user-attachments/assets/377af00a-62fe-499e-af92-3e69051fd11f" />
-
+<br/>
 <img width="353" height="174" alt="8" src="https://github.com/user-attachments/assets/1432d5fd-d3c1-4c11-b276-02bc1c2095c2" />
