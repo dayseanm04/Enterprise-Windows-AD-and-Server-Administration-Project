@@ -37,3 +37,4 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 ### Step 3: Change workgroup to Domain
 1. On the **Computer Name** tab, I will click **Change...**
 2. In the **Computer Name/Domain Changes** dialog, select **Domain**.
+3. Typed in the domain name: `corp.oaktowncs.com`
