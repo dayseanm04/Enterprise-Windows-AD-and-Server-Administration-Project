@@ -32,3 +32,4 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 2. Click **Domain or workgroup** to open the **System Properties** widow.
 
 <img width="581" height="69" alt="2" src="https://github.com/user-attachments/assets/514fefc4-c5db-4f52-92c5-53687ad7629c" />
+<img width="417" height="470" alt="3" src="https://github.com/user-attachments/assets/9043c494-e384-4047-ba4d-b775cec7b421" />
