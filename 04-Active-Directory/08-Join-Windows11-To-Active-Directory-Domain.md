@@ -41,8 +41,10 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 
 <img width="447" height="390" alt="4" src="https://github.com/user-attachments/assets/bd2a0cfa-e129-44d0-b686-9650a58fdf58" />
 
+---
 
-
+### Step 4: Authenticate and join Domain Join
+1. When the **Windows Security** box prompts for credentials, Enter :
 
 
 
