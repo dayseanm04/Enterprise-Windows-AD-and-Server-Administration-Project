@@ -3,3 +3,4 @@
 ## Environment Overview
 * **Client Host:** `comp-a-test` (Windows 11)
 * **Target Domain:** `corp.oaktowncs.com`
+* **Authorized Account:** `d.moore`
