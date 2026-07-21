@@ -38,3 +38,13 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 1. On the **Computer Name** tab, I will click **Change...**
 2. In the **Computer Name/Domain Changes** dialog, select **Domain**.
 3. Typed in the domain name: `corp.oaktowncs.com`
+
+<img width="447" height="390" alt="4" src="https://github.com/user-attachments/assets/bd2a0cfa-e129-44d0-b686-9650a58fdf58" />
+
+
+
+
+
+
+
+
