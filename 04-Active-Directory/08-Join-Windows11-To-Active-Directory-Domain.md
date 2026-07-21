@@ -3,6 +3,11 @@
 ## Overview
 I will join a Windows 11 host machine to an Active Directory Domain.
 
+## Objective
+I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Active Directory domain to enable centralized administration, domain user authentication, and access to internal network resources.
+
+---
+
 ## Environment Overview
 * **Client Host:** `comp-a-test` (Windows 11)
 * **Target Domain:** `corp.oaktowncs.com`
