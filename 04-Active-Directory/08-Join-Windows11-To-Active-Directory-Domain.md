@@ -12,3 +12,9 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 * **Client Host:** `comp-a-test` (Windows 11)
 * **Target Domain:** `corp.oaktowncs.com`
 * **Authorized Account:** `d.moore`
+
+---
+
+## Step-by-Step Guide
+
+### Step 1: Open System Settings
