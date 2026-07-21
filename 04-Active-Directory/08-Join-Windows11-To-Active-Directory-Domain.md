@@ -51,10 +51,10 @@ I will integrate the Windows 11 host computer into the `corp.oaktowncs.com` Acti
 
 ---
 
-### Step 5: Confirm Domain Join and Restart
+### Step 5: Confirm and Restart
 1. After successful authentication, *"Welcome to the corp.oaktowncs.com domain."* will pop up
 2. I will click **OK**.
 
-<img width="329" height="153" alt="Screenshot 2026-07-20 193416" src="https://github.com/user-attachments/assets/b6f676f0-15cd-4a73-9a79-a9be6619499b" />
+<img width="329" height="153" alt="S6" src="https://github.com/user-attachments/assets/b6f676f0-15cd-4a73-9a79-a9be6619499b" />
 
-
+<img width="355" height="185" alt="7" src="https://github.com/user-attachments/assets/377af00a-62fe-499e-af92-3e69051fd11f" />
