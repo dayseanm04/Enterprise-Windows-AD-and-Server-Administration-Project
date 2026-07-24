@@ -97,6 +97,7 @@ Write-Host "Done!"
 - For each folder, it moves into that folder, then uses a `switch` statement to match the folder name and rename that folder's `sample1.txt` and `sample2.txt` to the appropriate file names.
 - After each folder is processed, the script moves back up one directory (`Set-Location ..`) before continuing to the next.
 
-
+## Running the Script
+1. Open Notepad or VS Code and save the script as `renamefiles.ps1`.
 
 
