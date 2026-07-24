@@ -38,6 +38,7 @@ Write-Host "Done!"
 
 ### How it works
 - `$sample_files` holds the names of the two template files to create in each folder.
+- `$folders` holds the list of shared folder names to loop through.
 
 
 
