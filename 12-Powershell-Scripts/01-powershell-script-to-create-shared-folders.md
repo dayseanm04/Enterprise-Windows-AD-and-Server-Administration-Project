@@ -6,6 +6,7 @@
 4. Save it in **Desktop**
 
 ```powershell
+mkdir shared-folders
 $foldernames = @("Company-Folder", "HR-Folder", "IT-Folder", "Finance-Folder", "Customer-Services-Folder")
 
 foreach ($foldername in $foldernames) {
