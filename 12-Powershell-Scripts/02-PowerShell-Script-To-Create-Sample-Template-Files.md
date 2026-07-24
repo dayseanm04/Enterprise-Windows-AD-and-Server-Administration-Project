@@ -6,65 +6,20 @@
 4. Save it in **Desktop**
 
 ```powershell
-$folders = @(
-    "Company-Folder",
-    "Customer-Services-Folder",
-    "IT-Folder",
-    "HR-Folder",
-    "Finance-Folder"
-)
+$sample_files = @("sample1.txt", "sample2.txt")
+$folders = @("Company-Folder", "Customer-Services-Folder", "IT-Folder", "HR-Folder", "Finance-folder")
 
-Set-Location "$HOME\Desktop\shared-folders"
+# Change Directory to shared-folder on Desktop
+cd "$HOME\Desktop\shared-folders"
 
-foreach ($folder in $folders) {
+#loop through the folders
+foreach ($f in $folders){
+	cd $f
 
-    Set-Location $folder
-
-    switch ($folder) {
-
-        "Company-Folder" {
-            Write-Host "[$folder] Renaming sample1.txt -> policies.txt"
-            Rename-Item "sample1.txt" "policies.txt"
-
-            Write-Host "[$folder] Renaming sample2.txt -> holiday-schedule.txt"
-            Rename-Item "sample2.txt" "holiday-schedule.txt"
-        }
-
-        "HR-Folder" {
-            Write-Host "[$folder] Renaming sample1.txt -> onboarding-doc.txt"
-            Rename-Item "sample1.txt" "onboarding-doc.txt"
-
-            Write-Host "[$folder] Renaming sample2.txt -> hiring-doc.txt"
-            Rename-Item "sample2.txt" "hiring-doc.txt"
-        }
-
-        "Customer-Services-Folder" {
-            Write-Host "[$folder] Renaming sample1.txt -> faq.txt"
-            Rename-Item "sample1.txt" "faq.txt"
-
-            Write-Host "[$folder] Renaming sample2.txt -> support-temp.txt"
-            Rename-Item "sample2.txt" "support-temp.txt"
-        }
-
-        "IT-Folder" {
-            Write-Host "[$folder] Renaming sample1.txt -> setup-guides.txt"
-            Rename-Item "sample1.txt" "setup-guides.txt"
-            
-            Write-Host "[$folder] Renaming sample2.txt -> documentation.txt"
-            Rename-Item "sample2.txt" "documentation.txt"
-        }
-
-        "Finance-Folder" {
-            Write-Host "[$folder] Renaming sample1.txt -> payroll.txt"
-            Rename-Item "sample1.txt" "payroll.txt"
-            
-            Write-Host "[$folder] Renaming sample2.txt -> tax-doc.txt"
-            Rename-Item "sample2.txt" "tax-doc.txt"
-        }
-    }
-
-    Set-Location ..
+	foreach ($sf in $sample_files){
+		New-Item -ItemType File $sf -Force
+	}
+	cd ..
 }
-
 Write-Host "Done!"
 ```
