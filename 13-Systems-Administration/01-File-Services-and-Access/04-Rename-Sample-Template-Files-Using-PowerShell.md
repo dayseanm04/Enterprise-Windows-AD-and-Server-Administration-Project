@@ -99,5 +99,9 @@ Write-Host "Done!"
 
 ## Running the Script
 1. Open Notepad or VS Code and save the script as `renamefiles.ps1`.
-
+2. Open PowerShell.
+3. Change directory to the Desktop:
+```powershell
+   cd Desktop
+```
 
