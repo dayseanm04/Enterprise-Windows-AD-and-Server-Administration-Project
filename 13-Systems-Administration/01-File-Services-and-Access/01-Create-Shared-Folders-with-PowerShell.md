@@ -52,9 +52,3 @@ Write-Host "Folders Created"
 <img width="713" height="454" alt="1" src="https://github.com/user-attachments/assets/b7aabcdc-799c-4ce7-8953-245c382e9268" />
 
 <img width="784" height="398" alt="2" src="https://github.com/user-attachments/assets/ca86ea94-f051-4423-b70b-59986f4f9ef0" />
-
-### These are the files I created in each folder
-Note: I will conifgure files and folder permisions
-
-**View contents of a folder using command prompt:** dir /s /b
-<img width="804" height="354" alt="1" src="https://github.com/user-attachments/assets/22d83b32-7020-4fb5-9853-1b571d763844" />
