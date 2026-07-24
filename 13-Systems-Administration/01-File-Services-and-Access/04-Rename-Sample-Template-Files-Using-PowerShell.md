@@ -2,3 +2,12 @@
 
 ## Overview
 With the sample files (`sample1.txt` and `sample2.txt`) already created in each shared folder, the next step was to rename them. I wrote a PowerShell script using a `switch` statement to rename the files differently depending on which folder they were in.
+
+## Shared Folders
+The following folders exist under `shared-folders`:
+
+- `Company-Folder`
+- `Customer-Services-Folder`
+- `IT-Folder`
+- `HR-Folder`
+- `Finance-Folder`
