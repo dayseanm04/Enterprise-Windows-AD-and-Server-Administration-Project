@@ -19,3 +19,8 @@ Each folder's sample files were renamed to match its purpose:
 
 | Folder | sample1.txt | sample2.txt |
 |---|---|---|
+| Company-Folder | policies.txt | holiday-schedule.txt |
+| HR-Folder | onboarding-doc.txt | hiring-doc.txt |
+| Customer-Services-Folder | faq.txt | support-temp.txt |
+| IT-Folder | setup-guides.txt | documentation.txt |
+| Finance-Folder | payroll.txt | tax-doc.txt |
