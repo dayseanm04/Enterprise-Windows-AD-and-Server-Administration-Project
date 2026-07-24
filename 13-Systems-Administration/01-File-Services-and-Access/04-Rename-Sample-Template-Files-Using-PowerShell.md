@@ -104,4 +104,13 @@ Write-Host "Done!"
 ```powershell
    cd Desktop
 ```
+4. Run the script:
+```powershell
+   ./renamefiles.ps1
+```
+The script ran successfully:
+
+
+
+
 
