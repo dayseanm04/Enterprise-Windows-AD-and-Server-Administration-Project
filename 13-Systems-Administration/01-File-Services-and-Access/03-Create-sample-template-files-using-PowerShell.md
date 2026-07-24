@@ -16,3 +16,22 @@ These are the folders I created in the shared-folders:
 For each folder, I created two sample files (`sample1.txt` and `sample2.txt`) to act as templates. These sample files can later be used as the basis for creating the actual working files.
 
 ## PowerShell Script
+
+```powershell
+$sample_files = @("sample1.txt", "sample2.txt")
+$folders = @("Company-Folder", "Customer-Services-Folder", "IT-Folder", "HR-Folder", "Finance-Folder")
+
+# Change Directory to shared-folder on Desktop
+cd "$HOME\Desktop\shared-folders"
+
+# Loop through the folders
+foreach ($f in $folders) {
+    cd $f
+    foreach ($sf in $sample_files) {
+        New-Item -ItemType File $sf -Force
+    }
+    cd ..
+}
+
+Write-Host "Done!"
+```
