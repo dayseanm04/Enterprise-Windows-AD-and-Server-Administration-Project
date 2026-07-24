@@ -35,3 +35,9 @@ foreach ($f in $folders) {
 
 Write-Host "Done!"
 ```
+
+### How it works
+- `$sample_files` holds the names of the two template files to create in each folder.
+
+
+
