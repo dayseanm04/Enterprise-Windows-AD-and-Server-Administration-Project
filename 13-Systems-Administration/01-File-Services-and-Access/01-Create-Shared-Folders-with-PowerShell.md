@@ -31,7 +31,7 @@ In this task creates I will create the shared folders I will use throughout the 
 4. Save it in **Desktop**
 
 ```powershell
-$foldernames = @("Company-folder", "HR-folder", "IT-folder", "Finance-Folder", "Customer-Services-Folder")
+$foldernames = @("Company-Folder", "HR-Folder", "IT-Folder", "Finance-Folder", "Customer-Services-Folder")
 
 foreach ($foldername in $foldernames) {
 	mkdir $foldername
