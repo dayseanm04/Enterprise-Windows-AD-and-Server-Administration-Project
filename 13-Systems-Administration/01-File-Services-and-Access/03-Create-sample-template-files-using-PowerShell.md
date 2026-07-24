@@ -55,3 +55,9 @@ Write-Host "Done!"
 
 <img width="681" height="394" alt="2" src="https://github.com/user-attachments/assets/c29dc1cf-1548-4a31-b3e1-c8eebd89e95b" />
 
+## Result
+Each folder in `shared-folders` now contains `sample1.txt` and `sample2.txt`
+
+
+
+
