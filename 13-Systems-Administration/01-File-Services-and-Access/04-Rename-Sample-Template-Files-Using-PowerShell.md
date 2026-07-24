@@ -113,7 +113,6 @@ Write-Host "Done!"
 ```
 The script ran successfully:
 
+<img width="671" height="347" alt="2" src="https://github.com/user-attachments/assets/9884d2b4-aa4b-4f22-9f79-2365c3b13e79" />
 
-
-
-
+<img width="645" height="323" alt="3" src="https://github.com/user-attachments/assets/d063719d-e4c0-4af7-9698-52b161206ee1" />
