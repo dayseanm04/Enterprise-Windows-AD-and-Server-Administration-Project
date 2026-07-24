@@ -11,7 +11,7 @@ These are the folders I created in the shared-folders:
 - `HR-Folder`
 - `Finance-Folder`
 
-<img width="784" height="398" alt="2" src="https://github.com/user-attachments/assets/ca86ea94-f051-4423-b70b-59986f4f9ef0" />
+<img width="784" height="398" alt="1" src="https://github.com/user-attachments/assets/ca86ea94-f051-4423-b70b-59986f4f9ef0" />
 
 For each folder, I created two sample files (`sample1.txt` and `sample2.txt`) to act as templates. These sample files can later be used as the basis for creating the actual working files.
 
@@ -53,4 +53,5 @@ Write-Host "Done!"
    ./createfiles
 ```
 
+<img width="681" height="394" alt="2" src="https://github.com/user-attachments/assets/c29dc1cf-1548-4a31-b3e1-c8eebd89e95b" />
 
