@@ -97,6 +97,9 @@ Write-Host "Done!"
 - For each folder, it moves into that folder, then uses a `switch` statement to match the folder name and rename that folder's `sample1.txt` and `sample2.txt` to the appropriate file names.
 - After each folder is processed, the script moves back up one directory (`Set-Location ..`) before continuing to the next.
 
+<img width="641" height="356" alt="1" src="https://github.com/user-attachments/assets/bb6b3454-b8c5-4cbc-97e9-27b2cf3b216f" />
+
+
 ## Running the Script
 1. Open Notepad or VS Code and save the script as `renamefiles.ps1`.
 2. Open PowerShell.
