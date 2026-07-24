@@ -17,3 +17,5 @@ The following folders exist under `shared-folders`:
 ## File Naming Reference
 Each folder's sample files were renamed to match its purpose:
 
+| Folder | sample1.txt | sample2.txt |
+|---|---|---|
