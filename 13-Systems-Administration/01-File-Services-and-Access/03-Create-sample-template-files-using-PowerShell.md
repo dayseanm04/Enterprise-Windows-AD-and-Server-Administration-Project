@@ -11,4 +11,5 @@ These are the folders in the shared-folders:
 - `HR-Folder`
 - `Finance-Folder`
 
+For each folder, I created two sample files (`sample1.txt` and `sample2.txt`) to act as templates. These sample files can later be used as the basis for creating the actual working files.
 
