@@ -42,5 +42,10 @@ Write-Host "Done!"
 - The script changes into the `shared-folders` directory on the Desktop.
 - For each folder, it enters the folder, creates both sample files using `New-Item -ItemType File`, then returns to the parent directory before moving to the next folder.
 
-
+## Running the Script
+1. Open PowerShell.
+2. Change directory to the Desktop:
+```powershell
+   cd Desktop
+```
 
