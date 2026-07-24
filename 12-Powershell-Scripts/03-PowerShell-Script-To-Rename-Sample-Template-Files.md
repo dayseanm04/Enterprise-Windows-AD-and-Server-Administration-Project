@@ -69,6 +69,8 @@ foreach ($folder in $folders) {
 Write-Host "Done!"
 ```
 
+## Run the script
 
-
-
+1. Open **Powershell**
+2. cd **Desktop**
+3. **./renamefiles.ps1**
