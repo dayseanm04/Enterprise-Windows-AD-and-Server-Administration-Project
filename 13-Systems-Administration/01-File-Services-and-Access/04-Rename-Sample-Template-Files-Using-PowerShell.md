@@ -14,4 +14,6 @@ The following folders exist under `shared-folders`:
 
 <img width="784" height="398" alt="1" src="https://github.com/user-attachments/assets/ca86ea94-f051-4423-b70b-59986f4f9ef0" />
 
+## File Naming Reference
+Each folder's sample files were renamed to match its purpose:
 
