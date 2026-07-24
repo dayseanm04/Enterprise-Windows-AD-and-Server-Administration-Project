@@ -48,4 +48,9 @@ Write-Host "Done!"
 ```powershell
    cd Desktop
 ```
+3. Run the script:
+```powershell
+   ./createfiles
+```
+
 
