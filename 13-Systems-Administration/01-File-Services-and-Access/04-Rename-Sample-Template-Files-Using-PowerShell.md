@@ -89,6 +89,11 @@ foreach ($folder in $folders) {
 }
 
 Write-Host "Done!"
-
 ```
+
+### How it works
+- `$folders` holds the list of folder names to loop through.
+
+
+
 
