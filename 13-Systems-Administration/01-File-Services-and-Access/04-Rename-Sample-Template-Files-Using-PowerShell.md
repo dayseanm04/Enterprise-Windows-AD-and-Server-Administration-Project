@@ -93,6 +93,9 @@ Write-Host "Done!"
 
 ### How it works
 - `$folders` holds the list of folder names to loop through.
+- The script sets its location to the `shared-folders` directory on the Desktop.
+- For each folder, it moves into that folder, then uses a `switch` statement to match the folder name and rename that folder's `sample1.txt` and `sample2.txt` to the appropriate file names.
+- After each folder is processed, the script moves back up one directory (`Set-Location ..`) before continuing to the next.
 
 
 
