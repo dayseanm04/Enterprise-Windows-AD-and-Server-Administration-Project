@@ -58,6 +58,8 @@ Write-Host "Done!"
 ## Result
 Each folder in `shared-folders` now contains `sample1.txt` and `sample2.txt`
 
+<img width="813" height="317" alt="3" src="https://github.com/user-attachments/assets/111ce216-3dd1-4379-aa85-e83f7312ca42" />
+
 
 
 
