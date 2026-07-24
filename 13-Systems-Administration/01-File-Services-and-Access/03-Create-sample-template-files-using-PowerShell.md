@@ -2,3 +2,13 @@
 
 ## Overview
 As part of setting up the shared folder structure, I needed to populate each folder with sample files. Instead of creating them manually one by one, I wrote a PowerShell script to automate the process. This ensured consistency across all folders and saved time.
+
+## Shared Folders
+These are the folders in the shared-folders:
+- `Company-Folder`
+- `Customer-Services-Folder`
+- `IT-Folder`
+- `HR-Folder`
+- `Finance-Folder`
+
+
