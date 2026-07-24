@@ -39,6 +39,8 @@ Write-Host "Done!"
 ### How it works
 - `$sample_files` holds the names of the two template files to create in each folder.
 - `$folders` holds the list of shared folder names to loop through.
+- The script changes into the `shared-folders` directory on the Desktop.
+- For each folder, it enters the folder, creates both sample files using `New-Item -ItemType File`, then returns to the parent directory before moving to the next folder.
 
 
 
