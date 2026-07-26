@@ -45,8 +45,9 @@ I checked the file permissions on the files in the folders **`icacls`** script:
 
 <img width="891" height="656" alt="2" src="https://github.com/user-attachments/assets/39ccf8f2-60b8-4e56-8cbc-96d22f903ec0" />
 
-Using the GUI:
+### Verifying Permissions Using the GUI
+Permissions can also be checked by right-clicking a file → **Properties** → **Security** tab:
 
 <img width="501" height="516" alt="25" src="https://github.com/user-attachments/assets/40a61293-76fb-461f-ae20-308be475a922" />
 
-
+<img width="488" height="536" alt="26" src="https://github.com/user-attachments/assets/33551381-eaa3-4b56-bc6d-7cc0ebc532de" />
