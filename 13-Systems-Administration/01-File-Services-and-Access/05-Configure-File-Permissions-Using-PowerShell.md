@@ -35,3 +35,10 @@ I saved the script in my ps-scripts folder
 ```powershell
 ./configure-file-permissions.ps1
 ```
+
+<img width="911" height="740" alt="20" src="https://github.com/user-attachments/assets/d20d569d-590a-4bc0-8a4b-7bae3bf72304" />
+
+
+
+
+
