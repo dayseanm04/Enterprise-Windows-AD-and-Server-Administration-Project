@@ -1,9 +1,9 @@
-Security-Group
-Administration-Sec-Group
-Customer-Service-Sec-Group
-Finance-Sec-Group
-HR-Sec-Group
-IT-Sec-Group
-IT-Admin-Sec-Group
-IT-Standard-Sec-Group
-EveryUser-Sec-Group
+SecGroups, Department
+Administration-Sec-Group,Administration
+Customer-Service-Sec-Group,Customer-Service
+Finance-Sec-Group,Finance
+HR-Sec-Group,HR
+IT-Sec-Group,IT
+IT-Admin-Sec-Group,IT
+IT-Standard-Sec-Group,IT
+EveryUser-Sec-Group,Everyone
