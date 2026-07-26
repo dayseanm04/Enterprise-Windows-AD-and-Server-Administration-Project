@@ -10,6 +10,8 @@ A CSV file containing the users and security groups. It's stored in the repo her
 - [14-CSV-files/OTCS-Security-Groups.csv](../../14-CSV-files/OTCS-Security-Groups.csv)
 
 ## PowerShell Script
+- [Click Here to View the powershell script](../../12-Powershell-Scripts/04-PowerShell-Script-To-Configure-File-Permissions.md)
+
 
 Saved as `fileperm.ps1`:
 
