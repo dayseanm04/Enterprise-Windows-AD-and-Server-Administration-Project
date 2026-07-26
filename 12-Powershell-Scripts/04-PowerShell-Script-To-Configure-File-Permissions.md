@@ -75,7 +75,7 @@ function HRFolder {
         switch ($sg){
             {$_ -eq "HR-Sec-G"} {
                 Write-Host " "
-                Write-Host "Granting  $_ Full Access to the files i the HR-folder`n" @success
+                Write-Host "Granting  $_ Full Access to the files in the HR-folder`n" @success
                 icacls "$HOME\Desktop\shared-folders\HR-Folder\hiring-doc.txt" /grant "$($_):(F)"
                 icacls "$HOME\Desktop\shared-folders\HR-Folder\onboarding-doc.txt" /grant "$($_):(F)"
                 break
