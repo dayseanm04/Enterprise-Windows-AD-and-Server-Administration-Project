@@ -22,3 +22,4 @@ Saved as `fileperm.ps1`:
 - `$SecGroups` imports the list of security groups from a CSV file.
 - Each folder (`Company`, `Customer-Services`, `Finance`, `HR`, `IT`) has its own function that loops through the imported security groups and uses a `switch` statement to match the relevant group name.
 - `icacls` is used to grant permissions on each file — `(R)` for Read-only access, `(F)` for Full Control — depending on the security group and folder.
+- `break` stops the switch from checking further conditions once a match is found.
