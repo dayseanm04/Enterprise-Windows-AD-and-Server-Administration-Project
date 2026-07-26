@@ -5,6 +5,7 @@
 3. Save is as **fileperm.ps1**
 
 Note: you can name it whatever you like
+- The CSV File is saved in csv-files folder on my Dekstop
 
 ```powershell
 $SecGroups = Import-Csv "$HOME\Desktop\csv-files\secgroups.csv"
