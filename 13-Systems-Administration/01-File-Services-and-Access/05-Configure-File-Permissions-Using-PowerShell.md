@@ -38,11 +38,12 @@ I saved the script in my ps-scripts folder
 
 The script ran successfully:
 
-<img width="911" height="740" alt="20" src="https://github.com/user-attachments/assets/d20d569d-590a-4bc0-8a4b-7bae3bf72304" />
+<img width="911" height="740" alt="1" src="https://github.com/user-attachments/assets/d20d569d-590a-4bc0-8a4b-7bae3bf72304" />
 
 ## Verify
 I checked the file permissions on the files in the Company folder using `icacls`:
 
+<img width="891" height="656" alt="2" src="https://github.com/user-attachments/assets/39ccf8f2-60b8-4e56-8cbc-96d22f903ec0" />
 
 
 
