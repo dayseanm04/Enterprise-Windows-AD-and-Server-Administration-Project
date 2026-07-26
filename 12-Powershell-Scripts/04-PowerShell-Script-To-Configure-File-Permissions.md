@@ -1,3 +1,11 @@
+# PowerShell Script To Configure File Permissions
+
+1. Open **notepad** or **text editor**
+2. Write the script
+3. Save is as **fileperm.ps1**
+
+Note: you can name it whatever you like
+
 ```powershell
 $SecGroups = Import-Csv "$HOME\Desktop\csv-files\secgroups.csv"
 $success = @{
