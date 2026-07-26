@@ -29,3 +29,9 @@ Saved as `fileperm.ps1`:
 - File and folder paths are specific to this project — update them to match your own environment if reusing this script.
 - Permissions can also be configured through the Windows GUI; I chose PowerShell here specifically to practice scripting.
 
+## Running the Script
+I saved the script in my ps-scripts folder
+
+```powershell
+./configure-file-permissions.ps1
+```
