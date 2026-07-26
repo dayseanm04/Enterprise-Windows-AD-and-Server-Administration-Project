@@ -25,5 +25,7 @@ Saved as `fileperm.ps1`:
 - `break` stops the switch from checking further conditions once a match is found.
 - At the bottom, each function is called
 
-
+### Notes
+- File and folder paths are specific to this project — update them to match your own environment if reusing this script.
+- Permissions can also be configured through the Windows GUI; I chose PowerShell here specifically to practice scripting.
 
