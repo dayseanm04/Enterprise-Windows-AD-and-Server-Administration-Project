@@ -6,8 +6,8 @@ Configure NTFS file permissions so each security group only has the access to th
 
 ## Requirements
 A CSV file containing the users and security groups. It's stored in the repo here:
-- [14-CSV-files/OTCS-Users.csv](../14-CSV-files/OTCS-Users.csv)
-- [14-CSV-files/OTCS-Security-Groups.csv](../14-CSV-files/OTCS-Security-Groups.csv)
+- [14-CSV-files/OTCS-Users.csv](../../14-CSV-files/OTCS-Users.csv)
+- [14-CSV-files/OTCS-Security-Groups.csv](../../14-CSV-files/OTCS-Security-Groups.csv)
 
 ## PowerShell Script
 
