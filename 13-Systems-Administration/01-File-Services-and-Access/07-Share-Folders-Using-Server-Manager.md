@@ -43,4 +43,6 @@ Click **Next**.
 
 <img width="751" height="498" alt="5" src="https://github.com/user-attachments/assets/9152d084-772f-4169-b543-f59333adc48b" />
 
+### 6. Configure Share Name, Description . Local and Remote Path
 
+<img width="766" height="405" alt="15" src="https://github.com/user-attachments/assets/566d8c79-7e10-4c55-b5c2-c47fa6680bc9" />
