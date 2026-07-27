@@ -15,4 +15,7 @@ Once I had the folder structure, sample files, and NTFS permissions in place, th
 6. Click **Save changes**.
 
 ## Create a New Share via Server Manager
+
+### 1. Open File and Storage Services
+
 Open **Server Manager** and click **File and Storage Services**.
