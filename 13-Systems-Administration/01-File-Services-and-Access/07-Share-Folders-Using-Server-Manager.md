@@ -46,3 +46,16 @@ Click **Next**.
 ### 6. Configure Share Name, Description . Local and Remote Path
 
 <img width="766" height="405" alt="15" src="https://github.com/user-attachments/assets/566d8c79-7e10-4c55-b5c2-c47fa6680bc9" />
+
+### 7. Configure Share Settings
+Select **Enable access-based enumeration** and **Allow caching of share**, then click **Next**.
+
+<img width="761" height="425" alt="16" src="https://github.com/user-attachments/assets/18f5ad1d-0c99-4497-9f98-879e9d90ae47" />
+
+
+
+
+
+
+
+
