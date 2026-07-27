@@ -31,3 +31,7 @@ Click **Shares**.
 Click **Tasks** → **New Share...**
 
 <img width="696" height="389" alt="3" src="https://github.com/user-attachments/assets/5f1f478b-783f-4c23-8b07-1d6dd3aad74b" />
+
+### 4. Choose the Share Profile
+Select **SMB Share - Quick** and click **Next**.
+
