@@ -35,3 +35,5 @@ Move-Item -Path "C:\Users\Administrator\Desktop\csv-files" -Destination "."
 ./folderperm.ps1
 ```
 
+<img width="670" height="556" alt="2" src="https://github.com/user-attachments/assets/17bca388-18b1-4944-915c-81d9e24718c3" />
+
