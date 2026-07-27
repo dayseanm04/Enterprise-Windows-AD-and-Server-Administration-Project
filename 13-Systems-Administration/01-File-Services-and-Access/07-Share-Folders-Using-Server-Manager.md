@@ -60,6 +60,7 @@ Click **Next**.
 ### 9. Create the Share
 Review the settings, click **Create**, then click **Close**.
 
-<img width="745" height="554" alt="18" src="https://github.com/user-attachments/assets/9e6af81b-931b-49ff-9c2d-fb0e49201b2a" />
+<img width="745" height="554" alt="9" src="https://github.com/user-attachments/assets/9e6af81b-931b-49ff-9c2d-fb0e49201b2a" />
 
+<img width="769" height="394" alt="19" src="https://github.com/user-attachments/assets/6db8171a-81de-421e-b88c-20849e0c99e0" />
 
