@@ -7,3 +7,8 @@ After configuring permissions on individual files, the next step was to configur
 A CSV file containing the security groups. It's stored in the repo here:
 
 - [14-CSV-files/OTCS-Security-Groups.csv](../../14-CSV-files/OTCS-Security-Groups.csv)
+
+## Setup
+
+### 1. Create the Script File
+
