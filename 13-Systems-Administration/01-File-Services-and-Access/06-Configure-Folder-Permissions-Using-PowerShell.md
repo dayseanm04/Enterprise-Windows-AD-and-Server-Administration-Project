@@ -30,3 +30,8 @@ Move-Item -Path "C:\Users\Administrator\Desktop\csv-files" -Destination "."
 - `icacls` grants permissions at the **folder** level this time (rather than per file) — `EveryUser-Sec-G` gets Read & Execute (`RX`) on the Company folder, while each department's security group gets Full Control (`F`) on its own folder. `HR-Sec-G` gets Full Control on the Company folder.
 - At the bottom, `ShrdFolderPerm` is called to actually run the permission changes.
 
+## Running the Script
+```powershell
+./folderperm.ps1
+```
+
