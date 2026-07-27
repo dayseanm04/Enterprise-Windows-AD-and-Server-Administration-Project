@@ -27,3 +27,5 @@ Move-Item -Path "C:\Users\Administrator\Desktop\csv-files" -Destination "."
 ### How it works
 - `$SecGroups` imports the list of security groups from the CSV file at `C:\csv-files\secgroups.csv`.
 - The `ShrdFolderPerm` function loops through each imported security group and uses a `switch` statement to match the group name.
+- `icacls` grants permissions at the **folder** level this time (rather than per file) — `EveryUser-Sec-G` gets Read & Execute (`RX`) on the Company folder, while each department's security group gets Full Control (`F`) on its own folder. `HR-Sec-G` gets Full Control on the Company folder.
+
