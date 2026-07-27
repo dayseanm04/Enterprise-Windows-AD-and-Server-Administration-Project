@@ -10,5 +10,11 @@ A CSV file containing the security groups. It's stored in the repo here:
 
 ## Setup
 
-### 1. Create the Script File
+### 1. Move the Folders
+
+```powershell
+cd C:\
+Move-Item -Path "C:\Users\Administrator\Desktop\shared-folders" -Destination "."
+Move-Item -Path "C:\Users\Administrator\Desktop\csv-files" -Destination "."
+```
 
