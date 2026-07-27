@@ -10,3 +10,4 @@ Once I had the folder structure, sample files, and NTFS permissions in place, th
 4. Click **Change advanced sharing settings**.
 5. Turn on **Network discovery** and **File and printer sharing**.
 
+<img width="777" height="582" alt="1" src="https://github.com/user-attachments/assets/e6ba1fff-d735-4036-be2e-368d82cbd9cc" />
