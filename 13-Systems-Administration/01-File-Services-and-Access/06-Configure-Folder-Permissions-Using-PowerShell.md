@@ -42,3 +42,5 @@ The script ran successfully:
 ## Verify
 I confirmed the permissions were assigned correctly:
 
+<img width="805" height="673" alt="31" src="https://github.com/user-attachments/assets/2c4644c7-d704-472d-9ce5-c5acb9f56163" />
+
