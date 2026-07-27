@@ -26,3 +26,4 @@ Move-Item -Path "C:\Users\Administrator\Desktop\csv-files" -Destination "."
 
 ### How it works
 - `$SecGroups` imports the list of security groups from the CSV file at `C:\csv-files\secgroups.csv`.
+- The `ShrdFolderPerm` function loops through each imported security group and uses a `switch` statement to match the group name.
