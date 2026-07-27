@@ -4,6 +4,9 @@
 2. Write the script
 3. Save is as **folderperm.ps1**
 
+**Note**
+- I moved the **CSV File** and the **shared-folders** is saved in csv-files folder the C:\ drive
+
 ```powershell
 $SecGroups = Import-Csv "C:\csv-files\secgroups.csv"
 
