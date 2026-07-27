@@ -22,7 +22,6 @@ Move-Item -Path "C:\Users\Administrator\Desktop\csv-files" -Destination "."
 
 ### PowerShell Script
 
-- [Click Here to View the PowerShell script](../../12-Powershell-Scripts/05-PowerShell-Script-To-Configure-Folder-Permissions.md
-)
+- [Click Here to View the PowerShell script](../../12-Powershell-Scripts/05-PowerShell-Script-To-Configure-Folder-Permissions.md)
 
-
+### How it works
