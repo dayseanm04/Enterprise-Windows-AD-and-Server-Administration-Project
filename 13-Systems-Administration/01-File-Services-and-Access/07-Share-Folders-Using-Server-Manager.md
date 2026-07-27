@@ -64,5 +64,8 @@ Review the settings, click **Create**, then click **Close**.
 
 <img width="769" height="394" alt="10" src="https://github.com/user-attachments/assets/6db8171a-81de-421e-b88c-20849e0c99e0" />
 
+## Verify the Share
+Right-click the share name and select **Open Share**.
+
 <img width="902" height="483" alt="11" src="https://github.com/user-attachments/assets/6c1bf199-86f5-43b6-b65f-28611c86b701" />
 
