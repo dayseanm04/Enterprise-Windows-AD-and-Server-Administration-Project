@@ -21,7 +21,7 @@ function CompanyFolder {
         switch ($sg){
             {$_ -eq "EveryUser-Sec-G"} {    #$_ represent the value of $sg
                 Write-Host ""
-                Write-Host "Granting $_ Read Permision for the files in the Company-Folder`n" @success
+                Write-Host "Granting $_ Read Permission for the files in the Company-Folder`n" @success
                 icacls "$HOME\Desktop\shared-folders\Company-Folder\policies.txt" /grant "$($_):(R)"
                 icacls "$HOME\Desktop\shared-folders\Company-Folder\holiday-schedule.txt" /grant "$($_):(R)"
                 break
