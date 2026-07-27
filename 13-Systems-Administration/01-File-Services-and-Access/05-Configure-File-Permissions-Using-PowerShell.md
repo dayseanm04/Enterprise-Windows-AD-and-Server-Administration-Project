@@ -9,14 +9,10 @@ A CSV file containing the security groups. It's stored in the repo here:
 - [14-CSV-files/OTCS-Security-Groups.csv](../../14-CSV-files/OTCS-Security-Groups.csv)
 
 ## PowerShell Script
-- [Click Here to View the powershell script](../../12-Powershell-Scripts/04-PowerShell-Script-To-Configure-File-Permissions.md)
+- [Click Here to View the PowerShell script](../../12-Powershell-Scripts/04-PowerShell-Script-To-Configure-File-Permissions.md)
 
 
 Saved as **`fileperm.ps1`**:
-
-## PowerShell Script
-
-
 
 ### How it works
 - `$SecGroups` imports the list of security groups from a CSV file.
