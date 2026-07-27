@@ -25,3 +25,4 @@ Move-Item -Path "C:\Users\Administrator\Desktop\csv-files" -Destination "."
 - [Click Here to View the PowerShell script](../../12-Powershell-Scripts/05-PowerShell-Script-To-Configure-Folder-Permissions.md)
 
 ### How it works
+- `$SecGroups` imports the list of security groups from the CSV file at `C:\csv-files\secgroups.csv`.
