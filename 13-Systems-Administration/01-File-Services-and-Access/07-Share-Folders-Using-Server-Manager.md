@@ -40,5 +40,6 @@ Select **SMB Share - Quick** and click **Next**.
 ### 5. Select the Folder
 Clicked **Custom** and selected the shared folder on the Desktop.
 
+<img width="751" height="498" alt="5" src="https://github.com/user-attachments/assets/9152d084-772f-4169-b543-f59333adc48b" />
 
 
