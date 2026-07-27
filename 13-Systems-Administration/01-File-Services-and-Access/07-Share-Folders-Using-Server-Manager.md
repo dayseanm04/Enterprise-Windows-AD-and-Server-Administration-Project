@@ -27,4 +27,5 @@ Click **Shares**.
 
 <img width="926" height="384" alt="2" src="https://github.com/user-attachments/assets/f0228135-4eba-4ad4-bdfd-709749cc483f" />
 
-
+### 3. Create a New Share
+Click **Tasks** → **New Share...**
