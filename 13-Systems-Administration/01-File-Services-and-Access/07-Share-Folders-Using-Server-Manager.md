@@ -69,3 +69,4 @@ Right-click the share name and select **Open Share**.
 
 <img width="902" height="483" alt="11" src="https://github.com/user-attachments/assets/6c1bf199-86f5-43b6-b65f-28611c86b701" />
 
+<img width="792" height="499" alt="12" src="https://github.com/user-attachments/assets/bb135a9a-c453-4c66-9d10-9a0e6898be28" />
