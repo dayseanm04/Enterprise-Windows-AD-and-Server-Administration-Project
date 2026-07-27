@@ -22,3 +22,7 @@ Open **Server Manager** and click **File and Storage Services**.
 
 <img width="741" height="351" alt="1" src="https://github.com/user-attachments/assets/25c2a5cf-0c60-4a75-8bd6-4fb2519571a1" />
 <img width="926" height="384" alt="2" src="https://github.com/user-attachments/assets/f0228135-4eba-4ad4-bdfd-709749cc483f" />
+
+### 2. Go to Shares
+Click **Shares**.
+
