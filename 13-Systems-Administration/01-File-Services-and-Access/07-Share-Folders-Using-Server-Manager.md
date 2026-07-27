@@ -57,7 +57,8 @@ Click **Next**.
 
 <img width="768" height="388" alt="8" src="https://github.com/user-attachments/assets/e53f6449-fe74-4f8e-b09a-840023ab2438" />
 
-
+### 9. Create the Share
+Review the settings, click **Create**, then click **Close**.
 
 
 
