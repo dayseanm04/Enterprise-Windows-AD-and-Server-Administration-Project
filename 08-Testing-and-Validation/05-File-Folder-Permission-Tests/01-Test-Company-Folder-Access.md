@@ -26,3 +26,4 @@ Able to see the contents of the Company-Folder:
 ### 4. Open a File
 Opened the `holiday-schedule` file with no issues:
 
+<img width="717" height="422" alt="4" src="https://github.com/user-attachments/assets/0ce9ca21-a78c-498a-acb0-52375d0628ea" />
