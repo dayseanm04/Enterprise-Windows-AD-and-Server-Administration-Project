@@ -14,8 +14,13 @@ Confirmed I'm logged in as `e.davis`:
 
 <img width="689" height="424" alt="2" src="https://github.com/user-attachments/assets/5c9083fa-9df2-4525-8f48-63428d5e2a07" />
 
-<img width="712" height="410" alt="Screenshot 2026-07-28 122858" src="https://github.com/user-attachments/assets/c94a3b72-985e-4a69-bf45-87cc5a4f124a" />
+<img width="712" height="410" alt="2" src="https://github.com/user-attachments/assets/c94a3b72-985e-4a69-bf45-87cc5a4f124a" />
 
 ### 2. Click Company-Folder
 
-<img width="795" height="414" alt="Screenshot 2026-07-28 122922" src="https://github.com/user-attachments/assets/b614e966-5da0-46b4-8292-febc29c56f4f" />
+<img width="795" height="414" alt="3" src="https://github.com/user-attachments/assets/b614e966-5da0-46b4-8292-febc29c56f4f" />
+
+### 3. Edit and Save a File
+Opened **`policies.txt`**, wrote some data into it, and saved it — no issues, which confirms Full Access on the file:
+
+<img width="559" height="326" alt="4" src="https://github.com/user-attachments/assets/86a0f561-935a-4aef-9fbf-7ffc2101eb62" />
