@@ -22,3 +22,5 @@ Logged in as **`d.moore`** to confirm the shared folder shows up for a regular u
 
 <img width="552" height="289" alt="Screenshot 2026-07-28 152540" src="https://github.com/user-attachments/assets/86756a21-894c-420c-9904-8d77462231cd" />
 
+1. Open **File Explorer**.
+2. Click **Network**.
