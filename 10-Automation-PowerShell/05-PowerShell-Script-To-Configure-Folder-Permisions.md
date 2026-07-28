@@ -4,12 +4,6 @@
 2. Write the script
 3. Save is as **folderperm.ps1**
 
-# PowerShell Script To Configure Folder Permissions
-
-1. Open **notepad** or **text editor**
-2. Write the script
-3. Save is as **folderperm.ps1**
-
 **Note**
 - I moved the **CSV File** and the **shared-folders** is saved in csv-files folder the C:\ drive
 
