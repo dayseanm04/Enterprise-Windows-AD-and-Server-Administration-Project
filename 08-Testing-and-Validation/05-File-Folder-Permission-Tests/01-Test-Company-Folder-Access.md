@@ -8,4 +8,6 @@ Opened PowerShell to confirm I'm logged in as `d.moore`:
 
 <img width="585" height="279" alt="1" src="https://github.com/user-attachments/assets/524c800f-daaf-464e-85a1-5f471dc860f9" />
 
+## Accessing the Share via the GUI
 
+### 1. Open File Explorer and Click Network
