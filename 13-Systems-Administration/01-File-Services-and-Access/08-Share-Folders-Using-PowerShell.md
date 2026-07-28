@@ -6,3 +6,9 @@ I already shared the Company-Folder manually using the GUI, but doing that one f
 ### PowerShell Script
 
 - [Click Here to View the PowerShell script](../../12-Powershell-Scripts/06-PowerShell-Script-To-Share-Folders-Using-PowerShell.md)
+
+## Running the Script
+```powershell
+./sharefolders.ps1
+```
+
