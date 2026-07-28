@@ -1,3 +1,10 @@
+# PowerShell Script To Configure Folder Permissions
+
+1. Open **notepad** or **text editor**
+2. Write the script
+3. Save is as **sharefolder.ps1**
+
+ 
 ```powershell
 $SecGroups = Import-Csv "C:\csv-files\secgroups.csv"
 
