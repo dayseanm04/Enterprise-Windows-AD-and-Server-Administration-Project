@@ -48,6 +48,9 @@ All the shared folders show up:
 
 <img width="704" height="506" alt="7" src="https://github.com/user-attachments/assets/a7112a56-aeaa-4e02-82bd-3a1b196f56de" />
 
+### Verify using PowerShell
+
+<img width="869" height="286" alt="8" src="https://github.com/user-attachments/assets/14a99e18-dfa3-4a5b-a2f0-15f462909419" />
 
 
 
