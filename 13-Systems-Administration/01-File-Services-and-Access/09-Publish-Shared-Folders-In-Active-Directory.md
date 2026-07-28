@@ -51,4 +51,5 @@ The shared folder I published in AD now shows up in the search results:
 <img width="697" height="293" alt="7" src="https://github.com/user-attachments/assets/249514c0-853b-4033-8c3a-ae8cb9b28e2f" />
 
 ## Map Network Drives
-
+1. In the domain (`corp.oaktowncs.com`) → **Users-OU**, click **Customer-Service**.
+2. Right-click the **Customer-Service-Folder** object.
