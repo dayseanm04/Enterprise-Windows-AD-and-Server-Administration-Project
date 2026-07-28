@@ -27,3 +27,6 @@ Able to see the contents of the Company-Folder:
 Opened the `holiday-schedule` file with no issues:
 
 <img width="717" height="422" alt="4" src="https://github.com/user-attachments/assets/0ce9ca21-a78c-498a-acb0-52375d0628ea" />
+
+## Result
+`d.moore` was able to access and open the files inside the Company-Folder, which lines up with what I expected — `d.moore` is in the `EveryUser-Sec-G` group, and that group has Read permission on the Company-Folder's contents and Read & Execute on the folder itself.
