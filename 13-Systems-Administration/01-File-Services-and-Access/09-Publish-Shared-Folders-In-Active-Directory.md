@@ -10,3 +10,6 @@ Users can already get to the shared folders through the network path directly, b
 3. Click the **Users-OU**.
 4. Click the **IT** OU.
 5. Right-click an empty space → **New** → **Shared Folder**.
+6. Entered the folder's name and its network path.
+
+<img width="441" height="374" alt="Screenshot 2026-07-27 145441" src="https://github.com/user-attachments/assets/362cd0b0-9c48-4fad-b23f-d24bc89c244d" />
