@@ -38,3 +38,9 @@ The shared folder I published in AD now shows up in the search results:
 <img width="525" height="380" alt="5" src="https://github.com/user-attachments/assets/74e6bafc-0b0b-40ac-8128-a3a1b0f451bb" />
 
 **Note: Ive created shared forlders for the other Departments in their OUs**
+
+## Navigate to a Shared Folder from Active Directory
+1. In **Active Directory Users and Computers**, expand the domain → **Users-OU**.
+2. Click **HR**.
+3. Right-click the **HR-Folder** object.
+
