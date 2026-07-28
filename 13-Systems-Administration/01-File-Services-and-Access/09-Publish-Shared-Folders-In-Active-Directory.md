@@ -9,3 +9,4 @@ Users can already get to the shared folders through the network path directly, b
 2. Expand Domain
 3. Click the **Users-OU**.
 4. Click the **IT** OU.
+5. Right-click an empty space → **New** → **Shared Folder**.
