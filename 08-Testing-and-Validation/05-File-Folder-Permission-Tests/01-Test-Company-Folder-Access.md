@@ -11,3 +11,5 @@ Opened PowerShell to confirm I'm logged in as `d.moore`:
 ## Accessing the Share via the GUI
 
 ### 1. Open File Explorer and Click Network
+
+<img width="639" height="415" alt="2" src="https://github.com/user-attachments/assets/7d88777a-2051-41ad-b985-4e42cbc5ac8f" />
