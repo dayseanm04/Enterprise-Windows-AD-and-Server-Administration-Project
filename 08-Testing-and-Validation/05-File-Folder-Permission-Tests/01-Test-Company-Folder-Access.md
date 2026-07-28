@@ -5,3 +5,7 @@ Now that the folders are shared and permissions are set, I want to actually test
 
 ## Verify the Logged-In User
 Opened PowerShell to confirm I'm logged in as `d.moore`:
+
+<img width="585" height="279" alt="1" src="https://github.com/user-attachments/assets/524c800f-daaf-464e-85a1-5f471dc860f9" />
+
+
