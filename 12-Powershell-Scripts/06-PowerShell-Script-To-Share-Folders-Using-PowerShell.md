@@ -1,4 +1,4 @@
-# PowerShell Script To Configure Folder Permissions
+# PowerShell Script To Share Folder Folder
 
 1. Open **notepad** or **text editor**
 2. Write the script
