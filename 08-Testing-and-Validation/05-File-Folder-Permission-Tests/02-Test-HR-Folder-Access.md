@@ -41,3 +41,7 @@ Tried to open the IT-Folder next:
 
 <img width="799" height="524" alt="8" src="https://github.com/user-attachments/assets/ad15b04c-4774-45a4-a41a-38b639d732be" />
 
+Couldn't get in — access denied, exactly as expected since Emma isn't part of **`IT-Sec-G`**:
+
+
+
