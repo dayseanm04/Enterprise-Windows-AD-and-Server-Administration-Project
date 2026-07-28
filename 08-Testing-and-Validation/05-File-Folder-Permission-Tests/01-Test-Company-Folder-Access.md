@@ -22,3 +22,7 @@ Opened PowerShell to confirm I'm logged in as `d.moore`:
 Able to see the contents of the Company-Folder:
 
 <img width="808" height="408" alt="3" src="https://github.com/user-attachments/assets/854b7e42-83b7-4056-8de1-3079551dcfcb" />
+
+### 4. Open a File
+Opened the `holiday-schedule` file with no issues:
+
