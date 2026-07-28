@@ -27,3 +27,9 @@ Logged in as **`d.moore`** to confirm the shared folder shows up for a regular u
 3. Click **Search Active Directory**
 
 <img width="655" height="414" alt="4" src="https://github.com/user-attachments/assets/3e928a26-aa54-4271-80db-fa489213c3bc" />
+
+4. Search for the **IT-Folder**, and change **Find** to **Shared Folders**.
+5. Change **In:** to the domain `corp.oaktowncs.com`. Click **Browse**, expand **corp** → **Users-OU**, and select **IT**.
+
+<img width="525" height="380" alt="5" src="https://github.com/user-attachments/assets/74e6bafc-0b0b-40ac-8128-a3a1b0f451bb" />
+
