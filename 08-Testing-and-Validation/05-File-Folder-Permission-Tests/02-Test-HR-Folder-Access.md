@@ -47,3 +47,5 @@ Couldn't get in — access denied, exactly as expected since Emma isn't part of 
 Tried to open the Finance-Folder next:
 
 <img width="799" height="440" alt="9" src="https://github.com/user-attachments/assets/3af0f61a-b0a7-4af0-928a-d29f04d37ea4" />
+
+Couldn't get in — access denied, exactly as expected since Emma isn't part of **`Finance-Sec-G`**:
