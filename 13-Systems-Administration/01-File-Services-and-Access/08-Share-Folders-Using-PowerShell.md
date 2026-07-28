@@ -36,3 +36,19 @@ Ran successfully:
 1. Open **File Explorer**.
 2. Click **Network**.
 3. Click **OTCS-DC01**.
+
+All the shared folders show up:
+
+<img width="676" height="409" alt="6" src="https://github.com/user-attachments/assets/d0b683ce-b483-471b-899c-437ea789bb51" />
+
+
+
+
+
+
+
+
+
+
+
+
