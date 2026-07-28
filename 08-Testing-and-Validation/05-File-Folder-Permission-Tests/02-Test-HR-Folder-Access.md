@@ -28,3 +28,6 @@ Opened **`policies.txt`**, wrote some data into it, and saved it — no issues, 
 **Opened policies.txt to verify**
 
 <img width="774" height="430" alt="5" src="https://github.com/user-attachments/assets/473f75ea-582d-4f42-a4ec-9f44e9e7bc48" />
+
+## Test HR-Folder Access (Full Access)
+Went back to `\\OTCS-DC01` and opened the HR-Folder. As expected, Emma has full access to the HR-Folder and its files, so I opened `hiring-doc.txt` with no issues:
