@@ -46,5 +46,7 @@ The shared folder I published in AD now shows up in the search results:
 
 <img width="557" height="406" alt="6" src="https://github.com/user-attachments/assets/39565060-b597-4a09-9c10-c68d7a39780c" />
 
+4. Click **Explore** — it opens File Explorer straight to the share location, `\\OTCS-DC01\HR-Folder`.
+
 <img width="697" height="293" alt="7" src="https://github.com/user-attachments/assets/249514c0-853b-4033-8c3a-ae8cb9b28e2f" />
 
