@@ -20,7 +20,10 @@ Users can already get to the shared folders through the network path directly, b
 
 Logged in as **`d.moore`** to confirm the shared folder shows up for a regular user, not just from the admin account.
 
-<img width="552" height="289" alt="Screenshot 2026-07-28 152540" src="https://github.com/user-attachments/assets/86756a21-894c-420c-9904-8d77462231cd" />
+<img width="552" height="289" alt="3" src="https://github.com/user-attachments/assets/86756a21-894c-420c-9904-8d77462231cd" />
 
 1. Open **File Explorer**.
 2. Click **Network**.
+3. Click **Search Active Directory**
+
+<img width="655" height="414" alt="4" src="https://github.com/user-attachments/assets/3e928a26-aa54-4271-80db-fa489213c3bc" />
