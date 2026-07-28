@@ -34,5 +34,8 @@ Went back to `\\OTCS-DC01` and opened the HR-Folder. As expected, Emma has full 
 
 <img width="748" height="420" alt="6" src="https://github.com/user-attachments/assets/9c0914b0-6a6c-46ae-a971-669618724695" />
 
-
 <img width="777" height="446" alt="7" src="https://github.com/user-attachments/assets/855ddba9-0802-488e-8842-250736afaf27" />
+
+## Test IT-Folder Access (Should Be Denied)
+Tried to open the IT-Folder next:
+
