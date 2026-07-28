@@ -12,4 +12,6 @@ Users can already get to the shared folders through the network path directly, b
 5. Right-click an empty space → **New** → **Shared Folder**.
 6. Entered the folder's name and its network path.
 
-<img width="441" height="374" alt="Screenshot 2026-07-27 145441" src="https://github.com/user-attachments/assets/362cd0b0-9c48-4fad-b23f-d24bc89c244d" />
+<img width="441" height="374" alt="1" src="https://github.com/user-attachments/assets/362cd0b0-9c48-4fad-b23f-d24bc89c244d" />
+
+<img width="611" height="413" alt="2" src="https://github.com/user-attachments/assets/e25e1229-1c37-4036-b672-b8fbeb1ce167" />
