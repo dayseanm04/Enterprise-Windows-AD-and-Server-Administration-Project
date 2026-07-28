@@ -24,3 +24,7 @@ Confirmed I'm logged in as `e.davis`:
 Opened **`policies.txt`**, wrote some data into it, and saved it — no issues, which confirms Full Access on the file:
 
 <img width="559" height="326" alt="4" src="https://github.com/user-attachments/assets/86a0f561-935a-4aef-9fbf-7ffc2101eb62" />
+
+**Opened policies.txt to verify**
+
+<img width="774" height="430" alt="5" src="https://github.com/user-attachments/assets/473f75ea-582d-4f42-a4ec-9f44e9e7bc48" />
