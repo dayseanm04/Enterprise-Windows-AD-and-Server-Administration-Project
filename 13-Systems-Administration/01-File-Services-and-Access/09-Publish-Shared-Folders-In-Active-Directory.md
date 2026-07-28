@@ -6,5 +6,6 @@ Users can already get to the shared folders through the network path directly, b
 ## Create a Shared Folder Object in Active Directory
 
 1. Open **Active Directory Users and Computers**.
-2. Click the **Users-OU**.
-3. Click the **IT** OU.
+2. Expand Domain
+3. Click the **Users-OU**.
+4. Click the **IT** OU.
