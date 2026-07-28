@@ -44,3 +44,5 @@ The shared folder I published in AD now shows up in the search results:
 2. Click **HR**.
 3. Right-click the **HR-Folder** object.
 
+<img width="557" height="406" alt="6" src="https://github.com/user-attachments/assets/39565060-b597-4a09-9c10-c68d7a39780c" />
+
