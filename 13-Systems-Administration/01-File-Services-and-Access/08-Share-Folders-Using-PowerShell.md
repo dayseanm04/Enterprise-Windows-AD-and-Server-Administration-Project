@@ -26,5 +26,8 @@ I already shared the Company-Folder manually using the GUI, but doing that one f
 ./sharefolders.ps1
 ```
 
+Ran successfully:
+
 <img width="745" height="452" alt="5" src="https://github.com/user-attachments/assets/4b7012e3-d787-4b50-b07e-8d938e58f2bd" />
 
+## Verify
