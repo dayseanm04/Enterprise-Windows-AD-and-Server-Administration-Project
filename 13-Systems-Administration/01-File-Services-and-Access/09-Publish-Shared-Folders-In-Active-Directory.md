@@ -56,4 +56,6 @@ The shared folder I published in AD now shows up in the search results:
 
 <img width="750" height="409" alt="8" src="https://github.com/user-attachments/assets/95f08613-1270-4888-a2bc-36010a883cce" />
 
+3. Click **Map Network Drive...**
+4. Specify the drive letter, check **Reconnect at sign-in**, and click **Finish**.
 
