@@ -13,7 +13,8 @@ I already shared the Company-Folder manually using the GUI, but doing that one f
 
 <img width="808" height="408" alt="3" src="https://github.com/user-attachments/assets/854b7e42-83b7-4056-8de1-3079551dcfcb" />
 
-
+<img width="717" height="422" alt="4" src="https://github.com/user-attachments/assets/0ce9ca21-a78c-498a-acb0-52375d0628ea" />
+- Opened one of the files to view its content
 
 ### PowerShell Script
 
