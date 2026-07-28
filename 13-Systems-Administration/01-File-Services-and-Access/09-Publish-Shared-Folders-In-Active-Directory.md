@@ -69,3 +69,7 @@ I did the same for the rest of the departments. Here's how the drive letters are
 | Finance-Folder | T: |
 | HR-Folder | U: |
 | IT-Folder | V: |
+
+## Verify
+Confirmed the mapped drives with PowerShell:
+
