@@ -33,5 +33,7 @@ Logged in as **`d.moore`** to confirm the shared folder shows up for a regular u
 
 <img width="491" height="429" alt="Screenshot 2026-07-27 150111" src="https://github.com/user-attachments/assets/8e46b521-4ea2-4ee2-a3c4-eaabe6e876b9" />
 
+The shared folder I published in AD now shows up in the search results:
+
 <img width="525" height="380" alt="5" src="https://github.com/user-attachments/assets/74e6bafc-0b0b-40ac-8128-a3a1b0f451bb" />
 
