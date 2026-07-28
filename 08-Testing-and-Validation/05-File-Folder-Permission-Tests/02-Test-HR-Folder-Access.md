@@ -16,3 +16,6 @@ Confirmed I'm logged in as `e.davis`:
 
 <img width="712" height="410" alt="Screenshot 2026-07-28 122858" src="https://github.com/user-attachments/assets/c94a3b72-985e-4a69-bf45-87cc5a4f124a" />
 
+### 2. Click Company-Folder
+
+<img width="795" height="414" alt="Screenshot 2026-07-28 122922" src="https://github.com/user-attachments/assets/b614e966-5da0-46b4-8292-febc29c56f4f" />
