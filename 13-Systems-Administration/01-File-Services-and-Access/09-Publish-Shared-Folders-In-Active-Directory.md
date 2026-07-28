@@ -54,6 +54,6 @@ The shared folder I published in AD now shows up in the search results:
 1. In the domain (`corp.oaktowncs.com`) → **Users-OU**, click **Customer-Service**.
 2. Right-click the **Customer-Service-Folder** object.
 
-<img width="750" height="409" alt="Screenshot 2026-07-28 141334" src="https://github.com/user-attachments/assets/95f08613-1270-4888-a2bc-36010a883cce" />
+<img width="750" height="409" alt="8" src="https://github.com/user-attachments/assets/95f08613-1270-4888-a2bc-36010a883cce" />
 
 
