@@ -41,7 +41,10 @@ All the shared folders show up:
 
 <img width="676" height="409" alt="6" src="https://github.com/user-attachments/assets/d0b683ce-b483-471b-899c-437ea789bb51" />
 
-
+### Verify in Server Manager
+1. Open **Server Manager**.
+2. Click **File and Storage Services**.
+3. Click **Shares**.
 
 
 
