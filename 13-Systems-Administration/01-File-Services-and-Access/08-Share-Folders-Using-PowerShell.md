@@ -46,6 +46,7 @@ All the shared folders show up:
 2. Click **File and Storage Services**.
 3. Click **Shares**.
 
+<img width="704" height="506" alt="7" src="https://github.com/user-attachments/assets/a7112a56-aeaa-4e02-82bd-3a1b196f56de" />
 
 
 
