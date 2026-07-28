@@ -13,3 +13,6 @@ Confirmed I'm logged in as `e.davis`:
 ### 1. Open File Explorer, Click Network, Click OTCS-DC01
 
 <img width="689" height="424" alt="2" src="https://github.com/user-attachments/assets/5c9083fa-9df2-4525-8f48-63428d5e2a07" />
+
+<img width="712" height="410" alt="Screenshot 2026-07-28 122858" src="https://github.com/user-attachments/assets/c94a3b72-985e-4a69-bf45-87cc5a4f124a" />
+
