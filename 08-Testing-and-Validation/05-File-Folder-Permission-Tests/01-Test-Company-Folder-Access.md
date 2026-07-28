@@ -18,3 +18,4 @@ Opened PowerShell to confirm I'm logged in as `d.moore`:
 
 <img width="639" height="415" alt="2" src="https://github.com/user-attachments/assets/7d88777a-2051-41ad-b985-4e42cbc5ac8f" />
 
+<img width="808" height="408" alt="3" src="https://github.com/user-attachments/assets/854b7e42-83b7-4056-8de1-3079551dcfcb" />
