@@ -3,9 +3,9 @@
 ## Overview
 I already shared the Company-Folder manually using the GUI, but doing that one folder at a time doesn't scale especially with many folders. So instead of clicking through Server Manager for each one, I used PowerShell to share the rest of the folders.
 
-- Opened File Explorer
-- Clicked Network
-- Click **OTCS-DC01**
+1. Opened **File Explorer**.
+2. Clicked **Network**.
+3. Clicked **OTCS-DC01**.
 
 <img width="621" height="412" alt="1" src="https://github.com/user-attachments/assets/fb48876b-1ab9-431c-9008-ed2a0eeb4a98" />
 
@@ -31,3 +31,8 @@ Ran successfully:
 <img width="745" height="452" alt="5" src="https://github.com/user-attachments/assets/4b7012e3-d787-4b50-b07e-8d938e58f2bd" />
 
 ## Verify
+
+### Verify in File Explorer
+1. Open **File Explorer**.
+2. Click **Network**.
+3. Click **OTCS-DC01**.
