@@ -27,4 +27,4 @@ Doing this one folder at a time through the GUI isn't practical for the rest of 
 
 - [Click Here to View the PowerShell script](../../12-Powershell-Scripts/07-PowerShell-Script-Configure-SMB-Share-Permissions.md)
 
-- 
+
