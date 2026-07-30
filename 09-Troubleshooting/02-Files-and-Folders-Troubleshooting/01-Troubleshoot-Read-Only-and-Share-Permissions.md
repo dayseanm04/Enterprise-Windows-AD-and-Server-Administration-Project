@@ -73,4 +73,6 @@ Logged back in as **Administrator**:
 
 Opened File Explorer → Network → `OTCS-DC01`, right-clicked the **HR-Folder**, and clicked **Properties**.
 
+<img width="554" height="426" alt="Screenshot 2026-07-29 172445" src="https://github.com/user-attachments/assets/892ebdab-0903-4a00-8d71-0835970d5a84" />
+
 Clicked the **Sharing** tab:
