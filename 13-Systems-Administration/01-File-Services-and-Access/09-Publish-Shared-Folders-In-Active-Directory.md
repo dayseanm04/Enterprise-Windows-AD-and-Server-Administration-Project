@@ -73,4 +73,8 @@ I did the same for the rest of the departments. Here's how the drive letters are
 ## Verify
 Confirmed the mapped drives with PowerShell:
 
-<img width="689" height="230" alt="Screenshot 2026-07-28 145102" src="https://github.com/user-attachments/assets/f3b85c23-437c-4a7f-a58f-c5a807feaa89" />
+<img width="689" height="230" alt="10" src="https://github.com/user-attachments/assets/f3b85c23-437c-4a7f-a58f-c5a807feaa89" />
+
+Open **File Explorer** to see the mapped drives
+
+<img width="765" height="610" alt="11" src="https://github.com/user-attachments/assets/8bf65b67-7f5e-4761-93d0-75159913678b" />
