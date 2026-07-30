@@ -8,3 +8,9 @@ Opened the HR-Folder and tried to edit one of the files:
 logged in as emma davis
 
 <img width="481" height="134" alt="1" src="https://github.com/user-attachments/assets/29c31fc8-f436-40dc-9c84-74f1a7062019" />
+
+Opened **`hiring-doc.txt`**:
+
+<img width="562" height="384" alt="Screenshot 2026-07-29 115549" src="https://github.com/user-attachments/assets/b22aae38-1532-4b0e-a884-18059b436253" />
+
+Wrote **"More Data via emma davis"** and hit Ctrl+S to save:
