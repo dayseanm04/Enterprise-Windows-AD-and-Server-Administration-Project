@@ -28,3 +28,7 @@ Clicked **Yes**
 It then said: ***"hiring-doc, this file is set to read-only. Try again with a different file name."***
 
 <img width="717" height="511" alt="5" src="https://github.com/user-attachments/assets/fcbcb6f8-0bf6-45d8-b3d8-6e27988abbfb" />
+
+## Fix 1: Remove the Read-Only Attribute
+
+Logged in as **Administrator** and went to `C:\shared-folders`.
