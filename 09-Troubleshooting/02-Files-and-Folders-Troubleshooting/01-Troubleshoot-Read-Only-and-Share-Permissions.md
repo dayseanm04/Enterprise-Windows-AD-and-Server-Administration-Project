@@ -24,3 +24,7 @@ It said **`hiring-doc.txt`** already exists do I want to replace it? Clicked **Y
 Clicked **Yes**
 
 <img width="724" height="623" alt="4" src="https://github.com/user-attachments/assets/2dcc6b19-99c6-425f-a4df-d1d37f9a76b7" />
+
+It then said: ***"hiring-doc, this file is set to read-only. Try again with a different file name."***
+
+<img width="717" height="511" alt="5" src="https://github.com/user-attachments/assets/fcbcb6f8-0bf6-45d8-b3d8-6e27988abbfb" />
