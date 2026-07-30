@@ -50,4 +50,5 @@ Logged back in as `e.davis`:
 
 Opened File Explorer → Network → `OTCS-DC01` → HR-Folder → `hiring-doc.txt`, added "new data by emma davis", and pressed Ctrl+S.
 
+<img width="520" height="329" alt="9" src="https://github.com/user-attachments/assets/6debd66c-d41c-4609-92f3-e9c302fd31d9" />
 
