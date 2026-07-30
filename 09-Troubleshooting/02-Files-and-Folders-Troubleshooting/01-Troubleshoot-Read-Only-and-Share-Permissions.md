@@ -3,3 +3,5 @@
 Found while testing file and folder permissions in [02-Test-HR-Folder-Access.md](../../08-Testing-and-Validation/05-File-Folder-Permission-Tests/02-Test-HR-Folder-Access.md).
 
 ## Verify the Issue
+Opened the HR-Folder and tried to edit one of the files:
+
