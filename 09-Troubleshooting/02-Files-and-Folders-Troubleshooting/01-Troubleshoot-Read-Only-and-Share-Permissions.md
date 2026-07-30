@@ -68,3 +68,9 @@ Clicked **OK**, but still couldn't save the changes. So the read-only fix wasn't
 
 ## Fix 2: Configure Share Permissions
 Logged back in as **Administrator**:
+
+<img width="530" height="242" alt="13" src="https://github.com/user-attachments/assets/5b6706c2-4466-4a02-a2ce-d448bac39ebf" />
+
+Opened File Explorer → Network → `OTCS-DC01`, right-clicked the **HR-Folder**, and clicked **Properties**.
+
+Clicked the **Sharing** tab:
