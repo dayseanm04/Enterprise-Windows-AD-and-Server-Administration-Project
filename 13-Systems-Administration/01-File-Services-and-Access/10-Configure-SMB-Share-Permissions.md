@@ -19,3 +19,6 @@ Clicked **Permissions**, clicked **Add**, added `HR-Sec-G`, and gave it **Full C
 <img width="540" height="499" alt="3" src="https://github.com/user-attachments/assets/69b4c37c-e379-4a79-953d-a09f8ee282e3" />
 
 Clicked **OK**, **OK**.
+
+## Using PowerShell (Remaining Folders)
+Doing this one folder at a time through the GUI isn't practical for the rest of the shares, so I wrote a PowerShell to automate it for `IT-Folder`, `Finance-Folder`, and `Customer-Services-Folder`.
