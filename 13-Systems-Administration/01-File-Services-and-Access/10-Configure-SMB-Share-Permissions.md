@@ -38,4 +38,11 @@ Ran the script:
 
 <img width="827" height="467" alt="Screenshot 2026-07-29 200611" src="https://github.com/user-attachments/assets/b70cbc3b-1643-44ba-861f-eb95316a7971" />
 
+## Removing Default "Everyone" Access
+By default, `Everyone` had Read access to these shares. Since each folder now has its correct security group with Full Control, I don't need `Everyone` on there too — so I added a line to revoke it:
+
+```powershell
+Revoke-SmbShareAccess -Name $folders[number] -AccountName "Everyone" -Force
+```
+
 
