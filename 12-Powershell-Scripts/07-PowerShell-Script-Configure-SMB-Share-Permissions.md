@@ -1,4 +1,4 @@
-# PowerShell Script To Share Folders
+# 0 PowerShell Script Configure SMB Share Permissions
 
 1. Open **notepad** or **text editor**
 2. Write the script
