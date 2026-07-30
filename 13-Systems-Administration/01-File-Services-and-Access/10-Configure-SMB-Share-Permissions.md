@@ -35,3 +35,7 @@ Doing this one folder at a time through the GUI isn't practical for the rest of 
 - Note: `HR-Sec-G` isn't in this switch — I already fixed HR-Folder's share permissions through the GUI above, so the script only needed to cover the remaining three folders.
 
 Ran the script:
+
+<img width="827" height="467" alt="Screenshot 2026-07-29 200611" src="https://github.com/user-attachments/assets/b70cbc3b-1643-44ba-861f-eb95316a7971" />
+
+
