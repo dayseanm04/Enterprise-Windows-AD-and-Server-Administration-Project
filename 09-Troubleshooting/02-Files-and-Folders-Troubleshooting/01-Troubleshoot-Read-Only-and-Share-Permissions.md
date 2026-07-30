@@ -36,3 +36,7 @@ Logged in as **Administrator**
 <img width="530" height="242" alt="6" src="https://github.com/user-attachments/assets/5b6706c2-4466-4a02-a2ce-d448bac39ebf" />
 
 Opened File explorer and went to `C:\shared-folders`.
+
+Right-clicked the **HR-Folder**, unchecked **Read-only**, clicked **OK**, then confirmed **Apply changes to this folder, subfolders and files**, and clicked **OK** again.
+
+<img width="725" height="646" alt="7" src="https://github.com/user-attachments/assets/603fab7b-aeff-4b24-a255-f88e3cd4e57f" />
