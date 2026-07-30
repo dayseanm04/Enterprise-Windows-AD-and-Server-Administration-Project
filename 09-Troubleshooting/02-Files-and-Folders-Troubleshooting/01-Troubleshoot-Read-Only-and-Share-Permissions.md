@@ -41,4 +41,4 @@ Right-clicked the **HR-Folder**, unchecked **Read-only**, clicked **OK**, then c
 
 <img width="725" height="646" alt="7" src="https://github.com/user-attachments/assets/603fab7b-aeff-4b24-a255-f88e3cd4e57f" />
 
-Opened the HR-Folder, right-clicked `hiring-doc.txt` and `onboarding-doc.txt`, and unchecked **Read-only** on both.
+Opened the HR-Folder, and did the same for **`hiring-doc.tx**t` and **`onboarding-doc.txt`**, and unchecked **Read-only** on both.
