@@ -51,3 +51,11 @@ function ShareFolder {
 
 ShareFolder
 ```
+
+```
+## Run the script
+
+1. Open **Powershell**
+2. cd **Desktop**
+3. cd **ps-scripts**
+4. **./sharefolder.ps1**
