@@ -52,7 +52,6 @@ function ShareFolder {
 ShareFolder
 ```
 
-```
 ## Run the script
 
 1. Open **Powershell**
