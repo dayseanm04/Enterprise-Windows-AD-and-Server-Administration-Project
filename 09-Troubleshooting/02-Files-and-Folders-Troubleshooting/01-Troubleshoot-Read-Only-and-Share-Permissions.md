@@ -11,6 +11,8 @@ logged in as emma davis
 
 Opened **`hiring-doc.txt`**:
 
-<img width="562" height="384" alt="Screenshot 2026-07-29 115549" src="https://github.com/user-attachments/assets/b22aae38-1532-4b0e-a884-18059b436253" />
+<img width="562" height="384" alt="2" src="https://github.com/user-attachments/assets/b22aae38-1532-4b0e-a884-18059b436253" />
 
 Wrote **"More Data via emma davis"** and hit Ctrl+S to save:
+
+<img width="721" height="551" alt="3" src="https://github.com/user-attachments/assets/62625c06-8509-435a-89c2-7752f43293f5" />
