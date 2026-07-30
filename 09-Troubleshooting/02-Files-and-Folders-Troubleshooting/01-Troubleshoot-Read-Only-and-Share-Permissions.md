@@ -19,7 +19,7 @@ Wrote **"More Data via emma davis"** and hit Ctrl+S to save:
 
 Clicked **Save**
 
-It said `hiring-doc.txt` already exists — do I want to replace it? Clicked **Yes**.
+It said **`hiring-doc.txt`** already exists do I want to replace it? Clicked **Yes**.
 
 Clicked **Yes**
 
