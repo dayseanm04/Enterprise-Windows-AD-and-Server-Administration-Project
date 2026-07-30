@@ -83,3 +83,4 @@ Clicked the **Advanced Sharing...** tab:
 
 Clicked **Permissions**, clicked **Add**, added `HR-Sec-G`, and gave it **Full Control**.
 
+<img width="540" height="499" alt="16" src="https://github.com/user-attachments/assets/69b4c37c-e379-4a79-953d-a09f8ee282e3" />
