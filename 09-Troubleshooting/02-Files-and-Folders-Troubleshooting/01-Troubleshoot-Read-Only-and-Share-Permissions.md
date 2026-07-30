@@ -91,3 +91,8 @@ Clicked **OK**, **OK**.
 Logged back in as `e.davis`, opened File Explorer → Network → `OTCS-DC01` → HR-Folder → `hiring-doc.txt`, and added "Emma davis new data":
 
 <img width="481" height="134" alt="17" src="https://github.com/user-attachments/assets/29c31fc8-f436-40dc-9c84-74f1a7062019" />
+
+<img width="585" height="391" alt="18" src="https://github.com/user-attachments/assets/fed53c8e-0d31-411c-9362-c6eafe2096b3" />
+
+<img width="668" height="336" alt="19" src="https://github.com/user-attachments/assets/cda42692-19e7-4c9b-842e-c3fbeafba5fd" />
+
