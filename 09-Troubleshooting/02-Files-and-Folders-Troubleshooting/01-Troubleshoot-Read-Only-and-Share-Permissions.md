@@ -101,3 +101,6 @@ Saved successfully.
 
 ## Root Cause
 I had only configured **NTFS permissions** on the folder itself, I hadn't configured the **share permissions** on the SMB share (the Permissions button under Advanced Sharing). Windows applies the more restrictive of the two, so even with full NTFS access, the default share permissions were blocking the write. Once I added `HR-Sec-G` with Full Control at the share level it worked.
+
+## Next Step
+I'll write a PowerShell script to configure share permissions for all the SMB share folders, instead of doing it one at a time through the GUI.
