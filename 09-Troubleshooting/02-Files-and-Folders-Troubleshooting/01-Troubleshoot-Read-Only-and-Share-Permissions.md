@@ -66,3 +66,5 @@ Clicked **Yes** to replace the existing file but this time got a different error
 
 Clicked **OK**, but still couldn't save the changes. So the read-only fix wasn't the whole problem.
 
+## Fix 2: Configure Share Permissions
+Logged back in as **Administrator**:
