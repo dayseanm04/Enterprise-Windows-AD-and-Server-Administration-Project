@@ -56,8 +56,11 @@ Hit Ctrl+S to save:
 
 <img width="707" height="594" alt="10" src="https://github.com/user-attachments/assets/4e3a1772-e211-4ac1-9bdd-2e8599b42738" />
 
+Clicked **Save**:
+
 <img width="723" height="679" alt="11" src="https://github.com/user-attachments/assets/14724d45-2296-44c9-a418-8266a9a8a461" />
 
+Clicked **Yes** to replace the existing file but this time got a different error:
 
 
 
