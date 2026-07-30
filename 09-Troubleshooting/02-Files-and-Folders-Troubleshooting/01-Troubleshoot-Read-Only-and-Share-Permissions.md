@@ -84,3 +84,10 @@ Clicked the **Advanced Sharing...** tab:
 Clicked **Permissions**, clicked **Add**, added `HR-Sec-G`, and gave it **Full Control**.
 
 <img width="540" height="499" alt="16" src="https://github.com/user-attachments/assets/69b4c37c-e379-4a79-953d-a09f8ee282e3" />
+
+Clicked **OK**, **OK**.
+
+### Verify Fix 2
+Logged back in as `e.davis`, opened File Explorer → Network → `OTCS-DC01` → HR-Folder → `hiring-doc.txt`, and added "Emma davis new data":
+
+<img width="481" height="134" alt="17" src="https://github.com/user-attachments/assets/29c31fc8-f436-40dc-9c84-74f1a7062019" />
