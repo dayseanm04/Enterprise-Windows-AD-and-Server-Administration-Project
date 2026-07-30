@@ -54,6 +54,9 @@ Hit Ctrl+S to save:
 
 <img width="520" height="329" alt="9" src="https://github.com/user-attachments/assets/6debd66c-d41c-4609-92f3-e9c302fd31d9" />
 
+<img width="707" height="594" alt="10" src="https://github.com/user-attachments/assets/4e3a1772-e211-4ac1-9bdd-2e8599b42738" />
+
+<img width="723" height="679" alt="11" src="https://github.com/user-attachments/assets/14724d45-2296-44c9-a418-8266a9a8a461" />
 
 
 
