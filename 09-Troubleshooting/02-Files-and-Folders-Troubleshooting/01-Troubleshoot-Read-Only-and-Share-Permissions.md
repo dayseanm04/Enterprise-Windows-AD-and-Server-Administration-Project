@@ -32,3 +32,5 @@ It then said: ***"hiring-doc, this file is set to read-only. Try again with a di
 ## Fix 1: Remove the Read-Only Attribute
 
 Logged in as **Administrator** and went to `C:\shared-folders`.
+
+<img width="530" height="242" alt="6" src="https://github.com/user-attachments/assets/5b6706c2-4466-4a02-a2ce-d448bac39ebf" />
