@@ -6,6 +6,7 @@
 
 **Note**
 - I moved the **CSV File** and the **shared-folders** is saved in csv-files folder the C:\ drive
+- I created a ps-scripts folder to store all my PowerShell scripts on Desktop
 
 ```powershell
 $SecGroups = Import-Csv "C:\csv-files\secgroups.csv"
@@ -53,3 +54,10 @@ function ShrdFolderPerm {
 
 ShrdFolderPerm
 ```
+
+## Run the script
+
+1. Open **Powershell**
+2. cd **Desktop**
+3. cd **ps-scripts**
+4. **./folderperm.ps1**
