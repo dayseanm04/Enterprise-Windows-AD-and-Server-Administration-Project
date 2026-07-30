@@ -62,5 +62,7 @@ Clicked **Save**:
 
 Clicked **Yes** to replace the existing file but this time got a different error:
 
+<img width="832" height="580" alt="12" src="https://github.com/user-attachments/assets/b4577fd0-f0da-4a7b-a1ce-45ac4a038165" />
 
+Clicked **OK**, but still couldn't save the changes. So the read-only fix wasn't the whole problem.
 
