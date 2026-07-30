@@ -16,3 +16,8 @@ Opened **`hiring-doc.txt`**:
 Wrote **"More Data via emma davis"** and hit Ctrl+S to save:
 
 <img width="721" height="551" alt="3" src="https://github.com/user-attachments/assets/62625c06-8509-435a-89c2-7752f43293f5" />
+
+Clicked **Save**
+Clicked **Yes**
+
+<img width="724" height="623" alt="4" src="https://github.com/user-attachments/assets/2dcc6b19-99c6-425f-a4df-d1d37f9a76b7" />
