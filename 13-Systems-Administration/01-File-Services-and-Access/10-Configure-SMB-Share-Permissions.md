@@ -34,3 +34,4 @@ Doing this one folder at a time through the GUI isn't practical for the rest of 
 - `GrantAccess` loops through the security groups and matches each one to its folder with a `switch`, then uses `Grant-SmbShareAccess` to give that group Full Control at the share level.
 - Note: `HR-Sec-G` isn't in this switch — I already fixed HR-Folder's share permissions through the GUI above, so the script only needed to cover the remaining three folders.
 
+Ran the script:
