@@ -7,3 +7,15 @@ This is the continuation from [**01-Troubleshoot-Read-Only-and-Share-Permissions
 1. Open File Explorer, click **Network**, click **OTCS-DC01**.
 2. Right-click the **HR-Folder**, click **Properties**.
 3. Click the **Sharing** tab.
+
+<img width="554" height="426" alt="1" src="https://github.com/user-attachments/assets/b4c231e0-32c4-4f6e-9f13-96327dc0e39b" />
+
+Clicked the **Advanced Sharing...** tab:
+
+<img width="565" height="440" alt="2" src="https://github.com/user-attachments/assets/ffdec628-b726-486c-9359-2def64c50efd" />
+
+Clicked **Permissions**, clicked **Add**, added `HR-Sec-G`, and gave it **Full Control**.
+
+<img width="540" height="499" alt="3" src="https://github.com/user-attachments/assets/69b4c37c-e379-4a79-953d-a09f8ee282e3" />
+
+Clicked **OK**, **OK**.
