@@ -27,4 +27,10 @@ Doing this one folder at a time through the GUI isn't practical for the rest of 
 
 - [Click Here to View the PowerShell script](../../12-Powershell-Scripts/07-PowerShell-Script-Configure-SMB-Share-Permissions.md)
 
+### How it works
+- `$SecGroups` imports the security groups from the CSV file.
+- `$success` is the same green-on-black `Write-Host` hashtable I've used in the other scripts.
+- `$folders` lists the shares I'm checking with `Get-SmbShareAccess` before granting anything, just to see the starting state.
+- `GrantAccess` loops through the security groups and matches each one to its folder with a `switch`, then uses `Grant-SmbShareAccess` to give that group Full Control at the share level.
+- Note: `HR-Sec-G` isn't in this switch — I already fixed HR-Folder's share permissions through the GUI above, so the script only needed to cover the remaining three folders.
 
