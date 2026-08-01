@@ -23,6 +23,8 @@ Clicked **OK**, **OK**.
 ## Using PowerShell (Remaining Folders)
 Doing this one folder at a time through the GUI isn't practical for the rest of the shares, so I wrote a PowerShell to automate it for `IT-Folder`, `Finance-Folder`, and `Customer-Services-Folder`.
 
+## 2 Using the GUI (Company-Folder)
+
 ### PowerShell Script
 
 - [Click Here to View the PowerShell script](../../12-Powershell-Scripts/07-PowerShell-Script-Configure-SMB-Share-Permissions.md)
