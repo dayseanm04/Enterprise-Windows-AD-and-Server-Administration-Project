@@ -28,6 +28,9 @@ Doing this one folder at a time through the GUI isn't practical for the rest of 
 - I added **Every-User-Sec-G** and Gave Read permissions
 - I added **HR-Sec-G** and gave it Full permission
 
+<img width="817" height="312" alt="3.1" src="https://github.com/user-attachments/assets/4d5658f0-21cc-40e8-80a7-b8a5b950fda7" />
+
+
 ### PowerShell Script
 
 - [Click Here to View the PowerShell script](../../12-Powershell-Scripts/07-PowerShell-Script-Configure-SMB-Share-Permissions.md)
