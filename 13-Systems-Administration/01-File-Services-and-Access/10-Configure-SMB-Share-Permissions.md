@@ -23,7 +23,10 @@ Clicked **OK**, **OK**.
 ## Using PowerShell (Remaining Folders)
 Doing this one folder at a time through the GUI isn't practical for the rest of the shares, so I wrote a PowerShell to automate it for `IT-Folder`, `Finance-Folder`, and `Customer-Services-Folder`.
 
-## 2 Using the GUI (Company-Folder)
+**Note:** For the Company-Folder 
+- I removed **Everyone**
+- I added **Every-User-Sec-G** and Gave Read permissions
+- I added **HR-Sec-G** and gave it Full permission
 
 ### PowerShell Script
 
