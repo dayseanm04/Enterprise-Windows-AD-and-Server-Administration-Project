@@ -60,4 +60,5 @@ Right-clicked **Reset account lockout counter after**, clicked **Properties**, a
 ### Configure Allow Administrator Account Lockout
 Right-clicked **Allow Administrator account lockout**, clicked **Properties**, and checked **Define this policy setting**.
 
+<img width="747" height="342" alt="10" src="https://github.com/user-attachments/assets/67f6d6a4-8b75-4f48-a6ac-90cf9e6f988d" />
 
