@@ -37,7 +37,7 @@ Clicked **OK** — got rejected:
 
 ## Test 2: Password Complexity Requirement
 
-Tried the password `bobjohnbob` — 10 characters, but all lowercase with no numbers, symbols, or mixed case:
+Tried the password **`bobjohnbob`** which is 10 characters, but all lowercase with no numbers, symbols, or mixed case:
 
-
+<img width="681" height="595" alt="6" src="https://github.com/user-attachments/assets/f6cd3c45-250e-4f6b-8721-7b3a5696d334" />
 
