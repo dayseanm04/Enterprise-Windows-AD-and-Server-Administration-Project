@@ -37,5 +37,6 @@ Password policy is one of the important security controls on a domain, it decide
 
 <img width="808" height="380" alt="5" src="https://github.com/user-attachments/assets/410becb5-37b6-4833-ae3f-c75521b0c002" />
 
+4. Right-click **Minimum password length**, click **Properties**, set it to **8**, and click **OK**.
 
 
