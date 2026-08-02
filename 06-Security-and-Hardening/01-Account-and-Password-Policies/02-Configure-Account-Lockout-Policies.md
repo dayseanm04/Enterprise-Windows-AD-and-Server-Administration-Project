@@ -37,5 +37,7 @@ Account lockout policy protects against brute-force attacks, if someone (or some
 
 3. Click **Account Lockout Policy**.
 
-
 <img width="829" height="379" alt="6" src="https://github.com/user-attachments/assets/92f63dc9-b1ef-48a5-85ec-a60931e0b029" />
+
+### Configure Lockout Duration
+
