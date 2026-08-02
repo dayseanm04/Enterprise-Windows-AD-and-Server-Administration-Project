@@ -21,6 +21,8 @@ Password policy is one of the important security controls on a domain, it decide
 
 <img width="871" height="482" alt="2" src="https://github.com/user-attachments/assets/181e38c4-e5f1-413a-9913-9f7c2cac346e" />
 
+<img width="714" height="528" alt="3" src="https://github.com/user-attachments/assets/8897f496-93ec-4f71-8a41-f0e98e604b87" />
+
 ## Configure the Password Policy
 
 
