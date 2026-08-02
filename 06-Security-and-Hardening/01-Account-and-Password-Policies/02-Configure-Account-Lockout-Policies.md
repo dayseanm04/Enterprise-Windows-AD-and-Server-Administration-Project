@@ -29,12 +29,13 @@ Account lockout policy protects against brute-force attacks, if someone (or some
 
 1. Right-click **Default Domain Policy** and click **Edit**.
 
-<img width="640" height="298" alt="3" src="https://github.com/user-attachments/assets/6e3079c5-1c1a-4468-bd69-19bd0a57e7f4" />
+<img width="640" height="298" alt="4" src="https://github.com/user-attachments/assets/6e3079c5-1c1a-4468-bd69-19bd0a57e7f4" />
 
 2. Under **Computer Configuration**, go to **Policies** → **Windows Settings** → **Security Settings** → **Account Policies**.
 
-<img width="681" height="341" alt="4" src="https://github.com/user-attachments/assets/7a769c06-32cb-4490-8be5-7c4690e58cf9" />
+<img width="681" height="341" alt="5" src="https://github.com/user-attachments/assets/7a769c06-32cb-4490-8be5-7c4690e58cf9" />
 
 3. Click **Account Lockout Policy**.
 
 
+<img width="829" height="379" alt="6" src="https://github.com/user-attachments/assets/92f63dc9-b1ef-48a5-85ec-a60931e0b029" />
