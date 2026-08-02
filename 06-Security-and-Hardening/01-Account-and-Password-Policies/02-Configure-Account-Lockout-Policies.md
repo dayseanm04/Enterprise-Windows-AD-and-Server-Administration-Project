@@ -72,3 +72,7 @@ Right-clicked **Allow Administrator account lockout**, clicked **Properties**, a
 
 <img width="883" height="387" alt="12" src="https://github.com/user-attachments/assets/6d1f8ddb-fc45-4e00-b4a9-a000ed12fd40" />
 
+## Verify
+1. Back in Group Policy Management, click **Default Domain Policy**.
+2. Click the **Settings** tab and scroll down to the **Computer Configuration** section to confirm the changes took effect.
+
