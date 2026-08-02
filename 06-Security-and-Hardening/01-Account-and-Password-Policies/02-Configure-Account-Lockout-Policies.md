@@ -62,5 +62,13 @@ Right-clicked **Allow Administrator account lockout**, clicked **Properties**, a
 
 <img width="747" height="342" alt="11" src="https://github.com/user-attachments/assets/67f6d6a4-8b75-4f48-a6ac-90cf9e6f988d" />
 
+## Final Account Lockout Policy Settings
+| Policy | Value |
+|---|---|
+| Account lockout duration | 60 minutes |
+| Account lockout threshold | 5 invalid logon attempts |
+| Reset account lockout counter after | 30 minutes |
+| Allow Administrator account lockout | Enabled |
+
 <img width="883" height="387" alt="12" src="https://github.com/user-attachments/assets/6d1f8ddb-fc45-4e00-b4a9-a000ed12fd40" />
 
