@@ -15,3 +15,6 @@ With the password policy configured on the Default Domain Policy, I need to conf
 4. On the **Account** tab, unchecked **Password never expires** and checked **User must change password at next logon**, then clicked **OK**.
 
 <img width="644" height="546" alt="2" src="https://github.com/user-attachments/assets/fe1d4db4-052c-4c0c-80c3-972b5e54afef" />
+
+## Test 1: Minimum Password Length
+Logged in as `e.davis` and was prompted to change the password at logon:
