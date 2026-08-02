@@ -70,3 +70,7 @@ Right-clicked **Allow Administrator account lockout**, clicked **Properties**, a
 2. Click the **Settings** tab and scroll down to the **Computer Configuration** section to confirm the changes took effect.
 
 <img width="930" height="548" alt="11" src="https://github.com/user-attachments/assets/e1e42e32-7c54-493a-9c1d-288fd961111b" />
+
+3. In PowerShell, ran `gpupdate /force` to push the policy immediately.
+
+<img width="788" height="360" alt="12" src="https://github.com/user-attachments/assets/e34346fa-e1d9-40c7-b752-e4792558727e" />
