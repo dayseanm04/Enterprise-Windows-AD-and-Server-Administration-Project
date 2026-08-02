@@ -1,4 +1,4 @@
-# Test Password Policy GPO
+<img width="847" height="624" alt="13" src="https://github.com/user-attachments/assets/7e2ffacf-3e0e-4e3a-ac3c-b08a7add5cc2" /># Test Password Policy GPO
 
 Validates the settings configured in [**01-Configure-Password-Policies.md**](../../06-Security-and-Hardening/01-Account-and-Password-Policies/01-Configure-Password-Policies.md).
 
@@ -19,4 +19,6 @@ With the password policy configured on the Default Domain Policy, I need to conf
 ## Test 1: Minimum Password Length
 Logged in as **`e.davis`** and was prompted to change the password at logon:
 
-<img width="841" height="708" alt="12" src="https://github.com/user-attachments/assets/31658e23-2d90-41b1-ab26-24ad96e7af55" />
+<img width="841" height="708" alt="3" src="https://github.com/user-attachments/assets/31658e23-2d90-41b1-ab26-24ad96e7af55" />
+
+<img width="847" height="624" alt="4" src="https://github.com/user-attachments/assets/ef6bf459-442b-43d2-9791-0e4885eb375b" />
