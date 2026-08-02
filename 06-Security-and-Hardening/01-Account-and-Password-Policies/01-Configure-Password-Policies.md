@@ -44,3 +44,5 @@ Password policy is one of the important security controls on a domain, it decide
 5. Right-click **Minimum password age**, click **Properties**, set it to **60**, and click **OK**.
 
 <img width="639" height="325" alt="7" src="https://github.com/user-attachments/assets/71d0efbe-f31d-4ad4-baed-d8fa4c3948b0" />
+
+<img width="833" height="362" alt="8" src="https://github.com/user-attachments/assets/c97f17c6-b5c1-475b-8748-59c2341080e4" />
