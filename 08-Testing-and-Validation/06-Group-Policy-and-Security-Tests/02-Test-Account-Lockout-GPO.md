@@ -40,6 +40,6 @@ Attempted to log in as **Administrator** with an incorrect password:
 
 <img width="945" height="814" alt="8" src="https://github.com/user-attachments/assets/76f5c89a-5a48-4c58-b8a9-f6f750899f32" />
 
-After 5 failed attempts, the Administrator account was locked out (noted the time — **5:15 PM**):
+After 5 failed attempts, the Administrator account was locked out (noted the time: **5:15 PM**):
 
 
