@@ -38,8 +38,11 @@ Attempted to log in as **Administrator** with an incorrect password:
 
 <img width="809" height="436" alt="7" src="https://github.com/user-attachments/assets/2b760109-e453-431b-997e-a90ca80981ec" />
 
-<img width="945" height="814" alt="8" src="https://github.com/user-attachments/assets/76f5c89a-5a48-4c58-b8a9-f6f750899f32" />
-
 After 5 failed attempts, the Administrator account was locked out (noted the time: **5:15 PM**):
 
+<img width="945" height="814" alt="8" src="https://github.com/user-attachments/assets/76f5c89a-5a48-4c58-b8a9-f6f750899f32" />
+
+**Result:** The Administrator account lockout policy was enforced.
+
+### Verify Lockout Duration on the Administrator Account
 
