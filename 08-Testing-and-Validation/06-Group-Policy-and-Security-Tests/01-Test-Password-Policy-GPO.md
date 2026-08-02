@@ -43,6 +43,6 @@ Tried the password **`bobjohnbob`** which is 10 characters, but all lowercase wi
 
 Got rejected again:
 
-<img width="811" height="649" alt="4" src="https://github.com/user-attachments/assets/b5e9dddf-931d-44e2-9358-12d0b7029c70" />
+<img width="559" height="452" alt="7" src="https://github.com/user-attachments/assets/3675158e-b6bb-4921-93ac-8b341b0866b5" />
 
 **Result:** Couldn't use `bobjohnbob` because it didn't meet the complexity requirement. Password complexity is working as configured.
