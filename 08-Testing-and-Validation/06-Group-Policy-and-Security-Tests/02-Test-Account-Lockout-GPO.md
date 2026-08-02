@@ -46,3 +46,5 @@ After 5 failed attempts, the Administrator account was locked out (noted the tim
 
 ### Verify Lockout Duration on the Administrator Account
 
+Attempted to log in again with the correct password after 6:15 PM (60 minutes later):
+
