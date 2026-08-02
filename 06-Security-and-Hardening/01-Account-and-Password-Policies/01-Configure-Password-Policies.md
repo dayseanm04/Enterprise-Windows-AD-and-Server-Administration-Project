@@ -32,3 +32,10 @@ Password policy is one of the important security controls on a domain, it decide
 2. Under **Computer Configuration**, go to **Policies** → **Windows Settings** → **Security Settings** → **Account Policies**.
 
 <img width="681" height="341" alt="4" src="https://github.com/user-attachments/assets/7a769c06-32cb-4490-8be5-7c4690e58cf9" />
+
+3. Click **Password Policy**.
+
+<img width="808" height="380" alt="5" src="https://github.com/user-attachments/assets/410becb5-37b6-4833-ae3f-c75521b0c002" />
+
+
+
