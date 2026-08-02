@@ -45,4 +45,14 @@ Password policy is one of the important security controls on a domain, it decide
 
 <img width="639" height="325" alt="7" src="https://github.com/user-attachments/assets/71d0efbe-f31d-4ad4-baed-d8fa4c3948b0" />
 
+## Final Password Policy Settings
+| Policy | Value |
+|---|---|
+| Enforce password history | 24 passwords remembered |
+| Maximum password age | 60 days |
+| Minimum password age | 1 day |
+| Minimum password length | 8 characters |
+| Password must meet complexity requirements | Enabled |
+| Store passwords using reversible encryption | Disabled |
+
 <img width="833" height="362" alt="8" src="https://github.com/user-attachments/assets/c97f17c6-b5c1-475b-8748-59c2341080e4" />
