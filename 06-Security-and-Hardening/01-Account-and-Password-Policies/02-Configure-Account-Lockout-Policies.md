@@ -49,3 +49,6 @@ Clicked **OK**.
 
 <img width="757" height="531" alt="8" src="https://github.com/user-attachments/assets/50e7fb81-ebbe-410a-be71-c0afd50d1fc3" />
 
+**Note:** the **Account lockout threshold** was automatically set to **5 invalid logon attempts** as soon as I defined set the lockout duration to 60.
+
+
