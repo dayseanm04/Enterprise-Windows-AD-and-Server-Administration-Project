@@ -9,3 +9,4 @@ With the password policy configured on the Default Domain Policy, I need to conf
 1. Open **Active Directory Users and Computers**.
 2. Expand the domain → **Users-OU** → **HR**.
 
+<img width="686" height="383" alt="10" src="https://github.com/user-attachments/assets/2fc064e7-c5c5-4763-ac0b-5e996cc1d338" />
