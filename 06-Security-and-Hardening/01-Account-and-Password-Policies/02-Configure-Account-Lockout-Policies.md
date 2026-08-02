@@ -53,4 +53,5 @@ Clicked **OK**, **OK**.
 
 ### Configure Reset Account Lockout Counter After
 
+Right-clicked **Reset account lockout counter after**, clicked **Properties**, and set it to **30** minutes.
 
