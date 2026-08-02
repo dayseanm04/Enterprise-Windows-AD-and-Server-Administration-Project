@@ -1,4 +1,4 @@
-<img width="847" height="624" alt="13" src="https://github.com/user-attachments/assets/7e2ffacf-3e0e-4e3a-ac3c-b08a7add5cc2" /># Test Password Policy GPO
+# Test Password Policy GPO
 
 Validates the settings configured in [**01-Configure-Password-Policies.md**](../../06-Security-and-Hardening/01-Account-and-Password-Policies/01-Configure-Password-Policies.md).
 
@@ -27,3 +27,4 @@ Was prompted to change the password at logon:
 
 Tried the password **`bob`**, which is less than 8 characters:
 
+<img width="847" height="624" alt="13" src="https://github.com/user-attachments/assets/7e2ffacf-3e0e-4e3a-ac3c-b08a7add5cc2" />
