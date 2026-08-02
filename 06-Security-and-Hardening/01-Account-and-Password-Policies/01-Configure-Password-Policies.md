@@ -62,3 +62,5 @@ Password policy is one of the important security controls on a domain, it decide
 2. Click the **Settings** tab and scroll down to the **Computer Configuration** section to confirm the changes took effect.
 
 <img width="950" height="571" alt="9" src="https://github.com/user-attachments/assets/b7fe61c1-fb1d-48da-beb4-87c2c1d029ab" />
+
+3. In PowerShell, ran `gpupdate /force` to push the policy immediately.
