@@ -30,3 +30,7 @@ Successfully logged in as `e.davis`:
 
 ## Test 3: Administrator Account Lockout
 Since **Allow Administrator account lockout** was enabled, I tested whether the built-in Administrator account would also lock out — by default, Windows exempts this account from lockout policy.
+
+Attempted to log in as **Administrator** with an incorrect password:
+
+<img width="882" height="561" alt="6" src="https://github.com/user-attachments/assets/3df43742-d794-4b45-999c-cb2adf3426bd" />
