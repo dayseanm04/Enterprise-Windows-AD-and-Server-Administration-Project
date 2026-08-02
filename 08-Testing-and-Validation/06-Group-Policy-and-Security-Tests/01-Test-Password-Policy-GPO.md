@@ -41,3 +41,6 @@ Tried the password **`bobjohnbob`** which is 10 characters, but all lowercase wi
 
 <img width="681" height="595" alt="6" src="https://github.com/user-attachments/assets/f6cd3c45-250e-4f6b-8721-7b3a5696d334" />
 
+Got rejected again:
+
+<img width="559" height="452" alt="7" src="https://github.com/user-attachments/assets/3675158e-b6bb-4921-93ac-8b341b0866b5" />
