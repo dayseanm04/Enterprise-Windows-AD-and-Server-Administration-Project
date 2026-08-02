@@ -45,10 +45,12 @@ Right-clicked **Account lockout duration**, clicked **Properties**, checked **De
 
 <img width="759" height="394" alt="7" src="https://github.com/user-attachments/assets/a1656c11-66d2-4770-ab6b-fd784e56cb52" />
 
-Clicked **OK**.
+Clicked **OK**, **OK**.
 
 <img width="757" height="531" alt="8" src="https://github.com/user-attachments/assets/50e7fb81-ebbe-410a-be71-c0afd50d1fc3" />
 
 **Note:** the **Account lockout threshold** was automatically set to **5 invalid logon attempts** as soon as I defined set the lockout duration to 60.
+
+### Configure Reset Account Lockout Counter After
 
 
