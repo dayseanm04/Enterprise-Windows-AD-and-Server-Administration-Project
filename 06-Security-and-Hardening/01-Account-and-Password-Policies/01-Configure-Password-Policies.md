@@ -57,4 +57,8 @@ Password policy is one of the important security controls on a domain, it decide
 
 <img width="833" height="362" alt="8" src="https://github.com/user-attachments/assets/c97f17c6-b5c1-475b-8748-59c2341080e4" />
 
+## Verify
+1. Back in Group Policy Management, click **Default Domain Policy**.
+2. Click the **Settings** tab and scroll down to the **Computer Configuration** section to confirm the changes took effect.
+
 <img width="950" height="571" alt="9" src="https://github.com/user-attachments/assets/b7fe61c1-fb1d-48da-beb4-87c2c1d029ab" />
