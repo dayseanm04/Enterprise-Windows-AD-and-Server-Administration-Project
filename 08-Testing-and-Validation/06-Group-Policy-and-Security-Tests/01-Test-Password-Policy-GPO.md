@@ -17,8 +17,10 @@ With the password policy configured on the Default Domain Policy, I need to conf
 <img width="644" height="546" alt="2" src="https://github.com/user-attachments/assets/fe1d4db4-052c-4c0c-80c3-972b5e54afef" />
 
 ## Test 1: Minimum Password Length
-Logged in as **`e.davis`** and was prompted to change the password at logon:
+Logged in as **`e.davis`**
 
 <img width="841" height="708" alt="3" src="https://github.com/user-attachments/assets/31658e23-2d90-41b1-ab26-24ad96e7af55" />
 
+Was prompted to change the password at logon:
+ 
 <img width="847" height="624" alt="4" src="https://github.com/user-attachments/assets/ef6bf459-442b-43d2-9791-0e4885eb375b" />
