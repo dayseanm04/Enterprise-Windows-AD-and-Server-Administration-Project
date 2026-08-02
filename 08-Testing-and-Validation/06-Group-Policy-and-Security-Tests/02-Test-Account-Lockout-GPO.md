@@ -29,6 +29,7 @@ Successfully logged in as `e.davis`:
 **Result:** The account automatically unlocked after the 60-minute lockout duration passed, as configured.
 
 ## Test 3: Administrator Account Lockout
+
 Since **Allow Administrator account lockout** was enabled, I tested whether the built-in Administrator account would also lock out — by default, Windows exempts this account from lockout policy.
 
 Attempted to log in as **Administrator** with an incorrect password:
@@ -36,3 +37,9 @@ Attempted to log in as **Administrator** with an incorrect password:
 <img width="882" height="561" alt="6" src="https://github.com/user-attachments/assets/3df43742-d794-4b45-999c-cb2adf3426bd" />
 
 <img width="809" height="436" alt="7" src="https://github.com/user-attachments/assets/2b760109-e453-431b-997e-a90ca80981ec" />
+
+<img width="945" height="814" alt="8" src="https://github.com/user-attachments/assets/76f5c89a-5a48-4c58-b8a9-f6f750899f32" />
+
+After 5 failed attempts, the Administrator account was locked out (noted the time — **5:15 PM**):
+
+
