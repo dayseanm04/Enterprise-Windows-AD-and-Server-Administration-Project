@@ -16,7 +16,7 @@ Account lockout policy protects against brute-force attacks, if someone (or some
 1. Expand **Forest** → **Domain** → `domain.com`.
 2. Click on **Default Domain Policy**.
 
-<img width="625" height="364" alt="1" src="https://github.com/user-attachments/assets/319f0c25-b3cf-4e4c-92a7-bd8c395fca30" />
+<img width="625" height="364" alt="2" src="https://github.com/user-attachments/assets/319f0c25-b3cf-4e4c-92a7-bd8c395fca30" />
 
 3. Click **OK**.
 4. Click the **Settings** tab and scroll down to the **Computer Configuration** section.
@@ -28,4 +28,9 @@ Account lockout policy protects against brute-force attacks, if someone (or some
 ## Configure the Account Lockout Policy
 
 1. Right-click **Default Domain Policy** and click **Edit**.
+
+<img width="640" height="298" alt="3" src="https://github.com/user-attachments/assets/6e3079c5-1c1a-4468-bd69-19bd0a57e7f4" />
+
 2. Under **Computer Configuration**, go to **Policies** → **Windows Settings** → **Security Settings** → **Account Policies**.
+
+<img width="681" height="341" alt="4" src="https://github.com/user-attachments/assets/7a769c06-32cb-4490-8be5-7c4690e58cf9" />
