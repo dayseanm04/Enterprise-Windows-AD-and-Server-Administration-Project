@@ -27,3 +27,5 @@ Account lockout policy protects against brute-force attacks, if someone (or some
 
 ## Configure the Account Lockout Policy
 
+1. Right-click **Default Domain Policy** and click **Edit**.
+2. Under **Computer Configuration**, go to **Policies** → **Windows Settings** → **Security Settings** → **Account Policies**.
