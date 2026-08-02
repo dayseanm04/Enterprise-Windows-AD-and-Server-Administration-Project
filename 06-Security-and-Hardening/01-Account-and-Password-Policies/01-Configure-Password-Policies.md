@@ -13,3 +13,5 @@ Password policy is one of the important security controls on a domain, it decide
 ## View the Default Password Policy
 1. Expand **Forest** → **Domain** → `domain.com`.
 2. Click on **Default Domain Policy**.
+
+<img width="625" height="364" alt="1" src="https://github.com/user-attachments/assets/319f0c25-b3cf-4e4c-92a7-bd8c395fca30" />
