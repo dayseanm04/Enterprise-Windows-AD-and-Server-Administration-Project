@@ -5,4 +5,7 @@ Password policy is one of the important security controls on a domain, it decide
 
 ## Open Group Policy Management
 1. In **Server Manager**, click **Tools**.
-2. Click **Group Policy Management**.
+
+<img width="391" height="208" alt="1" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
+
+3. Click **Group Policy Management**.
