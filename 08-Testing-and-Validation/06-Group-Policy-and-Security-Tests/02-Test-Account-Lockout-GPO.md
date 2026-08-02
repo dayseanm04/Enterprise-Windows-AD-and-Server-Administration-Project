@@ -46,5 +46,6 @@ After 5 failed attempts, the Administrator account was locked out (noted the tim
 
 ### Verify Lockout Duration on the Administrator Account
 
-Attempted to log in again with the correct password after 6:15 PM (60 minutes later):
+Attempted to log in again with the correct password after 6:15 PM (the next day):
 
+<img width="503" height="191" alt="9" src="https://github.com/user-attachments/assets/4263f56b-862c-4ece-8b2c-bba6f6094a3c" />
