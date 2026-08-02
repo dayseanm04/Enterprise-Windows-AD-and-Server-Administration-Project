@@ -19,3 +19,5 @@ Logged in as **`e.davis`** with an incorrect password, 5 times in a row.
 ## Test 2: Account Lockout Duration (60 Minutes)
 
 Noted the account (**`e.davis`**) was locked out at **3:34 PM**. Waited and attempted to log in again after **4:50 PM**, by the time I tried, it was **5:09 PM**, well past the 60-minute lockout window.
+
+<img width="967" height="896" alt="4" src="https://github.com/user-attachments/assets/5ff53a81-06ec-4915-931d-430261f0279b" />
