@@ -15,3 +15,7 @@ Logged in as **`e.davis`** with an incorrect password, 5 times in a row.
 <img width="958" height="742" alt="3" src="https://github.com/user-attachments/assets/a47cc39a-e349-4655-ba57-437ba741f8d0" />
 
 **Result:** The 5 invalid login attempts threshold was enforced correctly.
+
+## Test 2: Account Lockout Duration (60 Minutes)
+
+Noted the account (**`e.davis`**) was locked out at **3:34 PM**. Waited and attempted to log in again after **4:50 PM**, by the time I tried, it was **5:09 PM**, well past the 60-minute lockout window.
