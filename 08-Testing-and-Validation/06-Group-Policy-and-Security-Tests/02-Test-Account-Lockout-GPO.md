@@ -49,3 +49,8 @@ After 5 failed attempts, the Administrator account was locked out (noted the tim
 Attempted to log in again with the correct password after 6:15 PM (the next day):
 
 <img width="503" height="191" alt="9" src="https://github.com/user-attachments/assets/4263f56b-862c-4ece-8b2c-bba6f6094a3c" />
+
+**Result:** Successfully logged in, confirming the Administrator account lockout was enforced as expected.
+
+## Conclusion
+The account lockout threshold (5 failed attempts) and the 60-minute lockout duration worked as expected for a regular user account, confirmed by logging back in right at the 60-minute mark. The Administrator account lockout setting was also enforced after 5 failed attempts. I confirmed it cleared by the next day, though I didn't retest 60 minutes after.
