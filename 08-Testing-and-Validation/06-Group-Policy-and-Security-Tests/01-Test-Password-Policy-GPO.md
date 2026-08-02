@@ -9,8 +9,9 @@ With the password policy configured on the Default Domain Policy, I need to conf
 1. Open **Active Directory Users and Computers**.
 2. Expand the domain → **Users-OU** → **HR**.
 
-<img width="686" height="383" alt="10" src="https://github.com/user-attachments/assets/2fc064e7-c5c5-4763-ac0b-5e996cc1d338" />
+<img width="686" height="383" alt="1" src="https://github.com/user-attachments/assets/2fc064e7-c5c5-4763-ac0b-5e996cc1d338" />
 
 3. Right-click **Emma Davis**, click **Properties**.
 4. On the **Account** tab, unchecked **Password never expires** and checked **User must change password at next logon**, then clicked **OK**.
 
+<img width="644" height="546" alt="2" src="https://github.com/user-attachments/assets/fe1d4db4-052c-4c0c-80c3-972b5e54afef" />
