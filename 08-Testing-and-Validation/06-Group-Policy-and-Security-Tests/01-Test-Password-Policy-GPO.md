@@ -22,9 +22,11 @@ Logged in as **`e.davis`**
 <img width="841" height="708" alt="3" src="https://github.com/user-attachments/assets/31658e23-2d90-41b1-ab26-24ad96e7af55" />
 
 Was prompted to change the password at logon:
- 
+
+<img width="847" height="624" alt="13" src="https://github.com/user-attachments/assets/7e2ffacf-3e0e-4e3a-ac3c-b08a7add5cc2" />
+
+
 <img width="847" height="624" alt="4" src="https://github.com/user-attachments/assets/ef6bf459-442b-43d2-9791-0e4885eb375b" />
 
 Tried the password **`bob`**, which is less than 8 characters:
 
-<img width="847" height="624" alt="13" src="https://github.com/user-attachments/assets/7e2ffacf-3e0e-4e3a-ac3c-b08a7add5cc2" />
