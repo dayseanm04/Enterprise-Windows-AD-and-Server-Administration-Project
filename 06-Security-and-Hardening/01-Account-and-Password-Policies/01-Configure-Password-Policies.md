@@ -20,3 +20,7 @@ Password policy is one of the important security controls on a domain, it decide
 4. Click the **Settings** tab and scroll down to the **Computer Configuration** section.
 
 <img width="871" height="482" alt="2" src="https://github.com/user-attachments/assets/181e38c4-e5f1-413a-9913-9f7c2cac346e" />
+
+## Configure the Password Policy
+
+
