@@ -4,3 +4,11 @@ Related: [**01-Configure-Password-Policies.md**](./01-Configure-Password-Policie
 
 ## Overview
 Account lockout policy protects against brute-force attacks, if someone (or something automated) keeps guessing a user's password, the account locks after a set number of failed attempts instead of letting them keep trying indefinitely. Like password policy, this is configured through the **Default Domain Policy** in Group Policy Management.
+
+## Open Group Policy Management
+1. In **Server Manager**, click **Tools**.
+
+<img width="391" height="208" alt="1" src="https://github.com/user-attachments/assets/781e6a6b-f35f-4830-86ea-6149fa0ea643" />
+
+3. Click **Group Policy Management**.
+
