@@ -44,3 +44,8 @@ Account lockout policy protects against brute-force attacks, if someone (or some
 Right-clicked **Account lockout duration**, clicked **Properties**, checked **Define this policy setting**, and set it to **60** minutes.
 
 <img width="759" height="394" alt="7" src="https://github.com/user-attachments/assets/a1656c11-66d2-4770-ab6b-fd784e56cb52" />
+
+Clicked **OK**.
+
+<img width="757" height="531" alt="8" src="https://github.com/user-attachments/assets/50e7fb81-ebbe-410a-be71-c0afd50d1fc3" />
+
