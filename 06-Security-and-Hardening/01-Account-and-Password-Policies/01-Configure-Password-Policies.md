@@ -27,4 +27,7 @@ Password policy is one of the important security controls on a domain, it decide
 
 1. Right-click **Default Domain Policy** and click **Edit**.
 
+<img width="640" height="298" alt="3 1" src="https://github.com/user-attachments/assets/6e3079c5-1c1a-4468-bd69-19bd0a57e7f4" />
+
+2. Under **Computer Configuration**, go to **Policies** → **Windows Settings** → **Security Settings** → **Account Policies**.
 
