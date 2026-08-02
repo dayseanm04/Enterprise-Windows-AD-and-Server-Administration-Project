@@ -25,4 +25,6 @@ Password policy is one of the important security controls on a domain, it decide
 
 ## Configure the Password Policy
 
+1. Right-click **Default Domain Policy** and click **Edit**.
+
 
