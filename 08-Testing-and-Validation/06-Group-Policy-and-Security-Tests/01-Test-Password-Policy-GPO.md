@@ -33,3 +33,4 @@ Clicked **OK** — got rejected:
 
 <img width="559" height="452" alt="5" src="https://github.com/user-attachments/assets/3675158e-b6bb-4921-93ac-8b341b0866b5" />
 
+**Result:** Couldn't use `bob` because it was under 8 characters. Minimum password length is working as configured.
