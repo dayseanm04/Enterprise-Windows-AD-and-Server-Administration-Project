@@ -25,3 +25,5 @@ Noted the account (**`e.davis`**) was locked out at **3:34 PM**. Waited and atte
 Successfully logged in as `e.davis`:
 
 <img width="669" height="319" alt="5" src="https://github.com/user-attachments/assets/0192288e-1919-4725-a4e1-cb266a7bcb65" />
+
+**Result:** The account automatically unlocked after the 60-minute lockout duration passed, as configured.
