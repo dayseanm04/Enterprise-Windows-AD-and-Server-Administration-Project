@@ -29,6 +29,7 @@ Tried the password **`bob`**, which is less than 8 characters:
 
 <img width="811" height="649" alt="4" src="https://github.com/user-attachments/assets/b5e9dddf-931d-44e2-9358-12d0b7029c70" />
 
+Clicked **OK** — got rejected:
+
 <img width="559" height="452" alt="5" src="https://github.com/user-attachments/assets/3675158e-b6bb-4921-93ac-8b341b0866b5" />
 
-Clicked **OK** — got rejected:
