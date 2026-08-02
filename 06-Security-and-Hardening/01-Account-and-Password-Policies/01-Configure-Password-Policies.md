@@ -64,3 +64,5 @@ Password policy is one of the important security controls on a domain, it decide
 <img width="950" height="571" alt="9" src="https://github.com/user-attachments/assets/b7fe61c1-fb1d-48da-beb4-87c2c1d029ab" />
 
 3. In PowerShell, ran `gpupdate /force` to push the policy immediately.
+
+<img width="788" height="360" alt="9 1" src="https://github.com/user-attachments/assets/e34346fa-e1d9-40c7-b752-e4792558727e" />
