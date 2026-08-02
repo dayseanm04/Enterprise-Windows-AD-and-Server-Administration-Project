@@ -24,3 +24,6 @@ Logged in as **`e.davis`**
 Was prompted to change the password at logon:
  
 <img width="847" height="624" alt="4" src="https://github.com/user-attachments/assets/ef6bf459-442b-43d2-9791-0e4885eb375b" />
+
+Tried the password **`bob`**, which is less than 8 characters:
+
