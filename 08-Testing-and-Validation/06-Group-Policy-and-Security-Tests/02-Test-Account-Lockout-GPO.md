@@ -27,3 +27,6 @@ Successfully logged in as `e.davis`:
 <img width="669" height="319" alt="5" src="https://github.com/user-attachments/assets/0192288e-1919-4725-a4e1-cb266a7bcb65" />
 
 **Result:** The account automatically unlocked after the 60-minute lockout duration passed, as configured.
+
+## Test 3: Administrator Account Lockout
+Since **Allow Administrator account lockout** was enabled, I tested whether the built-in Administrator account would also lock out — by default, Windows exempts this account from lockout policy.
