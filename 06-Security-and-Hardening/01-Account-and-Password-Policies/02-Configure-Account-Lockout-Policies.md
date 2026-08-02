@@ -34,3 +34,7 @@ Account lockout policy protects against brute-force attacks, if someone (or some
 2. Under **Computer Configuration**, go to **Policies** → **Windows Settings** → **Security Settings** → **Account Policies**.
 
 <img width="681" height="341" alt="4" src="https://github.com/user-attachments/assets/7a769c06-32cb-4490-8be5-7c4690e58cf9" />
+
+3. Click **Account Lockout Policy**.
+
+
