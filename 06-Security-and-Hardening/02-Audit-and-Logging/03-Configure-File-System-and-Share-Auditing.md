@@ -12,5 +12,6 @@ The last two GPOs tracked logons and credential checks, but neither tells me any
 ## Open the GPO
 1. In Group Policy Management, expand **Forest** → **Domain** → `domain.com` → **Domain Controllers**.
 
+<img width="913" height="403" alt="1" src="https://github.com/user-attachments/assets/4e5b6455-223b-485b-87d4-006b5e83bca3" />
 
-3. Right-click **DC Auditing** and click **Edit**.
+2. Right-click **DC Auditing** and click **Edit**.
