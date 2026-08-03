@@ -24,3 +24,7 @@ The last two GPOs tracked logons and credential checks, but neither tells me any
 Under **Computer Configuration** → **Policies** → **Windows Settings** → **Security Settings** → **Advanced Audit Policy Configuration** → **Audit Policies**, clicked **Object Access**.
 
 <img width="832" height="529" alt="3" src="https://github.com/user-attachments/assets/b22469e8-c0a4-43f0-9430-bd456452ad59" />
+
+## Configure Audit File System
+Right-clicked **Audit File System**, clicked **Properties**, checked **Configure the following audit events**, checked both **Success** and **Failure**, and clicked **OK**.
+
