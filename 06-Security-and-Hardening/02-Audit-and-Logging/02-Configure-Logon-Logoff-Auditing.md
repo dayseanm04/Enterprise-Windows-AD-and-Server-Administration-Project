@@ -30,11 +30,16 @@ Right-clicked **Audit Account Lockout**, clicked **Properties**, checked **Confi
 
 **Why Success only, not Failure too?** A lockout event only happens once — the account either locks or it doesn't. There's no "failed lockout" to track, so Success is the only option that applies here.
 
+## Configure Audit Logon
+
+Right-clicked **Audit Logon**, clicked **Properties**, checked **Configure the following audit events**, checked both **Success** and **Failure**, and clicked **OK**.
+
+
 ## Configure Audit Logoff
 
 Right-clicked **Audit Logoff**, clicked **Properties**, checked **Configure the following audit events**, checked **Success**, and clicked **OK**.
 
-<img width="779" height="423" alt="5" src="https://github.com/user-attachments/assets/fb09f627-fffd-4664-b370-7a6dd7768892" />
+<img width="779" height="423" alt="6" src="https://github.com/user-attachments/assets/fb09f627-fffd-4664-b370-7a6dd7768892" />
 
 **Purpose:** Logs when a user logs off. On its own this is less critical than logon auditing, but paired with Audit Logon it helps track session length and confirm accounts aren't staying logged in longer than expected.
 
