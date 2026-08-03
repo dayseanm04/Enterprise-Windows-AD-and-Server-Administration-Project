@@ -32,3 +32,7 @@ Right-clicked **Audit Account Lockout**, clicked **Properties**, checked **Confi
 
 ## Configure Audit Logoff
 
+Right-clicked **Audit Logoff**, clicked **Properties**, checked **Configure the following audit events**, checked **Success**, and clicked **OK**.
+
+
+
