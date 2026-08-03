@@ -19,3 +19,5 @@ By default, Windows doesn't log logon attempts on domain controllers, so there's
 <img width="698" height="386" alt="3" src="https://github.com/user-attachments/assets/aad57bff-6538-4dc8-bdef-cd9b1fc5ae5a" />
 
 3. Right-clicked **DC Auditing** and clicked **Edit**.
+
+<img width="963" height="471" alt="4" src="https://github.com/user-attachments/assets/d6593745-ee99-4c95-a928-8fc20451f603" />
