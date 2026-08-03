@@ -39,3 +39,6 @@ Logs both successful and failed credential validation attempts against the domai
 
 **Why audit both Success and Failure, not just Failure?** Failure events flag active attack attempts, but Success events matter too — they establish a baseline of normal logon activity, which makes it possible to spot something like a successful login at an unusual time or from an unexpected source. Auditing only failures would miss that context.
 
+<img width="886" height="364" alt="56" src="https://github.com/user-attachments/assets/697146aa-7f89-4ba9-a880-561b2e9fe14a" />
+
+
