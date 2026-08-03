@@ -2,6 +2,8 @@
 
 Builds on [**02-Configure-Logon-Logoff-Auditing.md**](./02-Configure-Logon-Logoff-Auditing.md) — same `DC Auditing` GPO, different audit category.
 
+See [**11-Configure-File-and-Folder-Auditing.md**](../../13-Systems-Administration/01-File-Services-and-Access/11-Configure-File-and-Folder-Auditing.md) for pointing this policy at an actual folder.
+
 ## Overview
 The last two GPOs tracked logons and credential checks, but neither tells me anything about what happens to files once someone's logged in. This adds Object Access auditing to the same `DC Auditing` GPO so I can track access to files and shares.
 
