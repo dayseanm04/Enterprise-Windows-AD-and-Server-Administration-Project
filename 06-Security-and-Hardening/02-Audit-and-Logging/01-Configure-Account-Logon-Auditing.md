@@ -21,3 +21,11 @@ By default, Windows doesn't log logon attempts on domain controllers, so there's
 3. Right-clicked **DC Auditing** and clicked **Edit**.
 
 <img width="963" height="471" alt="4" src="https://github.com/user-attachments/assets/d6593745-ee99-4c95-a928-8fc20451f603" />
+
+## Navigate to Account Logon Audit Policies
+
+Under **Computer Configuration**, went to **Policies** → **Windows Settings** → **Security Settings** → **Advanced Audit Policy Configuration** → **Audit Policies** → **Account Logon**.
+
+<img width="766" height="443" alt="5" src="https://github.com/user-attachments/assets/16af96ed-e4b7-40d6-b41c-20ea3dd4c176" />
+
+
