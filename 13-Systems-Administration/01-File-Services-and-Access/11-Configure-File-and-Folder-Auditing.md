@@ -6,3 +6,7 @@ Turning on Object Access auditing at the GPO level doesn't log anything by itsel
 ## Set Up Auditing on the Finance-Folder
 1. Open File Explorer → **This PC** → **Local Disk (C:)** → `shared-folders`.
 2. Right-click **Finance-Folder**, click **Properties**, click the **Security** tab.
+
+<img width="673" height="474" alt="1" src="https://github.com/user-attachments/assets/8344414f-9197-4912-a961-c884d3c9ea24" />
+
+3. Click **Advanced**, then click the **Auditing** tab.
