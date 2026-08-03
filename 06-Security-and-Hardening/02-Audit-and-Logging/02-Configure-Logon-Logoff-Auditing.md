@@ -26,4 +26,6 @@ Right-clicked **Audit Account Lockout**, clicked **Properties**, checked **Confi
 
 <img width="809" height="361" alt="4" src="https://github.com/user-attachments/assets/17280ee7-baed-401c-8788-e3198f9a362a" />
 
+**Purpose:** Logs when an account gets locked out for hitting the lockout threshold. This makes it possible to spot a compromised account, a bruteforce attack, or just someone repeatedly typing their password wrong.
+
 
