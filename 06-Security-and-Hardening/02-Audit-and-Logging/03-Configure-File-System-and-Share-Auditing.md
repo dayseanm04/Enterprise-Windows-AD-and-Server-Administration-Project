@@ -28,3 +28,4 @@ Under **Computer Configuration** → **Policies** → **Windows Settings** → *
 ## Configure Audit File System
 Right-clicked **Audit File System**, clicked **Properties**, checked **Configure the following audit events**, checked both **Success** and **Failure**, and clicked **OK**.
 
+<img width="830" height="420" alt="4" src="https://github.com/user-attachments/assets/7f466de4-705c-4e74-9d37-e7896743634d" />
