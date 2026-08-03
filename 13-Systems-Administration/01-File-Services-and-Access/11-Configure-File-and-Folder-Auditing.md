@@ -10,3 +10,8 @@ Turning on Object Access auditing at the GPO level doesn't log anything by itsel
 <img width="673" height="474" alt="1" src="https://github.com/user-attachments/assets/8344414f-9197-4912-a961-c884d3c9ea24" />
 
 3. Click **Advanced**, then click the **Auditing** tab.
+
+<img width="901" height="499" alt="41" src="https://github.com/user-attachments/assets/28886534-994a-4376-957c-b30ff0e85016" />
+
+4. Click **Add**. For **Principal**, selected **`Finance-Sec-G`**.
+5. Set **Applies to** to **This folder, subfolders and files**.
