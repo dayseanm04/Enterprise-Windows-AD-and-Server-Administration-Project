@@ -11,7 +11,15 @@ Turning on Object Access auditing at the GPO level doesn't log anything by itsel
 
 3. Click **Advanced**, then click the **Auditing** tab.
 
-<img width="901" height="499" alt="41" src="https://github.com/user-attachments/assets/28886534-994a-4376-957c-b30ff0e85016" />
+<img width="901" height="499" alt="2" src="https://github.com/user-attachments/assets/28886534-994a-4376-957c-b30ff0e85016" />
 
 4. Click **Add**. For **Principal**, selected **`Finance-Sec-G`**.
 5. Set **Applies to** to **This folder, subfolders and files**.
+6. Clicked **Show advanced permissions**, and checked:
+   - Create files / write data
+   - Create folders / append data
+   - Change permissions
+   - Delete
+   - Take ownership
+
+<img width="997" height="600" alt="3" src="https://github.com/user-attachments/assets/560ee523-6e79-43ec-afa3-558c61899383" />
