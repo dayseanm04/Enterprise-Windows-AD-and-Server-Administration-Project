@@ -23,3 +23,8 @@ Turning on Object Access auditing at the GPO level doesn't log anything by itsel
    - Take ownership
 
 <img width="997" height="600" alt="3" src="https://github.com/user-attachments/assets/560ee523-6e79-43ec-afa3-558c61899383" />
+
+7. Clicked **OK**, **OK**.
+
+## Result
+**`Finance-Sec-G`**'s activity on the Finance-Folder — file/folder creation, permission changes, deletions, and ownership changes will now generate audit events, since both this SACL and the domain-wide Object Access audit policy are in place.
