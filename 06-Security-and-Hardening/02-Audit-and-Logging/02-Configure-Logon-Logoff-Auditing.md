@@ -22,3 +22,4 @@ Under **Computer Configuration** → **Policies** → **Windows Settings** → *
 <img width="820" height="352" alt="3" src="https://github.com/user-attachments/assets/56abbc96-8b48-4fb8-9f47-386adadbc5f4" />
 
 ## Configure Audit Account Lockout
+Right-clicked **Audit Account Lockout**, clicked **Properties**, checked **Configure the following audit events**, checked **Success**, and clicked **OK**.
