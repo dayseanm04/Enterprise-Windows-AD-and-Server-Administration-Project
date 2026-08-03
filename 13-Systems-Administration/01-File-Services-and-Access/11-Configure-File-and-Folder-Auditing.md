@@ -1,6 +1,6 @@
 # Configure File and Folder Auditing
 
-Builds on [**03-Configure-File-System-and-Share-Auditing.md**](../../06-Security-and-Hardening/02-Audit-and-Logging/03-Configure-File-System-and-Share-Auditing.md) — where I configured the Object Access audit *category* . This is the other half: pointing that category at an actual folder by setting up its SACL (System Access Control List).
+Builds on [**03-Configure-File-System-and-Share-Auditing.md**](../../06-Security-and-Hardening/02-Audit-and-Logging/03-Configure-File-System-and-Share-Auditing.md) where I configured the **Object Access auditing** *category* . This is the other half: pointing that category at an actual folder by setting up its SACL (System Access Control List).
 
 ## Overview
 Turning on Object Access auditing at the GPO level doesn't log anything by itself, it just tells Windows to *pay attention* to file activity. To actually get events in the log, I still have to tell Windows which folder to watch and what actions on it count as worth logging. I'm setting this up on the Finance-Folder, since that's the folder I want to track changes on.
