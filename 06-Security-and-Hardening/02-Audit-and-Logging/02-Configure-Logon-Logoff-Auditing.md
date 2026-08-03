@@ -55,6 +55,6 @@ Right-clicked **Audit Logoff**, clicked **Properties**, checked **Configure the 
 | Audit Logon | Success and Failure |
 | Audit Logoff | Success |
 
-In PowerShell, ran `gpupdate /force` to push the policy immediately.
+In PowerShell, ran **`gpupdate /force`** to push the policy immediately.
 
 <img width="788" height="360" alt="8" src="https://github.com/user-attachments/assets/e34346fa-e1d9-40c7-b752-e4792558727e" />
