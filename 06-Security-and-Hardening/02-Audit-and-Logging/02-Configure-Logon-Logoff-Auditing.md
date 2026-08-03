@@ -36,6 +36,8 @@ Right-clicked **Audit Logon**, clicked **Properties**, checked **Configure the f
 
 <img width="814" height="438" alt="5" src="https://github.com/user-attachments/assets/cbf86d91-e3bf-4765-8a8a-868346881a5f" />
 
+**Purpose:** Logs every logon attempt on the domain controller — both the ones that succeed and the ones that fail.
+
 ## Configure Audit Logoff
 
 Right-clicked **Audit Logoff**, clicked **Properties**, checked **Configure the following audit events**, checked **Success**, and clicked **OK**.
