@@ -43,4 +43,10 @@ Right-clicked **Audit File Share**, clicked **Properties**, checked **Configure 
 
 <img width="860" height="481" alt="6" src="https://github.com/user-attachments/assets/d7193e0c-d389-42d8-97cb-f2886bea5253" />
 
+## Configured Object Access Policies
+| Policy | Setting |
+|---|---|
+| Audit File Share | Success and Failure |
+| Audit File System | Success and Failure |
+
 
