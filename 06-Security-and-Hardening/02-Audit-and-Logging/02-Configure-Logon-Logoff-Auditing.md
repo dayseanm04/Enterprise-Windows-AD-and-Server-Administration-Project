@@ -28,4 +28,7 @@ Right-clicked **Audit Account Lockout**, clicked **Properties**, checked **Confi
 
 **Purpose:** Logs when an account gets locked out for hitting the lockout threshold. This makes it possible to spot a compromised account, a bruteforce attack, or just someone repeatedly typing their password wrong.
 
+**Why Success only, not Failure too?** A lockout event only happens once — the account either locks or it doesn't. There's no "failed lockout" to track, so Success is the only option that applies here.
+
+## Configure Audit Logoff
 
