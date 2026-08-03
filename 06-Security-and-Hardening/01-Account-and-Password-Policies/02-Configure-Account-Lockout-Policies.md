@@ -75,4 +75,4 @@ Right-clicked **Allow Administrator account lockout**, clicked **Properties**, a
 
 <img width="788" height="360" alt="12" src="https://github.com/user-attachments/assets/e34346fa-e1d9-40c7-b752-e4792558727e" />
 
-## Click here for the Password policy test [01-Test-Password-Policy-GPO.md](../../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/02-Test-Account-Lockout-GPO.md).
+## Click here for the Password policy test [01-Test-Password-Policy-GPO.md](../../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/01-Account-and-Password-Policy-Tests/02-Test-Account-Lockout-GPO.md).
