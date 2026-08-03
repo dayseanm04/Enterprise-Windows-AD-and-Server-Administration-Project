@@ -13,3 +13,5 @@ By default, Windows doesn't log logon attempts on domain controllers, so there's
 1. Right-click the **Domain Controllers** OU and click **Create a GPO in this domain, and Link it here...**
 
 <img width="726" height="364" alt="2" src="https://github.com/user-attachments/assets/fd37c38f-5651-44e2-ba60-c09b7149bd15" />
+
+2. Named it **DC Auditing** — a name that makes its purpose obvious to anyone browsing the GPOs later, rather than something generic.
