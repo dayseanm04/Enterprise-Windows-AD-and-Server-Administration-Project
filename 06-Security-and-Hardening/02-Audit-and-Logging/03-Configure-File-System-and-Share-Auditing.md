@@ -9,6 +9,8 @@ The last two GPOs tracked logons and credential checks, but neither tells me any
 
 **Heads up:** configuring this policy on isn't enough by itself — it only configures the audit *category*. To actually log activity on a specific folder, you also have to enable auditing on that folder's Security tab (SACL) . That's covered in [11-Configure-File-and-Folder-Auditing.md](./11-Configure-File-and-Folder-Auditing.md).
 
+**Note:** OTCS-DC01 is also acting as a File Server in this project, thats why I linked this GPO to the Domain Controllers OU
+
 ## Open the GPO
 1. In Group Policy Management, expand **Forest** → **Domain** → `domain.com` → **Domain Controllers**.
 
@@ -18,3 +20,4 @@ The last two GPOs tracked logons and credential checks, but neither tells me any
 
 <img width="963" height="471" alt="2" src="https://github.com/user-attachments/assets/d6593745-ee99-4c95-a928-8fc20451f603" />
 
+## Navigate to Object Access Audit Policies
