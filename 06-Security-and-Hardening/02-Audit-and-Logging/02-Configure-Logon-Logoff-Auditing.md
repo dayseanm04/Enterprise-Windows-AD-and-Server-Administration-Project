@@ -20,3 +20,5 @@ The last GPO tracked credential checks. This one adds logon and logoff events, a
 Under **Computer Configuration** → **Policies** → **Windows Settings** → **Security Settings** → **Advanced Audit Policy Configuration** → **Audit Policies**, clicked **Logon/Logoff**.
 
 <img width="820" height="352" alt="3" src="https://github.com/user-attachments/assets/56abbc96-8b48-4fb8-9f47-386adadbc5f4" />
+
+## Configure Audit Account Lockout
