@@ -39,3 +39,5 @@ Right-clicked **Audit File Share**, clicked **Properties**, checked **Configure 
 
 <img width="848" height="391" alt="5" src="https://github.com/user-attachments/assets/7a1f1c98-5f32-42cf-a481-78d82ed19c4b" />
 
+**Why audit this separately from File System?** Audit File System covers local disk access, but File Share auditing specifically tracks access to files over an SMB share — like the shared folders I set up earlier in this project (Company-Folder, HR-Folder, etc.). Since those folders are accessed almost entirely over the network rather than locally, this is the setting that actually matters for tracking who's accessing them.
+
