@@ -36,3 +36,6 @@ Under **Computer Configuration**, went to **Policies** → **Windows Settings** 
 
 ### Purpose
 Logs both successful and failed credential validation attempts against the domain controller. This lets an admin monitor normal authentication activity and catch invalid credential attempts or patterns that look like a brute-force attack, repeated failures against the same account, for example, would show up here.
+
+**Why audit both Success and Failure, not just Failure?** Failure events flag active attack attempts, but Success events matter too — they establish a baseline of normal logon activity, which makes it possible to spot something like a successful login at an unusual time or from an unexpected source. Auditing only failures would miss that context.
+
