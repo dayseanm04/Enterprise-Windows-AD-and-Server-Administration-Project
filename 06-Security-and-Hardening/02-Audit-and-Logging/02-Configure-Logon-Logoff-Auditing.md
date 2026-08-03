@@ -48,3 +48,9 @@ Right-clicked **Audit Logoff**, clicked **Properties**, checked **Configure the 
 
 <img width="882" height="505" alt="7" src="https://github.com/user-attachments/assets/f8818b39-7287-4433-ae4a-39e049cf79c3" />
 
+## Configured Logon/Logoff Policies
+| Policy | Setting |
+|---|---|
+| Audit Account Lockout | Success |
+| Audit Logon | Success and Failure |
+| Audit Logoff | Success |
