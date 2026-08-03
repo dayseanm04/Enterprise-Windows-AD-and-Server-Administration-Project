@@ -28,4 +28,6 @@ Under **Computer Configuration**, went to **Policies** → **Windows Settings** 
 
 <img width="766" height="443" alt="5" src="https://github.com/user-attachments/assets/16af96ed-e4b7-40d6-b41c-20ea3dd4c176" />
 
+## Configure Audit Credential Validation
+1. Right-clicked **Audit Credential Validation**, clicked **Properties**.
 
