@@ -29,3 +29,5 @@ Under **Computer Configuration** → **Policies** → **Windows Settings** → *
 Right-clicked **Audit File System**, clicked **Properties**, checked **Configure the following audit events**, checked both **Success** and **Failure**, and clicked **OK**.
 
 <img width="830" height="420" alt="4" src="https://github.com/user-attachments/assets/7f466de4-705c-4e74-9d37-e7896743634d" />
+
+**Why audit this?** Logs when files or folders are accessed on the local disk — who read, changed, or deleted something, and whether they were allowed to. Auditing both Success and Failure means I can see legitimate access and blocked/denied attempts, which matters for spotting someone poking around files they shouldn't have access to.
