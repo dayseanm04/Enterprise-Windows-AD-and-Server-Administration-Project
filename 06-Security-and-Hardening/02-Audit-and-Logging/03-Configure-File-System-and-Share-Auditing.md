@@ -21,3 +21,4 @@ The last two GPOs tracked logons and credential checks, but neither tells me any
 <img width="963" height="471" alt="2" src="https://github.com/user-attachments/assets/d6593745-ee99-4c95-a928-8fc20451f603" />
 
 ## Navigate to Object Access Audit Policies
+Under **Computer Configuration** → **Policies** → **Windows Settings** → **Security Settings** → **Advanced Audit Policy Configuration** → **Audit Policies**, clicked **Object Access**.
