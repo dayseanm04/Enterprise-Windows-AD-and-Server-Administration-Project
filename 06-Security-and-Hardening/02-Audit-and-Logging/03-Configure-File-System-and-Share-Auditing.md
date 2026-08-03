@@ -15,3 +15,6 @@ The last two GPOs tracked logons and credential checks, but neither tells me any
 <img width="913" height="403" alt="1" src="https://github.com/user-attachments/assets/4e5b6455-223b-485b-87d4-006b5e83bca3" />
 
 2. Right-click **DC Auditing** and click **Edit**.
+
+<img width="963" height="471" alt="2" src="https://github.com/user-attachments/assets/d6593745-ee99-4c95-a928-8fc20451f603" />
+
