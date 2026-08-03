@@ -34,5 +34,7 @@ Right-clicked **Audit Account Lockout**, clicked **Properties**, checked **Confi
 
 Right-clicked **Audit Logoff**, clicked **Properties**, checked **Configure the following audit events**, checked **Success**, and clicked **OK**.
 
+<img width="779" height="423" alt="5" src="https://github.com/user-attachments/assets/fb09f627-fffd-4664-b370-7a6dd7768892" />
+
 
 
