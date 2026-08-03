@@ -33,3 +33,6 @@ Under **Computer Configuration**, went to **Policies** → **Windows Settings** 
 2. Checked **Configure the following audit events**, then checked both **Success** and **Failure**, and clicked **OK**.
 
 <img width="703" height="263" alt="6" src="https://github.com/user-attachments/assets/929d3bef-10f5-48b6-968a-55b60f2d00e1" />
+
+### Purpose
+Logs both successful and failed credential validation attempts against the domain controller. This lets an admin monitor normal authentication activity and catch invalid credential attempts or patterns that look like a brute-force attack, repeated failures against the same account, for example, would show up here.
