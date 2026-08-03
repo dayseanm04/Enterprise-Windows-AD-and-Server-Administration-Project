@@ -5,3 +5,4 @@ By default, Windows doesn't log logon attempts on domain controllers, so there's
 
 ## Open Group Policy Management
 1. In Server Manager, click **Tools** → **Group Policy Management**.
+2. Expand **Forest** → **Domain**, expand `domain.com`, and click **Domain Controllers**.
