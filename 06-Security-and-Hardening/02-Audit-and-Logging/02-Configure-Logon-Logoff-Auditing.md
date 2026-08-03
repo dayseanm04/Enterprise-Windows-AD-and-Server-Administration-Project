@@ -36,5 +36,6 @@ Right-clicked **Audit Logoff**, clicked **Properties**, checked **Configure the 
 
 <img width="779" height="423" alt="5" src="https://github.com/user-attachments/assets/fb09f627-fffd-4664-b370-7a6dd7768892" />
 
+**Purpose:** Logs when a user logs off. On its own this is less critical than logon auditing, but paired with Audit Logon it helps track session length and confirm accounts aren't staying logged in longer than expected.
 
 
