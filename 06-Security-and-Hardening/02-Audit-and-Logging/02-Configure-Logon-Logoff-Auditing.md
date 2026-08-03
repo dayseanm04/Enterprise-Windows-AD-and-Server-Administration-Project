@@ -13,3 +13,6 @@ The last GPO tracked credential checks. This one adds logon and logoff events, a
 
 3. Right-click **DC Auditing** and click **Edit**.
 
+<img width="963" height="471" alt="4" src="https://github.com/user-attachments/assets/d6593745-ee99-4c95-a928-8fc20451f603" />
+
+
