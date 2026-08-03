@@ -41,4 +41,7 @@ Logs both successful and failed credential validation attempts against the domai
 
 <img width="886" height="364" alt="56" src="https://github.com/user-attachments/assets/697146aa-7f89-4ba9-a880-561b2e9fe14a" />
 
-
+## Configured Account Logon Policies
+| Policy | Setting |
+|---|---|
+| Audit Credential Validation | Success and Failure |
