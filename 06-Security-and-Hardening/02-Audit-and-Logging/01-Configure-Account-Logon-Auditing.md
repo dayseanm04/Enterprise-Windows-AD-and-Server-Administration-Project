@@ -15,3 +15,5 @@ By default, Windows doesn't log logon attempts on domain controllers, so there's
 <img width="726" height="364" alt="2" src="https://github.com/user-attachments/assets/fd37c38f-5651-44e2-ba60-c09b7149bd15" />
 
 2. Named it **DC Auditing** — a name that makes its purpose obvious to anyone browsing the GPOs later, rather than something generic.
+
+<img width="698" height="386" alt="52" src="https://github.com/user-attachments/assets/aad57bff-6538-4dc8-bdef-cd9b1fc5ae5a" />
