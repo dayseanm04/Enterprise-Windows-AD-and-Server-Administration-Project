@@ -115,4 +115,5 @@ In **Server Manager > Tools > Event Viewer > Windows Logs > Security**, I scroll
 
 Scrolling down through the logs, I found an entry for **Credential Validation**, confirming that audit subcategory is active and logging correctly.
 
+<img width="862" height="307" alt="21" src="https://github.com/user-attachments/assets/39754532-120a-43d4-a95e-841645a4f69e" />
 
