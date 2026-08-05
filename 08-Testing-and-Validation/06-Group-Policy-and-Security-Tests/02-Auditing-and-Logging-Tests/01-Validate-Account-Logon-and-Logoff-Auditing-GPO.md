@@ -62,5 +62,8 @@ I right-clicked the first one and clicked **Event Properties**.
 
 <img width="837" height="389" alt="11" src="https://github.com/user-attachments/assets/9149388b-c6e1-4702-92ea-2beb1d186032" />
 
+It showed the failed logon entry for `e.davis`, confirming the failure was captured.
+
 <img width="688" height="357" alt="14" src="https://github.com/user-attachments/assets/c8911e7b-e803-4958-a6e0-13d07d3a304b" />
 
+I closed that, then scrolled through the logs and found an **Audit Success** log under category **Logon**, right-clicked it, and clicked **Event Properties**.
