@@ -1,6 +1,6 @@
 # Validate Account Logon and Logoff Auditing GPO
 
-Validates the settings configured in [**02-Configure-Logon-Logoff-Auditing.md**](../../../06-Security-and-Hardening/02-Audit-and-Loggings/02-Configure-Logon-Logoff-Auditing.md).
+Validates the settings configured in [**02-Configure-Logon-Logoff-Auditing.md**](../../../06-Security-and-Hardening/02-Audit-and-Logging/02-Configure-Logon-Logoff-Auditing.md).
 
 
 ## Overview
