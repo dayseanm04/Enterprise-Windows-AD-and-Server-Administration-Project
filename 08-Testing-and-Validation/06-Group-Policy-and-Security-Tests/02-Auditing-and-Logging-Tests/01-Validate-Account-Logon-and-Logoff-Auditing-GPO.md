@@ -18,3 +18,4 @@ Click **Windows Logs** > **Security**.
 
 You can see logs for logon and logoff. I right-clicked an **Audit Success** log for **Logoff** and clicked **Event Properties**.
 
+<img width="825" height="422" alt="3" src="https://github.com/user-attachments/assets/f6e1c5fc-5e60-4efe-82e9-c9251649f393" />
