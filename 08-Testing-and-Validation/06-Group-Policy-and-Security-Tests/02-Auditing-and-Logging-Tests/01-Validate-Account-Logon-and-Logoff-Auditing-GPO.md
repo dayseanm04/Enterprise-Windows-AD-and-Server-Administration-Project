@@ -67,3 +67,6 @@ It showed the failed logon entry for `e.davis`, confirming the failure was captu
 <img width="688" height="357" alt="14" src="https://github.com/user-attachments/assets/c8911e7b-e803-4958-a6e0-13d07d3a304b" />
 
 I closed that, then scrolled through the logs and found an **Audit Success** log under category **Logon**, right-clicked it, and clicked **Event Properties**.
+
+<img width="853" height="363" alt="15" src="https://github.com/user-attachments/assets/6493c24a-9550-4264-a30a-47ccce623695" />
+
