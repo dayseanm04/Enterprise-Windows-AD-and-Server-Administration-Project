@@ -58,3 +58,8 @@ I signed out and logged back in as Administrator, then went to **Server Manager 
 
 <img width="828" height="447" alt="10" src="https://github.com/user-attachments/assets/592e5e22-a647-4e26-af86-ba97ec14c5fe" />
 
+I right-clicked the first one and clicked **Event Properties**.
+
+<img width="837" height="389" alt="11" src="https://github.com/user-attachments/assets/9149388b-c6e1-4702-92ea-2beb1d186032" />
+
+
