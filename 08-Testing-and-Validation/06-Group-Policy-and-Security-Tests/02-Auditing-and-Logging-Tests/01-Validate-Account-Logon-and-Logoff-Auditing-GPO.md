@@ -1,5 +1,8 @@
 # Validate Account Logon and Logoff Auditing GPO
 
+Validates the settings configured in [**02-Configure-Logon-Logoff-Auditing.md**](../../../06-Security-and-Hardening/02-Audit-and-Loggings/02-Configure-Logon-Logoff-Auditing.md).
+
+
 ## Overview
 
 This document validates the account logon/logoff and Credential Validation audit GPO configured on **`OTCS-DC01`**. Four tests confirm the policy is actually generating Security log events.
