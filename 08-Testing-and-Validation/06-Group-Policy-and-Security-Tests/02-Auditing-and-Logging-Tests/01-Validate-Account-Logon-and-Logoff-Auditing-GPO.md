@@ -42,7 +42,7 @@ I signed out.
 
 **Why this test:** account lockout and brute-force detection both depend on failed logons being logged. 
 
-I logged in as `e.davis` using an incorrect password 3 times, then logged in again with the correct password.
+I logged in as **`e.davis`** using an incorrect password 3 times, then logged in again with the correct password.
 
 
 
