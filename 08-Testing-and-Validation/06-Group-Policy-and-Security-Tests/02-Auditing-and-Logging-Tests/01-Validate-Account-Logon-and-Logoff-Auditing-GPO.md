@@ -7,3 +7,5 @@ This document validates the account logon/logoff and Credential Validation audit
 ## Test 1: Logoff Event Auditing 
 
 **Note:** I logged out and logged back into the DC (`OTCS-DC01`) as Administrator.
+
+In Server Manager, click **Tools** > **Event Viewer**.
