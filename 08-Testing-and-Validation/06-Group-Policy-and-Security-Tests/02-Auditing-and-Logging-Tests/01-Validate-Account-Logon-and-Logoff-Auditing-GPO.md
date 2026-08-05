@@ -74,3 +74,4 @@ It showed the logon success audit for Emma Davis, confirming both the failed and
 
 <img width="790" height="460" alt="14" src="https://github.com/user-attachments/assets/94245ad0-0fb1-4ed8-b414-024ef10ddbff" />
 
+**Note:** even after clearing the log at the end of Test 1, the system generated 80+ new logs on its own, so I had scroll through, note that you can also filter the output.
