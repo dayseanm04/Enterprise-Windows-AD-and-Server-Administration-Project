@@ -117,3 +117,13 @@ Scrolling down through the logs, I found an entry for **Credential Validation**,
 
 <img width="862" height="307" alt="21" src="https://github.com/user-attachments/assets/39754532-120a-43d4-a95e-841645a4f69e" />
 
+## Result
+
+All four tests confirmed the GPO-configured audit policies are generating the expected Security log events:
+
+| Test | Event Audited | Result |
+|---|---|---|
+| 1 | Logoff (4634) | Pass |
+| 2 | Logon Failure / Success (4625 / 4624) | Pass |
+| 3 | Account Lockout after repeated failures | Pass |
+| 4 | Credential Validation (4776) | Pass |
