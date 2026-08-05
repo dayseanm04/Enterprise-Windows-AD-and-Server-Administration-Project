@@ -48,5 +48,6 @@ I logged in as **`e.davis`** using an incorrect password 3 times, then logged in
 
 <img width="842" height="450" alt="8" src="https://github.com/user-attachments/assets/164e1fe6-c410-423a-8721-0b9488e97745" />
 
+I logged in as **`e.davis`** using the correct password.
 
-
+<img width="644" height="342" alt="11" src="https://github.com/user-attachments/assets/2841cb1c-232c-4139-a475-00c3684a547d" />
