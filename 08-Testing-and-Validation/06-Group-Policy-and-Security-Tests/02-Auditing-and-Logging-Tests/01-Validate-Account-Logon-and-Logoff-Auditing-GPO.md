@@ -97,4 +97,5 @@ I logged in as `e.davis` with an incorrect password, 5 times in a row, to trigge
 
 After the 5th attempt, `e.davis` was locked out.
 
+<img width="852" height="475" alt="18" src="https://github.com/user-attachments/assets/d87fff50-3d79-46f6-9bb2-6b00a076e231" />
 
