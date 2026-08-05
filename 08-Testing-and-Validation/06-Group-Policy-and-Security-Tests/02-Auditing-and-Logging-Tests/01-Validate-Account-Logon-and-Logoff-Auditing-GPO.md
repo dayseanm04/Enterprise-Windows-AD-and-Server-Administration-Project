@@ -13,3 +13,5 @@ In Server Manager, click **Tools** > **Event Viewer**.
 <img width="601" height="256" alt="1" src="https://github.com/user-attachments/assets/b49028c6-ef6f-4a65-88b1-33628c8d7eb0" />
 
 Click **Windows Logs** > **Security**.
+
+<img width="835" height="458" alt="2" src="https://github.com/user-attachments/assets/0d795468-088f-4e4e-90f8-cef587e14998" />
