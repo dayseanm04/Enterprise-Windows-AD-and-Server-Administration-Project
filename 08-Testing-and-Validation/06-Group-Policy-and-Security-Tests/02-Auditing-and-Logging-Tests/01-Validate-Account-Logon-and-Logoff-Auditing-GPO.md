@@ -22,6 +22,8 @@ You can see logs for logon and logoff. I right-clicked an **Audit Success** log 
 
 It shows the log for when I shut down the VM, confirming the logoff event was recorded.
 
-<img width="732" height="338" alt="7" src="https://github.com/user-attachments/assets/a70fb82e-6546-4127-841c-46f15e1299f8" />
+<img width="732" height="338" alt="3" src="https://github.com/user-attachments/assets/a70fb82e-6546-4127-841c-46f15e1299f8" />
 
 I cleared the log so the next test starts from a clean baseline.
+
+<img width="1012" height="402" alt="4" src="https://github.com/user-attachments/assets/e22c6f8e-5dd1-4dc9-a21b-91a8293a3f22" />
