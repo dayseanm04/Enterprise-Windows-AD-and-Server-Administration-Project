@@ -70,5 +70,7 @@ I closed that, then scrolled through the logs and found an **Audit Success** log
 
 <img width="853" height="363" alt="13" src="https://github.com/user-attachments/assets/6493c24a-9550-4264-a30a-47ccce623695" />
 
+It showed the logon success audit for Emma Davis, confirming both the failed and successful attempts were logged.
+
 <img width="790" height="460" alt="14" src="https://github.com/user-attachments/assets/94245ad0-0fb1-4ed8-b414-024ef10ddbff" />
 
