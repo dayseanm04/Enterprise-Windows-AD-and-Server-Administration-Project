@@ -91,3 +91,10 @@ I signed out.
 
 I logged in as `e.davis` with an incorrect password, 5 times in a row, to trigger the account lockout threshold.
 
+<img width="898" height="507" alt="16" src="https://github.com/user-attachments/assets/4e764f48-0828-4bf0-a7dd-5747252ab80a" />
+
+<img width="842" height="450" alt="17" src="https://github.com/user-attachments/assets/164e1fe6-c410-423a-8721-0b9488e97745" />
+
+After the 5th attempt, `e.davis` was locked out.
+
+
