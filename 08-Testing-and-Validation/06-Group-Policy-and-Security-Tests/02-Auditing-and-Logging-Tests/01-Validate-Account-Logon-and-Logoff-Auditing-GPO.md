@@ -50,9 +50,11 @@ I logged in as **`e.davis`** using an incorrect password 3 times, then logged in
 
 I logged in as **`e.davis`** using the correct password.
 
-<img width="644" height="342" alt="11" src="https://github.com/user-attachments/assets/2841cb1c-232c-4139-a475-00c3684a547d" />
+<img width="644" height="342" alt="9" src="https://github.com/user-attachments/assets/2841cb1c-232c-4139-a475-00c3684a547d" />
 
 **Verify:**
 
 I signed out and logged back in as Administrator, then went to **Server Manager > Tools > Event Viewer > Windows Logs > Security** and scrolled until I found the **Audit Failure** logs.
+
+<img width="828" height="447" alt="10" src="https://github.com/user-attachments/assets/592e5e22-a647-4e26-af86-ba97ec14c5fe" />
 
