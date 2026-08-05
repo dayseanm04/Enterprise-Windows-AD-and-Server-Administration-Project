@@ -28,7 +28,8 @@ I cleared the log so the next test starts from a clean baseline.
 
 <img width="1012" height="402" alt="4" src="https://github.com/user-attachments/assets/e22c6f8e-5dd1-4dc9-a21b-91a8293a3f22" />
 
-Click Clear
+Click Cleared
 
 <img width="790" height="280" alt="9" src="https://github.com/user-attachments/assets/8501b4e0-b363-4ccd-bdfb-bd30e622fce6" />
 
+I signed out.
