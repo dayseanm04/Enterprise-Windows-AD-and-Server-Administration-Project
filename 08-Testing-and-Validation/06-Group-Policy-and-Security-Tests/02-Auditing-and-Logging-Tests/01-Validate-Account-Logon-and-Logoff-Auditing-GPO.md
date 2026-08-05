@@ -46,5 +46,7 @@ I logged in as **`e.davis`** using an incorrect password 3 times, then logged in
 
 <img width="898" height="507" alt="7" src="https://github.com/user-attachments/assets/4e764f48-0828-4bf0-a7dd-5747252ab80a" />
 
+<img width="842" height="450" alt="8" src="https://github.com/user-attachments/assets/164e1fe6-c410-423a-8721-0b9488e97745" />
+
 
 
