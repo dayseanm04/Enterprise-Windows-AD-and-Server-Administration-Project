@@ -35,3 +35,7 @@ Click Cleared
 I signed out.
 
 <img width="586" height="246" alt="6" src="https://github.com/user-attachments/assets/9cf8ed90-387d-404d-ac5d-944b4e533f67" />
+
+---
+
+## Test 2: Logon Failure and Success Auditing
