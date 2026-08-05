@@ -105,3 +105,5 @@ I logged in as Administrator.
 
 <img width="681" height="287" alt="19" src="https://github.com/user-attachments/assets/e6513098-8759-41f3-b6c0-816804b21b82" />
 
+In **Server Manager > Tools > Event Viewer > Windows Logs > Security**, I scrolled through and found the logon attempts, confirming the repeated failures — and the resulting lockout — were both logged.
+
