@@ -102,3 +102,6 @@ After the 5th attempt, `e.davis` was locked out.
 **Verify log:**
 
 I logged in as Administrator.
+
+<img width="681" height="287" alt="19" src="https://github.com/user-attachments/assets/e6513098-8759-41f3-b6c0-816804b21b82" />
+
