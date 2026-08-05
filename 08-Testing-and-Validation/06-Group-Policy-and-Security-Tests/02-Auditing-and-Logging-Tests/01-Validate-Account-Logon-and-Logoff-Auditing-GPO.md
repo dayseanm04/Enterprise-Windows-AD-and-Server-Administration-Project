@@ -44,6 +44,7 @@ I signed out.
 
 I logged in as **`e.davis`** using an incorrect password 3 times, then logged in again with the correct password.
 
+<img width="898" height="507" alt="7" src="https://github.com/user-attachments/assets/4e764f48-0828-4bf0-a7dd-5747252ab80a" />
 
 
 
