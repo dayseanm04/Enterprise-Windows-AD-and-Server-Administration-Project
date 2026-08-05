@@ -30,6 +30,8 @@ I cleared the log so the next test starts from a clean baseline.
 
 Click Cleared
 
-<img width="790" height="280" alt="9" src="https://github.com/user-attachments/assets/8501b4e0-b363-4ccd-bdfb-bd30e622fce6" />
+<img width="790" height="280" alt="5" src="https://github.com/user-attachments/assets/8501b4e0-b363-4ccd-bdfb-bd30e622fce6" />
 
 I signed out.
+
+<img width="586" height="246" alt="6" src="https://github.com/user-attachments/assets/9cf8ed90-387d-404d-ac5d-944b4e533f67" />
