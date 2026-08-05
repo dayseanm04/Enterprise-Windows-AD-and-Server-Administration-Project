@@ -81,8 +81,13 @@ It showed the logon success audit for Emma Davis, confirming both the failed and
 
 I cleared the logs again to reset for Test 3.
 
+<img width="839" height="483" alt="15" src="https://github.com/user-attachments/assets/83c37ef4-0e3d-44ad-852f-b693267f46ba" />
+
 I signed out.
 
 ---
 
 ## Test 3: Account Lockout Auditing After Repeated Failed Logons
+
+I logged in as `e.davis` with an incorrect password, 5 times in a row, to trigger the account lockout threshold.
+
