@@ -107,3 +107,4 @@ I logged in as Administrator.
 
 In **Server Manager > Tools > Event Viewer > Windows Logs > Security**, I scrolled through and found the logon attempts, confirming the repeated failures were logged.
 
+<img width="824" height="403" alt="20" src="https://github.com/user-attachments/assets/d97f384f-c0dc-43b3-a9e1-143af21631de" />
