@@ -88,36 +88,6 @@ I used AI as an assistant. This section documents how I wrote prompts to generat
 **`Windows Server 2019`** · **`Active Directory`** · **`DNS`** · **`Group Policy`** · **`Hyper-V`** · **`PowerShell`** · **`NTFS & SMB Permissions`** · **`Auditing`** · **`Troubleshooting`** · **`Technical Documentation`**
 
 
+## About Me
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I'm Daysean Mensah, an IT student at New York City College of Technology studying Computer Systems (**Networking and Security**).
