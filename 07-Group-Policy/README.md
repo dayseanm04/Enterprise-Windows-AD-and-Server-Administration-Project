@@ -17,3 +17,4 @@ All Group Policy settings were set up in **[06-Security-and-Hardening](../06-Sec
 
 ## Where the GPOs Were Tested
 
+Every policy above was tested to confirm it actually applied. The tests are in **[08-Testing-and-Validation/06-Group-Policy-and-Security-Tests](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/)**.
