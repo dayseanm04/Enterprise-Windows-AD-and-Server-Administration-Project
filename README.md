@@ -43,6 +43,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Created users for each department and role-based security groups
 - Enabled the AD Recycle Bin
 - Reset passwords using ADUC, ADAC, and PowerShell
+- Joined a Windows 11 computer to the domain
 
 
 
