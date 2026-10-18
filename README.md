@@ -56,6 +56,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 
 ### File Services
 - Created department shared folders and sample files
+- Set NTFS file and folder permissions and SMB share permissions
 
 
 
