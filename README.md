@@ -75,8 +75,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 
 ### Troubleshooting
 Real problems I ran into and fixed:
-
-
+- Domain Controller had no internet connectivity
 
 
 
