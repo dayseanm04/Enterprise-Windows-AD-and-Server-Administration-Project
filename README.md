@@ -37,6 +37,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Built and deployed the Windows Server 2019 VM
 - Completed post-install configuration, virtual switch setup, and static IP
 
+### Active Directory
 
 
 
