@@ -78,7 +78,7 @@ Real problems I ran into and fixed:
 - Domain Controller had no internet connectivity
 - Computer failing to join the domain
 - Read-only and share permission conflicts
-
+- Test server VM not starting up
 
 
 
