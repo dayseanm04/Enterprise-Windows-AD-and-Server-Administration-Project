@@ -70,6 +70,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Built a separate test environment by cloning the production server
 - Tested user logins and Domain Admin access
 - Tested my PowerShell user creation script
+- Validated DNS, folder permissions (Company and HR folders), password and lockout GPOs, and audit policies
 
 
 
