@@ -21,6 +21,7 @@ Every policy above was tested to confirm it actually applied. The tests are in *
 
 - [**Test Password Policy GPO**](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/01-Account-and-Password-Policy-Tests/01-Test-Password-Policy-GPO.md)
 - [**Test Account Lockout GPO**](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/01-Account-and-Password-Policy-Tests/02-Test-Account-Lockout-GPO.md)
+- [**Validate Account Logon and Logoff Auditing GPO**](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/02-Auditing-and-Logging-Tests/01-Validate-Account-Logon-and-Logoff-Auditing-GPO.md)
 
 
 
