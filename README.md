@@ -58,6 +58,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Created department shared folders and sample files
 - Set NTFS file and folder permissions and SMB share permissions
 - Shared folders through Server Manager and PowerShell
+- Published shared folders in Active Directory
 
 
 
