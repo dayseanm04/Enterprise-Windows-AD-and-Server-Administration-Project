@@ -83,6 +83,9 @@ Real problems I ran into and fixed:
 ### AI-Assisted Work
 I used AI as an assistant. This section documents how I wrote prompts to generate a PowerShell user creation script, reviewed and tested what it produced, and used AI to help troubleshoot a user login issue on the Domain Controller.
 
+## Skills Shown
+
+**`Windows Server 2019`** · **`Active Directory`** · **`DNS`** · **`Group Policy`** · **`Hyper-V`** · **`PowerShell`** · **`NTFS & SMB Permissions`** · **`Auditing`** · **`Troubleshooting`** · **`Technical Documentation`**
 
 
 
