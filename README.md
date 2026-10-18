@@ -62,7 +62,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Set up file and folder auditing
 
 ### PowerShell Automation
-
+- Scripts to create folders, generate and rename sample files, set NTFS permissions, share folders, and configure SMB share permissions
 
 
 
