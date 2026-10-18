@@ -14,3 +14,4 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 | Department | Employees |
 |------------|-----------|
 | Finance | 5 |
+| Human Resources | 5 |
