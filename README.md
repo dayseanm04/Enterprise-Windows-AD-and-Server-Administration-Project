@@ -45,6 +45,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Reset passwords using ADUC, ADAC, and PowerShell
 - Joined a Windows 11 computer to the domain
 
+### DNS
 
 
 
