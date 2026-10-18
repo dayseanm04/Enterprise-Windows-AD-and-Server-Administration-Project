@@ -35,6 +35,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 
 - Enabled Hyper-V and created storage and ISO folders with PowerShell
 - Built and deployed the Windows Server 2019 VM
+- Completed post-install configuration, virtual switch setup, and static IP
 
 
 
