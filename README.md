@@ -50,6 +50,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Created A and PTR records
 - Validated name resolution both ways
 
+### Security and Group Policy
 
 
 
