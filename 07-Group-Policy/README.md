@@ -11,3 +11,4 @@ All Group Policy settings were set up in **[06-Security-and-Hardening](../06-Sec
 - [**Configure Account Lockout Policies**](../06-Security-and-Hardening/01-Account-and-Password-Policies/02-Configure-Account-Lockout-Policies.md)
 
 **Audit and Logging**
+- [**Configure Account Logon Auditing**](../06-Security-and-Hardening/02-Audit-and-Logging/01-Configure-Account-Logon-Auditing.md)
