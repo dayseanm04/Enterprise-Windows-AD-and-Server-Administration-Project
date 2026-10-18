@@ -46,7 +46,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Joined a Windows 11 computer to the domain
 
 ### DNS
-
+- Configured forward and reverse lookup zones
 
 
 
