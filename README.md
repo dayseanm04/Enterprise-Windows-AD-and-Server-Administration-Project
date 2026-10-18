@@ -61,6 +61,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Published shared folders in Active Directory
 - Set up file and folder auditing
 
+### PowerShell Automation
 
 
 
