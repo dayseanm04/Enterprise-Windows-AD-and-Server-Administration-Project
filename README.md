@@ -80,6 +80,8 @@ Real problems I ran into and fixed:
 - Read-only and share permission conflicts
 - Test server VM not starting up
 
+### AI-Assisted Work
+I used AI as an assistant. This section documents how I wrote prompts to generate a PowerShell user creation script, reviewed and tested what it produced, and used AI to help troubleshoot a user login issue on the Domain Controller.
 
 
 
