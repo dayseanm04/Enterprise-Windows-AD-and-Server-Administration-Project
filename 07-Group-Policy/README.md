@@ -19,4 +19,10 @@ All Group Policy settings were set up in **[06-Security-and-Hardening](../06-Sec
 
 Every policy above was tested to confirm it actually applied. The tests are in **[08-Testing-and-Validation/06-Group-Policy-and-Security-Tests](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/)**.
 
-- [Test Password Policy GPO](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/01-Account-and-Password-Policy-Tests/01-Test-Password-Policy-GPO.md)
+- [**Test Password Policy GPO**](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/01-Account-and-Password-Policy-Tests/01-Test-Password-Policy-GPO.md)
+- [**Test Account Lockout GPO**](../08-Testing-and-Validation/06-Group-Policy-and-Security-Tests/01-Account-and-Password-Policy-Tests/02-Test-Account-Lockout-GPO.md)
+
+
+
+
+
