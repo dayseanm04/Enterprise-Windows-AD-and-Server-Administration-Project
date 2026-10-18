@@ -47,6 +47,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 
 ### DNS
 - Configured forward and reverse lookup zones
+- Created A and PTR records
 
 
 
