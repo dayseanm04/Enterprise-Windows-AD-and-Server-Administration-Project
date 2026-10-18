@@ -30,3 +30,11 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - **Test environment:** cloned production server on an internal virtual switch
 
 ## What I Built
+
+### Server Setup
+
+
+
+
+
+
