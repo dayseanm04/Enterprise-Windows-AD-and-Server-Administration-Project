@@ -12,3 +12,4 @@ All Group Policy settings were set up in **[06-Security-and-Hardening](../06-Sec
 
 **Audit and Logging**
 - [**Configure Account Logon Auditing**](../06-Security-and-Hardening/02-Audit-and-Logging/01-Configure-Account-Logon-Auditing.md)
+- [**Configure Logon/Logoff Auditing**](../06-Security-and-Hardening/02-Audit-and-Logging/02-Configure-Logon-Logoff-Auditing.md)
