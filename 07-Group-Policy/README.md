@@ -7,3 +7,4 @@ The Group Policy work for this project is split between two sections: where the 
 All Group Policy settings were set up in **[06-Security-and-Hardening](../06-Security-and-Hardening/)** using Group Policy Management.
 
 **Account and Password Policies**
+- [**Configure Password Policies**](../06-Security-and-Hardening/01-Account-and-Password-Policies/01-Configure-Password-Policies.md)
