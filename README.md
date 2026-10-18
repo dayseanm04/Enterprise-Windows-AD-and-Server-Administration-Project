@@ -24,3 +24,4 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 ## Environment
 
 - **Hypervisor:** Microsoft Hyper-V
+- **Server:** Windows Server 2019 (Domain Controller + DNS)
