@@ -42,6 +42,7 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - Designed and built an OU structure split by **Users, Workstations, Groups, Servers, and Disabled Objects**, with department sub-OUs (IT split into Admins and Standard)
 - Created users for each department and role-based security groups
 - Enabled the AD Recycle Bin
+- Reset passwords using ADUC, ADAC, and PowerShell
 
 
 
