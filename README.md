@@ -10,3 +10,7 @@ The goal was to do the work a real sysadmin does: build the server, set up Activ
 ## The Company
 
 Oak Town Corporate Services is a small-to-medium business in one building with two floors and five departments.
+
+| Department | Employees |
+|------------|-----------|
+| Finance | 5 |
