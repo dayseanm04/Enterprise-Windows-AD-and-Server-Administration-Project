@@ -21,4 +21,6 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 
 **Domain:** `corp.oaktowncs.com`
 
+## Environment
 
+- **Hypervisor:** Microsoft Hyper-V
