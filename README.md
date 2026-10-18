@@ -28,3 +28,5 @@ Oak Town Corporate Services is a small-to-medium business in one building with t
 - **Client:** Windows 11 joined to the domain
 - **Networking:** Hyper-V virtual switches, static IP on the server
 - **Test environment:** cloned production server on an internal virtual switch
+
+## What I Built
